@@ -35,6 +35,7 @@
     src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:00ffea,100:ff00ff&text=TECH%20CORE&fontColor=ffffff&fontSize=28"
   />
 </p>
+
 🧠 Languages  :: Python | C++ | Kotlin | SQL
 
 🤖 AI Core    :: GenAI | RAG | Agentic AI
@@ -50,6 +51,7 @@
     src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:7f5cff,100:00fff0&text=ACTIVE%20MODULES&fontColor=ffffff&fontSize=28"
   />
 </p>
+
 + GameRise       :: Esports career & analytics OS
 
 + Bruno 2.0      :: GenAI voice + code assistant
