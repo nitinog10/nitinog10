@@ -53,11 +53,11 @@
 + GameRise       :: Esports career & analytics OS
 
 + Bruno 2.0      :: GenAI voice + code assistant
-+ 
+
 + UrbanMindAI    :: Smart city simulation AI
-+ 
+
 + MindMapBhopal  :: AI town planning simulator
-+ 
+
 + ReWear         :: Sustainability exchange platform
 
 <p align="center">
