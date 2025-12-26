@@ -39,22 +39,6 @@ AI devloper with expertise in GEN ai,MCP servers,RAG and machine learning models
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:00ffea,100:ff00ff&text=TECH%20CORE&fontColor=ffffff&fontSize=28"
-  />
-</p>
-
-🧠 Languages  :: Python | C++ | Kotlin | SQL
-
-🤖 AI Core    :: GenAI | RAG | Agentic AI
-
-👁️ Vision    :: CV | DL | RL
-
-🧩 Infra     :: MCP | Vector DBs | Firebase | GCP
-
-🛠️ Tools     :: Git | GitHub | Cursor | Replit | Google AI Studio
-
-<p align="center">
-  <img 
     src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:7f5cff,100:00fff0&text=ACTIVE%20MODULES&fontColor=ffffff&fontSize=28"
   />
 </p>
@@ -69,11 +53,3 @@ AI devloper with expertise in GEN ai,MCP servers,RAG and machine learning models
 
 + ReWear         :: Sustainability exchange platform
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:00fff0,100:7f5cff&text=NETWORK%20INTERFACE&fontColor=ffffff&fontSize=26"
-  />
-</p>
-🔗 LinkedIn :: linkedin.com/in/nitin-kumar-mishra
-
-💻 GitHub   :: github.com/nitinog10
