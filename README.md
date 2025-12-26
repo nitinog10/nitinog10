@@ -17,30 +17,36 @@ GENAI ENGINEER • SYSTEM ARCHITECT • POLYMATH
 ---
 
 ## 🧠 NEURAL ID
-```bash
-> user        : nitin.exe
-> role        : genai_architect
-> mode        : cyberpunk
-> focus       : intelligent systems
-> status      : always learning
-╔══════════════════════════════════╗
-║ Languages  :: Python | C++ | Kotlin | SQL
-║ AI Core    :: GenAI | RAG | Agentic AI | CV | DL | RL
-║ Infra      :: MCP | Vector DBs | Firebase | GCP
-║ Tools      :: Git | GitHub | Cursor | Replit | Google AI Studio
-╚══════════════════════════════════╝
-+ GameRise        :: Esports career & analytics OS
-+ Bruno 2.0       :: GenAI voice + code assistant
-+ UrbanMindAI     :: Smart city simulation AI
-+ MindMapBhopal   :: AI town planning & impact simulator
-+ ReWear          :: Community-driven sustainability platform
-
-- NASA Space Apps Challenge: Top 5 (MANIT)
-- National Level Ideathon: Winner
-- Hackathons: Finalist in 9+, Winner in 2
-- Built multiple production-grade AI agents
-
-LinkedIn :: https://linkedin.com/in/nitin-kumar-mishra-520615331
-GitHub   :: https://github.com/nitinog10
-
+┌─ SYSTEM IDENTIFICATION ───────────────────────────────┐
+│ 👤 user        :: nitin.exe                            │
+│ 🧬 role        :: genai_architect                      │
+│ 🌐 mode        :: cyberpunk                            │
+│ 🎯 focus       :: intelligent systems                 │
+│ ⚡ status      :: always learning                     │
+└───────────────────────────────────────────────────────┘
+┌─ TECH CORE ───────────────────────────────────────────┐
+│ 🧠 Languages  :: Python | C++ | Kotlin | SQL            │
+│ 🤖 AI Core    :: GenAI | RAG | Agentic AI               │
+│ 👁️ Vision     :: CV | DL | RL                          │
+│ 🧩 Infra      :: MCP | Vector DBs | Firebase | GCP      │
+│ 🛠️ Tools      :: Git | GitHub | Cursor | Replit         │
+│               :: Google AI Studio                      │
+└───────────────────────────────────────────────────────┘
+┌─ ACTIVE MODULES ──────────────────────────────────────┐
+│ + GameRise       :: Esports career & analytics OS      │
+│ + Bruno 2.0      :: GenAI voice + code assistant       │
+│ + UrbanMindAI    :: Smart city simulation AI           │
+│ + MindMapBhopal  :: AI town planning simulator         │
+│ + ReWear         :: Sustainability exchange platform   │
+└───────────────────────────────────────────────────────┘
+┌─ ACHIEVEMENT LOGS ────────────────────────────────────┐
+│ 🏆 NASA Space Apps Challenge :: Top 5 (MANIT)          │
+│ 🥇 National Level Ideathon   :: Winner                 │
+│ ⚔️ Hackathons                :: Finalist 9+ | Win 2    │
+│ 🤖 Built multiple production-grade AI agents          │
+└───────────────────────────────────────────────────────┘
+┌─ NETWORK INTERFACE ───────────────────────────────────┐
+│ 🔗 LinkedIn :: linkedin.com/in/nitin-kumar-mishra      │
+│ 💻 GitHub   :: github.com/nitinog10                    │
+└───────────────────────────────────────────────────────┘
 
