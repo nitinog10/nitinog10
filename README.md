@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 NEURAL ID
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:00fff0,50:7f5cff,100:ff00cc&text=SYSTEM%20IDENTIFICATION&fontColor=ffffff&fontSize=32&animation=fadeIn"
@@ -36,9 +36,13 @@
   />
 </p>
 🧠 Languages  :: Python | C++ | Kotlin | SQL
+
 🤖 AI Core    :: GenAI | RAG | Agentic AI
+
 👁️ Vision    :: CV | DL | RL
+
 🧩 Infra     :: MCP | Vector DBs | Firebase | GCP
+
 🛠️ Tools     :: Git | GitHub | Cursor | Replit | Google AI Studio
 
 <p align="center">
@@ -47,9 +51,13 @@
   />
 </p>
 + GameRise       :: Esports career & analytics OS
+
 + Bruno 2.0      :: GenAI voice + code assistant
++ 
 + UrbanMindAI    :: Smart city simulation AI
++ 
 + MindMapBhopal  :: AI town planning simulator
++ 
 + ReWear         :: Sustainability exchange platform
 
 <p align="center">
@@ -58,4 +66,5 @@
   />
 </p>
 🔗 LinkedIn :: linkedin.com/in/nitin-kumar-mishra
+
 💻 GitHub   :: github.com/nitinog10
