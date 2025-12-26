@@ -16,51 +16,43 @@
 ---
 
 ## 🧠 NEURAL ID
-```bash
-┌─ SYSTEM IDENTIFICATION ───────────────────────────────┐
-│ 👤 user        :: nitin.exe                            │
-│ 🧬 role        :: genai_architect                      │
-│ 🌐 mode        :: cyberpunk                            │
-│ 🎯 focus       :: intelligent systems                 │
-│ ⚡ status      :: always learning                     │
-└───────────────────────────────────────────────────────┘
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:00fff0,50:7f5cff,100:ff00cc&text=SYSTEM%20IDENTIFICATION&fontColor=ffffff&fontSize=32&animation=fadeIn"
+  />
+</p>
 
+👤 user        :: nitin.exe
+🧬 role        :: genai_architect
+🎯 focus       :: intelligent systems
+⚡ status      :: always learning
 
-## 🧠 NEURAL ID
-┌─ SYSTEM IDENTIFICATION ───────────────────────────────┐
-│ 👤 user        :: nitin.exe                            │
-│ 🧬 role        :: genai_architect                      │
-│ 🌐 mode        :: cyberpunk                            │
-│ 🎯 focus       :: intelligent systems                 │
-│ ⚡ status      :: always learning                     │
-└───────────────────────────────────────────────────────┘
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:00ffea,100:ff00ff&text=TECH%20CORE&fontColor=ffffff&fontSize=28"
+  />
+</p>
+🧠 Languages  :: Python | C++ | Kotlin | SQL
+🤖 AI Core    :: GenAI | RAG | Agentic AI
+👁️ Vision    :: CV | DL | RL
+🧩 Infra     :: MCP | Vector DBs | Firebase | GCP
+🛠️ Tools     :: Git | GitHub | Cursor | Replit | Google AI Studio
 
-┌─ TECH CORE ───────────────────────────────────────────┐
-│ 🧠 Languages  :: Python | C++ | Kotlin | SQL            │
-│ 🤖 AI Core    :: GenAI | RAG | Agentic AI               │
-│ 👁️ Vision     :: CV | DL | RL                          │
-│ 🧩 Infra      :: MCP | Vector DBs | Firebase | GCP      │
-│ 🛠️ Tools      :: Git | GitHub | Cursor | Replit         │
-│               :: Google AI Studio                      │
-└───────────────────────────────────────────────────────┘
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:7f5cff,100:00fff0&text=ACTIVE%20MODULES&fontColor=ffffff&fontSize=28"
+  />
+</p>
++ GameRise       :: Esports career & analytics OS
++ Bruno 2.0      :: GenAI voice + code assistant
++ UrbanMindAI    :: Smart city simulation AI
++ MindMapBhopal  :: AI town planning simulator
++ ReWear         :: Sustainability exchange platform
 
-┌─ ACTIVE MODULES ──────────────────────────────────────┐
-│ + GameRise       :: Esports career & analytics OS      │
-│ + Bruno 2.0      :: GenAI voice + code assistant       │
-│ + UrbanMindAI    :: Smart city simulation AI           │
-│ + MindMapBhopal  :: AI town planning simulator         │
-│ + ReWear         :: Sustainability exchange platform   │
-└───────────────────────────────────────────────────────┘
-
-┌─ ACHIEVEMENT LOGS ────────────────────────────────────┐
-│ 🏆 NASA Space Apps Challenge :: Top 5 (MANIT)          │
-│ 🥇 National Level Ideathon   :: Winner                 │
-│ ⚔️ Hackathons                :: Finalist 9+ | Win 2    │
-│ 🤖 Built multiple production-grade AI agents          │
-└───────────────────────────────────────────────────────┘
-
-┌─ NETWORK INTERFACE ───────────────────────────────────┐
-│ 🔗 LinkedIn :: linkedin.com/in/nitin-kumar-mishra      │
-│ 💻 GitHub   :: github.com/nitinog10                    │
-└───────────────────────────────────────────────────────┘
-
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:00fff0,100:7f5cff&text=NETWORK%20INTERFACE&fontColor=ffffff&fontSize=26"
+  />
+</p>
+🔗 LinkedIn :: linkedin.com/in/nitin-kumar-mishra
+💻 GitHub   :: github.com/nitinog10
