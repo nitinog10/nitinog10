@@ -1,20 +1,37 @@
 ## Hi there 👋
-<h1 align="center">
-⚡ <span style="color:#00FFF0">N</span><span style="color:#FF00FF">i</span><span style="color:#00FF00">t</span><span style="color:#FFEA00">i</span><span style="color:#FF0055">n</span> 
-<span style="color:#00FFF0">K</span><span style="color:#FF00FF">u</span><span style="color:#00FF00">m</span><span style="color:#FFEA00">a</span><span style="color:#FF0055">r</span> 
-<span style="color:#00FFF0">M</span><span style="color:#FF00FF">i</span><span style="color:#00FF00">s</span><span style="color:#FFEA00">h</span><span style="color:#FF0055">r</span><span style="color:#00FFF0">a</span>
-⚡
-</h1>
-
-<h3 align="center" style="color:#00FFCC">
-GENAI ENGINEER • SYSTEM ARCHITECT • POLYMATH
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:ff00ff&height=220&section=header&text=SYSTEM%20BOOTING...&fontColor=00ffea&fontSize=40&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFF0&center=true&vCenter=true&lines=Cyberpunk+AI+Engineer;GenAI+%7C+Agentic+AI+%7C+RAG;Hackathon+Winner+%26+Finalist;Building+Future-Ready+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFF0&center=true&vCenter=true&size=22&lines=nitin.exe+initialized;GenAI+Architect+Online;Agentic+AI+%7C+RAG+%7C+Systems;Cyberpunk+Mode:+ACTIVE" />
 </p>
 
 ---
+
+<pre align="center">
+███╗   ██╗██╗████████╗██╗███╗   ██╗
+████╗  ██║██║╚══██╔══╝██║████╗  ██║
+██╔██╗ ██║██║   ██║   ██║██╔██╗ ██║
+██║╚██╗██║██║   ██║   ██║██║╚██╗██║
+██║ ╚████║██║   ██║   ██║██║ ╚████║
+╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝
+
+        N I T I N   K U M A R   M I S H R A
+</pre>
+
+---
+
+## 🧠 NEURAL ID
+```bash
+┌─ SYSTEM IDENTIFICATION ───────────────────────────────┐
+│ 👤 user        :: nitin.exe                            │
+│ 🧬 role        :: genai_architect                      │
+│ 🌐 mode        :: cyberpunk                            │
+│ 🎯 focus       :: intelligent systems                 │
+│ ⚡ status      :: always learning                     │
+└───────────────────────────────────────────────────────┘
+
 
 ## 🧠 NEURAL ID
 ┌─ SYSTEM IDENTIFICATION ───────────────────────────────┐
