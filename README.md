@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:ff00ff&height=220&section=header&text=SYSTEM%20BOOTING...&fontColor=00ffea&fontSize=40&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:ff00ff&height=220&section=header&text=SYNTHETIC%20INTELLIGENCE%20ONLINE&fontColor=00ffea&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
