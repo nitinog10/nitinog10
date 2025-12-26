@@ -10,14 +10,7 @@
 ---
 
 <pre align="center">
-███╗   ██╗██╗████████╗██╗███╗   ██╗
-████╗  ██║██║╚══██╔══╝██║████╗  ██║
-██╔██╗ ██║██║   ██║   ██║██╔██╗ ██║
-██║╚██╗██║██║   ██║   ██║██║╚██╗██║
-██║ ╚████║██║   ██║   ██║██║ ╚████║
-╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝
-
-        N I T I N   K U M A R   M I S H R A
+  N I T I N   K U M A R   M I S H R A
 </pre>
 
 ---
@@ -65,6 +58,9 @@
 │ ⚔️ Hackathons                :: Finalist 9+ | Win 2    │
 │ 🤖 Built multiple production-grade AI agents          │
 └───────────────────────────────────────────────────────┘
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&theme=radical&hide_border=true" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg" /> </p>
 
 ┌─ NETWORK INTERFACE ───────────────────────────────────┐
 │ 🔗 LinkedIn :: linkedin.com/in/nitin-kumar-mishra      │
