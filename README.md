@@ -23,8 +23,11 @@
 </p>
 
 👤 user        :: nitin.exe
+
 🧬 role        :: genai_architect
+
 🎯 focus       :: intelligent systems
+
 ⚡ status      :: always learning
 
 <p align="center">
