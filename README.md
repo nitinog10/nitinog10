@@ -59,9 +59,6 @@
 │ 🤖 Built multiple production-grade AI agents          │
 └───────────────────────────────────────────────────────┘
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&theme=radical&hide_border=true" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg" /> </p>
-
 ┌─ NETWORK INTERFACE ───────────────────────────────────┐
 │ 🔗 LinkedIn :: linkedin.com/in/nitin-kumar-mishra      │
 │ 💻 GitHub   :: github.com/nitinog10                    │
