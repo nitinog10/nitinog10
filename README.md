@@ -23,33 +23,5 @@ AI devloper with expertise in GEN ai,MCP servers,RAG and machine learning models
 
 <a href="http://www.github.com/nitinog10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&stroke=ffffff&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:00fff0,50:7f5cff,100:ff00cc&text=SYSTEM%20IDENTIFICATION&fontColor=ffffff&fontSize=32&animation=fadeIn"
-  />
-</p>
 
-👤 user        :: nitin.exe
-
-🧬 role        :: genai_architect
-
-🎯 focus       :: intelligent systems
-
-⚡ status      :: always learning
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:7f5cff,100:00fff0&text=ACTIVE%20MODULES&fontColor=ffffff&fontSize=28"
-  />
-</p>
-
-+ GameRise       :: Esports career & analytics OS
-
-+ Bruno 2.0      :: GenAI voice + code assistant
-
-+ UrbanMindAI    :: Smart city simulation AI
-
-+ MindMapBhopal  :: AI town planning simulator
-
-+ ReWear         :: Sustainability exchange platform
 
