@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 GenAI Architect
 ---------------
 
-AI devloper with expertise in GEN ai,MCP servers,RAG and machine learning models.
+AI devloper with expertise in GEN ai,MCP servers,RAG pipeline and machine learning models.
 
 * 🌍  I'm based in Bhopal, Madhya Pradesh, India
 * 🖥️  See my portfolio at [My portfolio](http://my-portfolio-nitinog10s-projects.vercel.app)
