@@ -24,30 +24,81 @@
 
 ## 🚀 About Me
 
-```typescript
-const nitin = {
-    location: "Bhopal, Madhya Pradesh, India 🇮🇳",
-    title: "GenAI Architect & Full-Stack AI Developer",
-    currentFocus: "Open Computer Vision & Advanced RAG Systems",
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```python
+class NitinMishra:
+    def __init__(self):
+        self.name = "Nitin Mishra"
+        self.role = "GenAI Architect"
+        self.location = "🇮🇳 Bhopal, India"
+        self.workstation = "💻 Building AI Dreams"
+        
+    def current_focus(self):
+        return {
+            "🎯": "Open Computer Vision",
+            "🔥": "Advanced RAG Systems",
+            "🚀": "Production AI at Scale"
+        }
     
-    expertise: {
-        ai_ml: ["Generative AI", "RAG Pipelines", "Computer Vision", "NLP", "Model Fine-tuning"],
-        architecture: ["MCP Servers", "Microservices", "Scalable AI Systems", "Cloud Native"],
-        development: ["Full-Stack", "API Design", "Real-time Systems", "Production AI"]
-    },
+    def daily_workflow(self):
+        return [
+            "☕ Coffee + Code",
+            "🤖 Train Models",
+            "🏗️ Build Systems",
+            "📚 Learn & Share",
+            "✨ Ship to Prod"
+        ]
     
-    passions: [
-        "🤖 Creating intelligent agents that solve real-world problems",
-        "🧠 Pushing boundaries of what's possible with AI",
-        "🏗️ Building production-ready, scalable systems",
-        "🌱 Continuous learning and knowledge sharing"
-    ],
-    
-    collaboration: "Always open to impactful and innovative projects!",
-    
-    lifePhilosophy: "The best way to predict the future is to build it with AI ✨"
-};
+    def life_motto(self):
+        return "The best way to predict " + \
+               "the future is to build it!"
 ```
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Quick Facts
+
+```yaml
+🏢 Role: GenAI Architect & AI Developer
+🌍 Based: Bhopal, Madhya Pradesh, India
+🎓 Expertise: AI/ML, Full-Stack, Cloud
+🔭 Current: Computer Vision Mastery
+🌱 Learning: Advanced CV Techniques
+💼 Open To: Impactful Collaborations
+⚡ Fun Fact: AI + Creativity = Magic
+```
+
+### 💫 Core Passions
+
+```diff
++ 🤖 Building intelligent agents
++ 🧠 Pushing AI boundaries  
++ 🏗️ Crafting scalable systems
++ 🌱 Sharing knowledge
++ 🌍 Creating real impact
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 🌟 My Philosophy
+
+> *"In the intersection of **creativity** and **code**, I build AI systems that don't just work—they **inspire**."*
+
+**💡 Innovation • 🔧 Execution • 🚀 Impact**
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -90,7 +141,7 @@ ML_Engineering:
 </td>
 <td width="50%" valign="top">
 
-### 💻 Web-Arsenal
+### 💻 Full-Stack Arsenal
 ```yaml
 Frontend:
   - React.js & Next.js (SSR, SSG)
@@ -180,14 +231,37 @@ Infrastructure:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 ## 📊 GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&theme=shadow_blue&hide_border=true&rank_icon=github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&theme=shadow_blue&hide_border=true" />
 
-## 📈 Contribution Activity
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&theme=github-dark&hide_border=true" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nitinog10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact" />
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&custom_title=Nitin's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitinog10&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🔥 Contribution Stats
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nitinog10&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos" width="70%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Current Mission
 
@@ -303,15 +377,16 @@ const expertise = {
 
 <br>
 
+### 🎵 Vibing To
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4p4e3yrzl5vjxmga2u3ex2rwa&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=f85d7f)](https://github.com/kittinan/spotify-github-profile)
+
+<br>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=70&animation=twinkling" width="100%"/>
 
 **✨ "Building tomorrow's AI, today" ✨**
-
-</div>
-
-**⭐ From [nitinog10](https://github.com/nitinog10) with 💙**
 
 </div>
