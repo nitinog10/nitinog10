@@ -180,14 +180,14 @@ Infrastructure:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 ## 📊 GitHub Statistics
-
-![](https://streak-stats.demolab.com?user=nitinog10&theme=shadow_blue&hide_border=true)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&theme=shadow_blue&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&theme=shadow_blue&hide_border=true" />
 
 ## 🔥 Contribution Stats
-![](https://streak-stats.demolab.com?user=nitinog10&theme=shadow_blue&hide_border=true)
+
+<img src="https://streak-stats.demolab.com?user=nitinog10&theme=shadow_blue&hide_border=true" />
 
 ## 🎯 Current Mission
 
