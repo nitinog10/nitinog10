@@ -133,7 +133,9 @@ class NitinMishra:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nitinog10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitinog10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophy" />
+</a>
 
 </div>
 
@@ -143,7 +145,9 @@ class NitinMishra:
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=nitinog10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<a href="https://github.com/nitinog10">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nitinog10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</a>
 
 </div>
 
@@ -151,18 +155,21 @@ class NitinMishra:
 
 ## 🎯 Current Focus
 
+<div align="center">
+
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#1a1b27','primaryTextColor':'#c0caf5','primaryBorderColor':'#7aa2f7','lineColor':'#bb9af7','secondaryColor':'#292e42','tertiaryColor':'#24283b','background':'#1a1b27','mainBkg':'#1a1b27','secondBkg':'#292e42','textColor':'#c0caf5','fontSize':'16px'}}}%%
 mindmap
-  root((Nitin's<br/>Tech Journey))
+  root((Nitin's Tech Journey))
     AI & ML
       Generative AI
       RAG Pipelines
       Computer Vision
       Model Deployment
-    Full-Stack
+    Full Stack
       MCP Servers
-      React/Next.js
-      FastAPI/Django
+      React Next.js
+      FastAPI Django
       Cloud Architecture
     Learning
       Open Computer Vision
@@ -173,6 +180,8 @@ mindmap
       Impactful Projects
       Community Building
 ```
+
+</div>
 
 ---
 
