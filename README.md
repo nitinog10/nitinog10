@@ -197,20 +197,12 @@ Infrastructure:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nitinog10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitinog10&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔥 Contribution Stats
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nitinog10&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos" width="70%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![](https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&theme=shadow_blue&hide_border=true)
 
 ## 🎯 Current Mission
 
@@ -326,11 +318,6 @@ const expertise = {
 
 <br>
 
-### 🎵 Vibing To
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4p4e3yrzl5vjxmga2u3ex2rwa&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=f85d7f)](https://github.com/kittinan/spotify-github-profile)
-
-<br>
 
 ---
 
