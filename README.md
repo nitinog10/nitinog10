@@ -90,7 +90,7 @@ ML_Engineering:
 </td>
 <td width="50%" valign="top">
 
-### 💻 Full-Stack Arsenal
+### 💻 Web-Arsenal
 ```yaml
 Frontend:
   - React.js & Next.js (SSR, SSG)
@@ -182,17 +182,7 @@ Infrastructure:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=10" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nitinog10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact" />
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&custom_title=Nitin's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="100%"/>
+![](https://streak-stats.demolab.com?user=nitinog10&theme=shadow_blue&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -201,8 +191,7 @@ Infrastructure:
 
 
 ## 🔥 Contribution Stats
-
-![](https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&theme=shadow_blue&hide_border=true)
+![](https://streak-stats.demolab.com?user=nitinog10&theme=shadow_blue&hide_border=true)
 
 ## 🎯 Current Mission
 
