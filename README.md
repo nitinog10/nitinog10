@@ -1,100 +1,215 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+# 🌟 Nitin Mishra
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
-</p>
+<div align="center">
 
-<h1 align="center">My name is Nitin Mishra</h1>
+### GenAI Architect • AI Developer • Full-Stack Engineer
 
-<h3 align="center">GenAI Architect • AI Developer • Full-Stack Engineer</h3>
+*Building the future with AI, one model at a time* 🚀
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge)](http://my-portfolio-nitinog10s-projects.vercel.app)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:nitiniszod10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nitinn10_)
 
-## 🚀 About Me
+📍 Bhopal, Madhya Pradesh, India
 
-AI Developer with strong expertise in **Generative AI**, **MCP Servers**, **RAG Pipelines**, and **Machine Learning Models**.  
-I enjoy building scalable AI systems, intelligent agents, and production-ready platforms.
-
-- 🌍 Based in **Bhopal, Madhya Pradesh, India**
-- 🖥️ Portfolio: [My Portfolio](http://my-portfolio-nitinog10s-projects.vercel.app)
-- ✉️ Email: [nitiniszod10@gmail.com](mailto:nitiniszod10@gmail.com)
-- 🧠 Currently learning **Open Computer Vision**
-- 👥 Open to collaborate on **interesting & impactful projects**
+</div>
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🎯 What I Do
 
-### 🚀 Languages & Core
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=plastic&logo=three.js&logoColor=white)
-
-### 🧠 AI / ML / GenAI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=plastic&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white)
-
-### ⚙ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
-
-### ☁ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
+```python
+class NitinMishra:
+    def __init__(self):
+        self.role = "GenAI Architect & AI Developer"
+        self.location = "Bhopal, India 🇮🇳"
+        self.current_focus = "Open Computer Vision"
+        self.collaboration = "Open to impactful projects"
+        
+    def get_expertise(self):
+        return {
+            "ai_ml": ["Generative AI", "RAG Pipelines", "ML Models", "Computer Vision"],
+            "development": ["MCP Servers", "Full-Stack", "Scalable Systems"],
+            "specialties": ["Intelligent Agents", "Production AI Platforms"]
+        }
+    
+    def daily_routine(self):
+        activities = [
+            "☕ Coffee",
+            "💡 Innovate with AI",
+            "🔧 Build scalable systems",
+            "📚 Learn something new",
+            "🚀 Ship to production"
+        ]
+        return " → ".join(activities)
+```
 
 ---
 
-## 🌐 Socials
+## 💼 Tech Arsenal
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitinn10_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitiniszod10@gmail.com)
+<details open>
+<summary><b>🧠 AI/ML/GenAI Stack</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Specialized In:** RAG Pipelines • MCP Servers • Generative AI • Model Training & Deployment
+
+</details>
+
+<details>
+<summary><b>🚀 Languages & Core</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend & UI</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=nitinog10&theme=shadow_blue&hide_border=false&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=nitinog10&theme=shadow_blue&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&theme=shadow_blue&hide_border=false&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nitinog10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=nitinog10&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&theme=tokyo-night&hide_border=true&area=true" width="48%" />
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
-![](https://github-profile-trophy.vercel.app/?username=nitinog10&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nitinog10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 🔥 Top Contributed Repos
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nitinog10&icon=4&color=1" />
-</p>
+<div align="center">
 
-<!-- Proudly crafted by Nitin Mishra -->
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=nitinog10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Nitin's<br/>Tech Journey))
+    AI & ML
+      Generative AI
+      RAG Pipelines
+      Computer Vision
+      Model Deployment
+    Full-Stack
+      MCP Servers
+      React/Next.js
+      FastAPI/Django
+      Cloud Architecture
+    Learning
+      Open Computer Vision
+      Advanced ML Techniques
+      System Design
+    Collaboration
+      Open Source
+      Impactful Projects
+      Community Building
+```
+
+---
+
+## 💡 Fun Facts
+
+- 🎯 Specialized in building **production-ready AI systems**
+- 🤖 Passionate about creating **intelligent agents** that solve real problems
+- 🌱 Currently diving deep into **Open Computer Vision**
+- 🚀 Always excited about **scalable architectures** and **clean code**
+- 💬 Ask me about **GenAI, RAG Pipelines, or building MCP Servers**
+- ⚡ Fun fact: I believe the best AI is the one that makes humans more creative!
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**Open to collaborating on interesting & impactful projects!**
+
+Whether it's AI innovation, full-stack development, or building the next big thing – let's make it happen! 🚀
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](http://my-portfolio-nitinog10s-projects.vercel.app)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitiniszod10@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+*"The best way to predict the future is to build it with AI"* ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=nitinog10&color=blueviolet&style=for-the-badge)
+
+**⭐ From [nitinog10](https://github.com/nitinog10) with 💙**
+
+</div>
