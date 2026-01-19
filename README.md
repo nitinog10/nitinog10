@@ -186,10 +186,6 @@ Infrastructure:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nitinog10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
-
-
 ## 🔥 Contribution Stats
 ![](https://streak-stats.demolab.com?user=nitinog10&theme=shadow_blue&hide_border=true)
 
