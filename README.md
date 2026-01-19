@@ -205,18 +205,7 @@ Deploying scalable
 </td>
 </tr>
 </table>
-
 </div>
-
-### 🌟 What Drives Me
-
-- 💡 **Innovation First**: Always exploring cutting-edge AI technologies
-- 🏗️ **Quality Code**: Writing clean, maintainable, and scalable solutions
-- 🤝 **Collaboration**: Open to working on impactful projects that make a difference
-- 📚 **Continuous Learning**: Staying ahead in the rapidly evolving AI landscape
-- 🌍 **Real Impact**: Building AI systems that solve real-world problems
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 What's on next
 
