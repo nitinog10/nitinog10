@@ -81,7 +81,6 @@ ML_Engineering:
 ```yaml
 Frontend:
   - React.js & Next.js
-  - Vue.js & Angular
   - Three.js (3D Graphics)
   - TailwindCSS & Modern UI/UX
   
