@@ -86,11 +86,11 @@ I enjoy building scalable AI systems, intelligent agents, and production-ready p
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=nitinog10&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=nitinog10&icon=4&color=1" />
