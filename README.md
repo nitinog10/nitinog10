@@ -13,7 +13,7 @@
 
 ### 🌟 Building the Future with AI • One Model at a Time
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)]((https://nitinn10.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://nitinn10.netlify.app/)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitiniszod10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nitinn10_)
@@ -227,7 +227,7 @@ const expertise = {
 
 <br>
 
-<a href="http://my-portfolio-nitinog10s-projects.vercel.app">
+<a href="https://nitinn10.netlify.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-4A90E2?style=for-the-badge&logoColor=white" />
 </a>
 
