@@ -160,17 +160,6 @@ AWS · GCP · Azure
 
 <br>
 
-## 📊 `$ git log --stat`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&theme=dark&background=0d1117&border=00ffe530&ring=00ffe5&fire=00ffe5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffe5&sideLabels=555555&dates=555555" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=0d1117&border_color=00ffe530&title_color=00ffe5&text_color=c9d1d9&langs_count=6" width="38%"/>
-
-</div>
-
-<br>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=0d1117&color=00ffe5&line=00ffe560&point=00ffe5&area=true&area_color=00ffe508&border_color=00ffe530" width="97%"/>
 </div>
