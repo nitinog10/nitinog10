@@ -24,7 +24,7 @@
 
 I'm a **GenAI Architect & AI Developer** who builds intelligent systems that actually ship.
 
-Currently co-founding **[Bug Biceps](https://bugbiceps.in)** — an AI-driven platform — while gaining deep industry exposure as an **intern at [Entop Learning](https://entoplearning.com)**, where I work on real-world ML and educational tech.
+co-founder of **[Bug Biceps](https://bugbiceps.in)** **intern at [Entop Learning](https://entoplearning.com)**, where I work on real-world ML and educational tech.
 
 My work spans three layers:
 
