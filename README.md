@@ -18,23 +18,21 @@
 
 <br>
 
-## 👾 `$ whoami`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> `$ whoami`
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=0d1117&border_color=00ffe530&title_color=00ffe5&icon_color=00ffe5&text_color=c9d1d9&hide_border=false&count_private=true&rank_icon=github" />
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=0d1117&border_color=00ffe530&title_color=00ffe5&icon_color=00ffe5&text_color=c9d1d9&hide_border=false&count_private=true&rank_icon=github&card_width=400" />
 
-I'm a **GenAI Architect & AI Developer** who builds intelligent systems that actually ship.
+I'm a **GenAI Architect & AI Developer** who builds intelligent systems that actually *ship*.
 
-co-founder of **[Bug Biceps](https://bugbiceps.in)** **intern at [Entop Learning](https://entoplearning.com)**, where I work on AI and educational tech.
+Co-founding **[Bug Biceps](https://bugbiceps.in)** — an AI-first product studio — while working as an **intern at [Entop Learning](https://entoplearning.com)**, building real-world ML systems for education.
 
-My work spans three layers:
+> 🧠 **AI/ML** — RAG pipelines, LLM orchestration, agent systems, fine-tuning
+>
+> 👁️ **Vision** — Object detection, segmentation, real-time OpenCV inference
+>
+> 🌐 **Full-Stack** — End-to-end AI products, APIs, scalable cloud infra
 
-> 🧠 **AI/ML** — RAG pipelines, LLM orchestration, agent systems, fine-tuning  
-> 👁️ **Vision** — Object detection, segmentation, real-time inference with OpenCV  
-> 🌐 **Full-Stack** — End-to-end AI products, APIs, scalable cloud infrastructure
-
-Currently going deep on **Advanced Computer Vision** and **agentic AI with MCP Servers**.
-
-<br><br>
+Currently deep in **Advanced Computer Vision** and **MCP-based agentic AI**.<br>
 
 ---
 
