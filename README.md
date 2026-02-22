@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://nitinn10.netlify.app/)&nbsp;[![Email](https://img.shields.io/badge/◈_EMAIL-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](mailto:nitiniszod10@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://linkedin.com/in/nitin-kumar-mishra-520615331)&nbsp;[![Instagram](https://img.shields.io/badge/◈_INSTAGRAM-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://instagram.com/nitinn10_)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://nitinn.dev/)&nbsp;[![Email](https://img.shields.io/badge/◈_EMAIL-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](mailto:nitiniszod10@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://linkedin.com/in/nitin-kumar-mishra-520615331)&nbsp;[![Instagram](https://img.shields.io/badge/◈_INSTAGRAM-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://instagram.com/nitinn10_)
 
 </div>
 
