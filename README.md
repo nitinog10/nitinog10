@@ -181,31 +181,6 @@ AWS · GCP · Azure
 
 <br>
 
----
-
-<br>
-
-## 🤝 `$ cat ./collaborate/open_roles.md`
-
-<br>
-
-<div align="center">
-
-| 🔬 Domain | 💡 What I Bring |
-|-----------|----------------|
-| 🤖 AI Product Development | Full-stack AI products, RAG architecture, LLM agents |
-| 👁️ Computer Vision | Detection, segmentation, real-time vision systems |
-| 🛠️ Open Source | AI tooling at the intersection of dev experience & ML |
-| 🚀 Early-Stage Startups | Turning ideas into scalable, intelligent systems |
-
-</div>
-
-<br>
-
----
-
-<br>
-
 <div align="center">
 
 ```
