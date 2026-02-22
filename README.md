@@ -261,8 +261,12 @@ const expertise = {
 
 </div>
 ## Hey 👋, This is Nitin k Mishra
+
 [![Gmail Badge](https://img.shields.io/badge/-nitiniszod10@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nitiniszod10@gmail.com)](mailto:nitiniszod10@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-nitinkumar-mishra-520615331-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitinkumar-mishra-520615331/)](https://www.linkedin.com/in/nitinkumar-mishra-520615331/) [![Github Badge](https://img.shields.io/badge/-nitinog10-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nitinog10/)](https://www.github.com/nitinog10/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=nitinn.dev/)](nitinn.dev/) <p align='left'>Hi ! I am Nitin Co-founder of @bugbiceps.in
+
+[![Linkedin Badge](https://img.shields.io/badge/-nitinkumar-mishra-520615331-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitinkumar-mishra-520615331/)](https://www.linkedin.com/in/nitinkumar-mishra-520615331/) [![Github Badge](https://img.shields.io/badge/-nitinog10-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nitinog10/)](https://www.github.com/nitinog10/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=nitinn.dev/)](nitinn.dev/) <p align='left'>
+
+Hi ! I am Nitin Co-founder of @bugbiceps.in
 currently working as an intern at @entoplearning.com
 Serving as Head Alumni at SAC,OIST
 A GenAI Architect building real world projects which can create an impact</p>
