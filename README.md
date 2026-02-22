@@ -275,8 +275,3 @@ AWS · GCP · Azure
 &nbsp;&nbsp;
 ![Stars](https://img.shields.io/github/stars/nitinog10?label=Stars&style=flat-square&color=00ffe5&labelColor=0d1117)
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:001a17&height=90&section=footer" width="100%"/>
-
-</div>
