@@ -1,85 +1,66 @@
 <div align="center">
 
-<br>
-
-<!-- ══════════════════ HERO ══════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:0a1a0d&height=200&section=header&text=NITIN%20MISHRA&fontSize=72&fontColor=ffffff&fontAlignY=55&desc=GenAI%20Architect%20·%20Computer%20Vision%20·%20Full-Stack%20AI&descSize=15&descAlignY=78&descColor=00ffe5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=220&section=header&text=NITIN%20MISHRA&fontSize=80&fontColor=00ffe5&fontAlignY=55&animation=fadeIn&stroke=00ffe580&strokeWidth=1&desc=GenAI%20Architect%20%20·%20%20Computer%20Vision%20%20·%20%20Full-Stack%20AI%20Developer&descAlignY=78&descSize=15&descColor=666666" width="100%"/>
 
 <br>
 
-<!-- ONE CLEAN ANIMATED LINE — just one, doing its job perfectly -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=00FFE5&center=true&vCenter=true&width=640&height=32&lines=🚀+Co-Founder+%40+bugbiceps.in+·+🎓+AI+Intern+%40+entoplearning.com" />
+### Co-founder @ [bugbiceps.in](https://bugbiceps.in) &nbsp;·&nbsp; Intern @ [entoplearning](https://entoplearning.com) &nbsp;·&nbsp; Based in Bhopal, India 🇮🇳
 
 <br>
 
-<!-- LINKS — clean, consistent -->
-<a href="https://nitinn10.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=00ffe5"/>
-</a>
-&nbsp;
-<a href="mailto:nitiniszod10@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=00ffe5"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/nitin-kumar-mishra-520615331">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00ffe5"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/nitinn10_">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=00ffe5"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/📍_Bhopal,_India-000000?style=flat-square&logoColor=ffffff"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=nitinog10&color=00ffe5&style=flat-square&label=views"/>
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://nitinn10.netlify.app/)&nbsp;[![Email](https://img.shields.io/badge/◈_EMAIL-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](mailto:nitiniszod10@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://linkedin.com/in/nitin-kumar-mishra-520615331)&nbsp;[![Instagram](https://img.shields.io/badge/◈_INSTAGRAM-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://instagram.com/nitinn10_)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 👾 `$ whoami`
+
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=0d1117&border_color=00ffe530&title_color=00ffe5&icon_color=00ffe5&text_color=c9d1d9&hide_border=false&count_private=true&rank_icon=github" />
+
+I'm a **GenAI Architect & AI Developer** who builds intelligent systems that actually ship.
+
+co-founder of **[Bug Biceps](https://bugbiceps.in)** **intern at [Entop Learning](https://entoplearning.com)**, where I work on AI and educational tech.
+
+My work spans three layers:
+
+> 🧠 **AI/ML** — RAG pipelines, LLM orchestration, agent systems, fine-tuning  
+> 👁️ **Vision** — Object detection, segmentation, real-time inference with OpenCV  
+> 🌐 **Full-Stack** — End-to-end AI products, APIs, scalable cloud infrastructure
+
+Currently going deep on **Advanced Computer Vision** and **agentic AI with MCP Servers**.
 
 <br><br>
 
-</div>
-
 ---
 
 <br>
 
-<table width="100%" border="0">
-<tr>
-<td width="52%" valign="top">
-
-## About
-
-I build intelligent systems — from model to product to company.
-
-Currently co-founding **[Bug Biceps](https://bugbiceps.in)**, an AI-first product studio, while interning at **[Entop Learning](https://entoplearning.com)** engineering ML systems for education at scale.
-
-My work is split across three layers:
-
-- 🧠 **Intelligence** — RAG, LLMs, Agents, Fine-tuning, MCP
-- 👁️ **Perception** — Computer Vision, OpenCV, Real-time Inference  
-- 🌐 **Product** — Full-Stack, APIs, Cloud, Production AI
-
-> *"The best way to predict the future is to engineer it."*
+## 🏗️ `$ cat roles.log`
 
 <br>
 
-**What I'm doing right now:**
-
-```
-→ Shipping Bug Biceps from 0 to 1
-→ Building ML pipelines @ Entop Learning  
-→ Mastering Advanced Computer Vision
-→ Designing MCP-based agentic systems
-```
-
-</td>
-<td width="4%"></td>
-<td width="44%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=0d1117&border_color=1a1a1a&title_color=00ffe5&icon_color=00ffe5&text_color=aaaaaa&hide_border=false&count_private=true&rank_icon=github" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=0d1117&border=1a1a1a&ring=00ffe5&fire=00ffe5&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=00ffe5&sideLabels=555555&dates=555555&stroke=1a1a1a" width="100%"/>
-
-</td>
+<table>
+<tr>
+<td width="4%" align="center">🚀</td>
+<td width="30%"><strong>Co-Founder</strong><br/><a href="https://bugbiceps.in">bugbiceps.in</a></td>
+<td width="66%">Building AI-powered products from scratch — leading architecture, model design & product vision. Taking ideas from 0 to deployed. &nbsp;<kbd>Active</kbd></td>
+</tr>
+<tr><td colspan="3"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="1"/></td></tr>
+<tr>
+<td width="4%" align="center">🎓</td>
+<td width="30%"><strong>Intern</strong><br/><a href="https://entoplearning.com">entoplearning.com</a></td>
+<td width="66%">Working on intelligent learning platforms & real-world AI systems. Bridging AI research with meaningful classroom impact. &nbsp;<kbd>Active</kbd></td>
+</tr>
+<tr><td colspan="3"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="1"/></td></tr>
+<tr>
+<td width="4%" align="center">⚡</td>
+<td width="30%"><strong>Independent</strong><br/>Open Source & AI</td>
+<td width="66%">Building RAG systems, CV pipelines & agentic workflows. Shipping tools that the community can actually use. &nbsp;<kbd>Ongoing</kbd></td>
 </tr>
 </table>
 
@@ -89,110 +70,57 @@ My work is split across three layers:
 
 <br>
 
-## Experience
+## 🛠️ `$ cat stack.yml`
 
 <br>
 
-<table width="100%">
+<table>
 <tr>
-<td width="3%" align="center">🚀</td>
-<td width="20%">
-  <strong>Co-Founder</strong><br/>
-  <a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/bugbiceps.in-0d1117?style=flat-square&logo=data:image/png;base64,&logoColor=00ffe5&color=0d1117&labelColor=0d1117&borderColor=00ffe5"/></a>
-  <a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/-bugbiceps.in-00ffe5?style=flat-square&logoColor=black"/></a>
-</td>
-<td>Building an AI-powered product studio end to end — architecture, model design, infra, and product vision. Taking ideas from whiteboard to deployed.</td>
-<td width="10%" align="right"><img src="https://img.shields.io/badge/●_Active-00ffe5?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr><td colspan="4"><hr style="border-color:#1a1a1a"/></td></tr>
-<tr>
-<td width="3%" align="center">🎓</td>
-<td width="20%">
-  <strong>AI / ML Intern</strong><br/>
-  <a href="https://entoplearning.com"><img src="https://img.shields.io/badge/-entoplearning.com-00ff88?style=flat-square&logoColor=black"/></a>
-</td>
-<td>Engineering intelligent learning platforms and real-world ML systems. Bridging AI research with meaningful, measurable classroom impact.</td>
-<td width="10%" align="right"><img src="https://img.shields.io/badge/●_Active-00ff88?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr><td colspan="4"><hr style="border-color:#1a1a1a"/></td></tr>
-<tr>
-<td width="3%" align="center">⚡</td>
-<td width="20%">
-  <strong>Open Source</strong><br/>
-  <img src="https://img.shields.io/badge/-Independent-ffd700?style=flat-square&logoColor=black"/>
-</td>
-<td>Building RAG systems, CV pipelines and agentic tools in public. Making things the community can actually use.</td>
-<td width="10%" align="right"><img src="https://img.shields.io/badge/●_Ongoing-ffd700?style=flat-square&logoColor=black"/></td>
-</tr>
-</table>
+<td valign="top" width="25%">
 
-<br>
-
----
-
-<br>
-
-## Stack
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,keras&theme=dark&perline=6" />
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,typescript,nodejs&theme=dark&perline=6" />
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,docker,aws,gcp,firebase&theme=dark&perline=6" />
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,linux,vscode,jupyter&theme=dark&perline=6" />
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td align="center" valign="top" width="25%">
-
-**AI / GenAI**
+**🤖 AI / GenAI**
 ```
-LLMs · RAG · Agents
-Fine-tuning
+Large Language Models
+RAG Pipelines
 Prompt Engineering
-MLOps · MCP Servers
+Agent Frameworks
+Model Fine-tuning
+MLOps & Monitoring
 ```
 
 </td>
-<td align="center" valign="top" width="25%">
+<td valign="top" width="25%">
 
-**Languages**
+**💻 Languages**
 ```
-Python      ████████
-TypeScript  ███████░
-JavaScript  ██████░░
-C / C++     █████░░░
+Python      ████████░
+TypeScript  ███████░░
+JavaScript  ██████░░░
+C / C++     █████░░░░
 ```
 
 </td>
-<td align="center" valign="top" width="25%">
+<td valign="top" width="25%">
 
-**Frontend**
+**🌐 Frontend**
 ```
-React · Next.js
-Three.js · Vue
+React.js
+Next.js
+Vue / Angular
+Three.js
 TailwindCSS
-Angular
 ```
 
 </td>
-<td align="center" valign="top" width="25%">
+<td valign="top" width="25%">
 
-**Infra & Cloud**
+**⚙️ Backend & Infra**
 ```
-Docker · K8s
+FastAPI / Django
+Node + Express
+PostgreSQL / MongoDB
+Docker / Kubernetes
 AWS · GCP · Azure
-FastAPI · Django
-CI/CD Pipelines
 ```
 
 </td>
@@ -201,50 +129,32 @@ CI/CD Pipelines
 
 <br>
 
----
+**AI & ML Ecosystem**
 
-<br>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ffe5)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=00ffe5)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=00ffe5)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=00ffe5)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=00ffe5)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=00ffe5)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=00ffe5)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=00ffe5)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=00ffe5)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=00ffe5)
 
-## What I'm Building
+**Web, Cloud & DevOps**
 
-<br>
-
-<table width="100%">
-<thead>
-<tr>
-<th align="left">Project</th>
-<th align="left">What</th>
-<th align="center">Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>bugbiceps/platform</code></td>
-<td>AI-powered product studio — from 0 to shipped</td>
-<td align="center"><img src="https://img.shields.io/badge/LIVE-00ffe5?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr>
-<td><code>entop/ml-systems</code></td>
-<td>Production ML for intelligent education at scale</td>
-<td align="center"><img src="https://img.shields.io/badge/ACTIVE-00ff88?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr>
-<td><code>personal/advanced-cv</code></td>
-<td>OpenCV pipelines · real-time detection & segmentation</td>
-<td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-ffd700?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr>
-<td><code>personal/rag-v2</code></td>
-<td>Next-gen retrieval-augmented generation at enterprise scale</td>
-<td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-ffd700?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr>
-<td><code>personal/agentic-ai</code></td>
-<td>MCP servers · autonomous agents · multi-step reasoning</td>
-<td align="center"><img src="https://img.shields.io/badge/BUILDING-aa88ff?style=flat-square&logoColor=black"/></td>
-</tr>
-</tbody>
-</table>
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ffe5)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=00ffe5)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00ffe5)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=00ffe5)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00ffe5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ffe5)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ffe5)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=00ffe5)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=google-cloud&logoColor=00ffe5)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=00ffe5)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00ffe5)
 
 <br>
 
@@ -252,22 +162,43 @@ CI/CD Pipelines
 
 <br>
 
-## GitHub
+## 📊 `$ git log --stat`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nitinog10&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&theme=dark&background=0d1117&border=00ffe530&ring=00ffe5&fire=00ffe5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffe5&sideLabels=555555&dates=555555" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=0d1117&border_color=00ffe530&title_color=00ffe5&text_color=c9d1d9&langs_count=6" width="38%"/>
+
+</div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=0d1117&color=00ffe5&line=00ffe540&point=00ffe5&area=true&area_color=00ffe508&border_color=1a1a1a&custom_title=Contribution%20Activity" width="100%"/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=0d1117&color=00ffe5&line=00ffe560&point=00ffe5&area=true&area_color=00ffe508&border_color=00ffe530" width="97%"/>
+</div>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+---
+
+<br>
+
+---
+
+<br>
+
+## 🤝 `$ cat ./collaborate/open_roles.md`
+
+<br>
+
+<div align="center">
+
+| 🔬 Domain | 💡 What I Bring |
+|-----------|----------------|
+| 🤖 AI Product Development | Full-stack AI products, RAG architecture, LLM agents |
+| 👁️ Computer Vision | Detection, segmentation, real-time vision systems |
+| 🛠️ Open Source | AI tooling at the intersection of dev experience & ML |
+| 🚀 Early-Stage Startups | Turning ideas into scalable, intelligent systems |
 
 </div>
 
@@ -279,18 +210,23 @@ CI/CD Pipelines
 
 <div align="center">
 
-**Open to collaborating on impactful AI projects.**
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   "I don't just train models.                            │
+│    I build the systems that put them to work —           │
+│    and the companies that bring them to the world."      │
+│                                                          │
+│                               — Nitin Mishra             │
+│                  Co-founder · Bug Biceps                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-<a href="mailto:nitiniszod10@gmail.com">
-  <img src="https://img.shields.io/badge/Get_in_touch-000000?style=for-the-badge&logo=gmail&logoColor=00ffe5"/>
-</a>
-&nbsp;
-<a href="https://nitinn10.netlify.app/">
-  <img src="https://img.shields.io/badge/See_my_work-000000?style=for-the-badge&logo=vercel&logoColor=00ffe5"/>
-</a>
+<br>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0d,100:000000&height=100&section=footer&fontColor=00ffe5" width="100%"/>
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=nitinog10&color=00ffe5&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/nitinog10?label=Followers&style=flat-square&color=00ffe5&labelColor=0d1117)
+&nbsp;&nbsp;
+![Stars](https://img.shields.io/github/stars/nitinog10?label=Stars&style=flat-square&color=00ffe5&labelColor=0d1117)
