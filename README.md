@@ -183,50 +183,6 @@ AWS · GCP · Azure
 
 <br>
 
-## 🎯 `$ ls ./missions/active/`
-
-<br>
-
-<table>
-<tr>
-<th align="left">📁 Project</th>
-<th align="left">→ What's happening</th>
-<th align="center">Status</th>
-</tr>
-<tr>
-<td><code>ADVANCED_COMPUTER_VISION/</code></td>
-<td>OpenCV pipelines & real-time inference systems</td>
-<td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-00ffe5?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr>
-<td><code>RAG_SYSTEMS_V2/</code></td>
-<td>Next-gen retrieval-augmented generation at scale</td>
-<td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-00ffe5?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr>
-<td><code>AGENTIC_AI/</code></td>
-<td>MCP servers, intelligent agents, autonomous workflows</td>
-<td align="center"><img src="https://img.shields.io/badge/BUILDING-ffd700?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr>
-<td><code>BUGBICEPS_PLATFORM/</code></td>
-<td>Co-founding & shipping the product from 0 → 1</td>
-<td align="center"><img src="https://img.shields.io/badge/ACTIVE-00ff88?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr>
-<td><code>ENTOP_ML_RESEARCH/</code></td>
-<td>Industry ML systems @ Entop Learning</td>
-<td align="center"><img src="https://img.shields.io/badge/ACTIVE-00ff88?style=flat-square&logoColor=black"/></td>
-</tr>
-<tr>
-<td><code>PRODUCTION_AI/</code></td>
-<td>Enterprise-grade AI deployment & MLOps</td>
-<td align="center"><img src="https://img.shields.io/badge/ONGOING-888888?style=flat-square&logoColor=white"/></td>
-</tr>
-</table>
-
-<br>
-
 ---
 
 <br>
