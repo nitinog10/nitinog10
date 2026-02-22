@@ -24,7 +24,7 @@
 
 I'm a **GenAI Architect & AI Developer** who builds intelligent systems that actually ship.
 
-co-founder of **[Bug Biceps](https://bugbiceps.in)** **intern at [Entop Learning](https://entoplearning.com)**, where I work on real-world ML and educational tech.
+co-founder of **[Bug Biceps](https://bugbiceps.in)** **intern at [Entop Learning](https://entoplearning.com)**, where I work on AI and educational tech.
 
 My work spans three layers:
 
@@ -53,8 +53,8 @@ Currently going deep on **Advanced Computer Vision** and **agentic AI with MCP S
 <tr><td colspan="3"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="1"/></td></tr>
 <tr>
 <td width="4%" align="center">🎓</td>
-<td width="30%"><strong>ML Intern</strong><br/><a href="https://entoplearning.com">entoplearning.com</a></td>
-<td width="66%">Working on intelligent learning platforms & real-world ML systems. Bridging AI research with meaningful classroom impact. &nbsp;<kbd>Active</kbd></td>
+<td width="30%"><strong>Intern</strong><br/><a href="https://entoplearning.com">entoplearning.com</a></td>
+<td width="66%">Working on intelligent learning platforms & real-world AI systems. Bridging AI research with meaningful classroom impact. &nbsp;<kbd>Active</kbd></td>
 </tr>
 <tr><td colspan="3"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="1"/></td></tr>
 <tr>
