@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://nitinn.dev/)&nbsp;[![Email](https://img.shields.io/badge/◈_EMAIL-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](mailto:nitiniszod10@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://linkedin.com/in/nitin-kumar-mishra-520615331)&nbsp;[![Instagram](https://img.shields.io/badge/◈_INSTAGRAM-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://instagram.com/nitinn10_)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://nitinn10.netlify.app/)&nbsp;[![Email](https://img.shields.io/badge/◈_EMAIL-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](mailto:nitiniszod10@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://linkedin.com/in/nitin-kumar-mishra-520615331)&nbsp;[![Instagram](https://img.shields.io/badge/◈_INSTAGRAM-0d1117?style=for-the-badge&logoColor=00ffe5&color=0d1117&labelColor=0d1117)](https://instagram.com/nitinn10_)
 
 </div>
 
@@ -44,22 +44,25 @@ Currently going deep on **Advanced Computer Vision** and **agentic AI with MCP S
 
 <br>
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   🚀  Co-Founder · Bug Biceps  [ bugbiceps.in ]                      │
-│       Building AI-powered products from the ground up.               │
-│       Leading architecture, model design & product vision.           │
-│                                                                      │
-│   🎓  Intern · Entop Learning  [ entoplearning.com ]                 │
-│       Working on ML systems & intelligent learning platforms.        │
-│       Bridging AI research with real classroom impact.               │
-│                                                                      │
-│   ⚡  Independent · Open Source & AI Projects                        │
-│       RAG systems, CV pipelines, agentic workflows.                  │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="4%" align="center">🚀</td>
+<td width="30%"><strong>Co-Founder</strong><br/><a href="https://bugbiceps.in">bugbiceps.in</a></td>
+<td width="66%">Building AI-powered products from scratch — leading architecture, model design & product vision. Taking ideas from 0 to deployed. &nbsp;<kbd>Active</kbd></td>
+</tr>
+<tr><td colspan="3"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="1"/></td></tr>
+<tr>
+<td width="4%" align="center">🎓</td>
+<td width="30%"><strong>ML Intern</strong><br/><a href="https://entoplearning.com">entoplearning.com</a></td>
+<td width="66%">Working on intelligent learning platforms & real-world ML systems. Bridging AI research with meaningful classroom impact. &nbsp;<kbd>Active</kbd></td>
+</tr>
+<tr><td colspan="3"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="1"/></td></tr>
+<tr>
+<td width="4%" align="center">⚡</td>
+<td width="30%"><strong>Independent</strong><br/>Open Source & AI</td>
+<td width="66%">Building RAG systems, CV pipelines & agentic workflows. Shipping tools that the community can actually use. &nbsp;<kbd>Ongoing</kbd></td>
+</tr>
+</table>
 
 <br>
 
@@ -184,14 +187,43 @@ AWS · GCP · Azure
 
 <br>
 
-```
-📁  ADVANCED_COMPUTER_VISION/    →  OpenCV pipelines & real-time inference systems
-📁  RAG_SYSTEMS_V2/              →  Next-gen retrieval-augmented generation at scale
-📁  AGENTIC_AI/                  →  MCP servers, intelligent agents, autonomous workflows
-📁  BUGBICEPS_PLATFORM/          →  Co-founding & building the product from 0 → 1
-📁  ENTOP_ML_RESEARCH/           →  Industry ML systems @ Entop Learning
-📁  PRODUCTION_AI/               →  Enterprise-grade AI deployment & MLOps
-```
+<table>
+<tr>
+<th align="left">📁 Project</th>
+<th align="left">→ What's happening</th>
+<th align="center">Status</th>
+</tr>
+<tr>
+<td><code>ADVANCED_COMPUTER_VISION/</code></td>
+<td>OpenCV pipelines & real-time inference systems</td>
+<td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-00ffe5?style=flat-square&logoColor=black"/></td>
+</tr>
+<tr>
+<td><code>RAG_SYSTEMS_V2/</code></td>
+<td>Next-gen retrieval-augmented generation at scale</td>
+<td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-00ffe5?style=flat-square&logoColor=black"/></td>
+</tr>
+<tr>
+<td><code>AGENTIC_AI/</code></td>
+<td>MCP servers, intelligent agents, autonomous workflows</td>
+<td align="center"><img src="https://img.shields.io/badge/BUILDING-ffd700?style=flat-square&logoColor=black"/></td>
+</tr>
+<tr>
+<td><code>BUGBICEPS_PLATFORM/</code></td>
+<td>Co-founding & shipping the product from 0 → 1</td>
+<td align="center"><img src="https://img.shields.io/badge/ACTIVE-00ff88?style=flat-square&logoColor=black"/></td>
+</tr>
+<tr>
+<td><code>ENTOP_ML_RESEARCH/</code></td>
+<td>Industry ML systems @ Entop Learning</td>
+<td align="center"><img src="https://img.shields.io/badge/ACTIVE-00ff88?style=flat-square&logoColor=black"/></td>
+</tr>
+<tr>
+<td><code>PRODUCTION_AI/</code></td>
+<td>Enterprise-grade AI deployment & MLOps</td>
+<td align="center"><img src="https://img.shields.io/badge/ONGOING-888888?style=flat-square&logoColor=white"/></td>
+</tr>
+</table>
 
 <br>
 
