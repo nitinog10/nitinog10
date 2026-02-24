@@ -4,7 +4,7 @@
 
 <br>
 
-### Co-founder @ [bugbiceps.in](https://bugbiceps.in) &nbsp;·&nbsp; Intern @ [entoplearning](https://entoplearning.com) &nbsp;·&nbsp; Based in Bhopal, India 🇮🇳
+### Co-founder @ [bugbiceps.in](https://bugbiceps.in) &nbsp;·&nbsp; Intern @ [entoplearning](https://entoplearning.com) &nbsp;·&nbsp; From Bhopal, India 🇮🇳
 
 <br>
 
