@@ -37,8 +37,7 @@
 <!--                         ABOUT ME SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
 <br>
 
@@ -48,8 +47,8 @@
 const nitin = {
     title: "GenAI Architect & AI Developer",
     location: "Bhopal, India 🇮🇳",
-    company: "Co-founder @ Bug Biceps",
-    currently: "Intern @ Entop Learning",
+    company: "Co-founder @Bug Biceps",
+    currently: "Intern @Entop Learning",
     
     expertise: {
         ai_ml:      ["RAG Pipelines", "LLM Orchestration",
