@@ -100,8 +100,7 @@ Co-founding **[Bug Biceps](https://bugbiceps.in)** — an AI-first product studi
 <!--                         GITHUB STATS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-##
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Stats
+##&nbsp;GitHub Stats
 
 <br>
 
