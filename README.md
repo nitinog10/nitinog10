@@ -4,18 +4,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1117,60:001a1a,100:00ffe5&height=250&section=header&text=NITIN%20MISHRA&fontSize=75&fontColor=00ffe5&fontAlignY=38&animation=fadeIn&stroke=00ffe540&strokeWidth=2&desc=&descAlignY=60&descSize=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1117,60:001a1a,100:00ffe5&height=250&section=header&text=NITIN%20MISHRA&fontSize=75&fontColor=00ffe5&fontAlignY=35&animation=fadeIn&stroke=00ffe540&strokeWidth=2&desc=GenAI%20Architect%20%20%C2%B7%20%20Computer%20Vision%20%20%C2%B7%20%20Full--Stack%20AI&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFE5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+GenAI+Architect+%7C+Computer+Vision+%7C+Full-Stack+AI;%F0%9F%9A%80+Co-founder+%40+Bug+Biceps+%7C+Building+the+Future;%F0%9F%A7%A0+RAG+Pipelines+%7C+LLM+Agents+%7C+MLOps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=00FFE5&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Co-founder+%40+Bug+Biceps+%F0%9F%9A%80;Building+AI+Systems+That+Actually+Ship+%E2%9A%A1;RAG+Pipelines+%C2%B7+LLM+Agents+%C2%B7+MLOps+%F0%9F%A7%A0;Advanced+Computer+Vision+%F0%9F%91%81%EF%B8%8F;From+Bhopal%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
 
 <br>
 
-### `> Bhopal, India 🇮🇳`&nbsp;&nbsp;·&nbsp;&nbsp;`> Co-founder @ bugbiceps.in`&nbsp;&nbsp;·&nbsp;&nbsp;`> Intern @ entoplearning`
+<a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/🚀_Co--founder_@_Bug_Biceps-0d1117?style=flat-square&labelColor=0d1117"/></a>&nbsp;&nbsp;
+<a href="https://entoplearning.com"><img src="https://img.shields.io/badge/🎓_Intern_@_Entop_Learning-0d1117?style=flat-square&labelColor=0d1117"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📍_Bhopal,_India-0d1117?style=flat-square&labelColor=0d1117"/>
 
-<br>
+<br><br>
 
-<!-- Social links with glow -->
+<!-- Social links -->
 <a href="https://nitinn10.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00ffe5?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>&nbsp;
 <a href="mailto:nitiniszod10@gmail.com"><img src="https://img.shields.io/badge/Email-00ffe5?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>&nbsp;
 <a href="https://linkedin.com/in/nitin-kumar-mishra-520615331"><img src="https://img.shields.io/badge/LinkedIn-00ffe5?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
@@ -35,7 +37,7 @@
 <!--                         ABOUT ME SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;`$ whoami`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
 <br>
 
@@ -99,7 +101,7 @@ Co-founding **[Bug Biceps](https://bugbiceps.in)** — an AI-first product studi
 <!--                         GITHUB STATS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`$ cat github_stats.log`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Stats
 
 <br>
 
@@ -132,7 +134,7 @@ Co-founding **[Bug Biceps](https://bugbiceps.in)** — an AI-first product studi
 <!--                         ROLES SECTION                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🏗️ &nbsp;`$ cat roles.log`
+## 🏗️ &nbsp;What I Do
 
 <br>
 
@@ -195,7 +197,7 @@ Shipping tools that the community can actually use. Contributing to the AI ecosy
 <!--                         TECH STACK                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🛠️ &nbsp;`$ cat stack.yml`
+## 🛠️ &nbsp;Tech Stack
 
 <br>
 
@@ -270,7 +272,7 @@ Shipping tools that the community can actually use. Contributing to the AI ecosy
 <!--                       CONTRIBUTION GRAPH                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 📈 &nbsp;`$ cat activity.log`
+## 📈 &nbsp;Activity
 
 <br>
 
@@ -280,13 +282,15 @@ Shipping tools that the community can actually use. Contributing to the AI ecosy
 
 <br>
 
-<!-- Snake contribution animation -->
+<!-- Snake contribution animation (generated by .github/workflows/snake.yml) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg" width="97%"/>
   </picture>
+  <br>
+  <sub>🐍 Watch my contributions get eaten! Auto-generated daily via <a href="https://github.com/nitinog10/nitinog10/actions/workflows/snake.yml">GitHub Actions</a></sub>
 </div>
 
 <br>
@@ -299,7 +303,7 @@ Shipping tools that the community can actually use. Contributing to the AI ecosy
 <!--                        TROPHIES SECTION                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;`$ cat trophies.log`
+## 🏆 &nbsp;Trophies
 
 <br>
 
