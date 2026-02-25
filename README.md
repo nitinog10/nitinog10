@@ -88,9 +88,6 @@ Co-founding **[Bug Biceps](https://bugbiceps.in)** — an AI-first product studi
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         GITHUB STATS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<br>
-
 <div align="center">
 
 <a href="https://github.com/nitinog10">
@@ -101,7 +98,7 @@ Co-founding **[Bug Biceps](https://bugbiceps.in)** — an AI-first product studi
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=0d1117&border_color=00ffe530&title_color=00ffe5&text_color=c9d1d9&hide_border=false&langs_count=8" />
 </a>
 
-<br><br>
+<br>
 
 <!-- GitHub Streak -->
 <a href="https://github.com/nitinog10">
