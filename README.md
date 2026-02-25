@@ -15,17 +15,6 @@
 <a href="https://entoplearning.com"><img src="https://img.shields.io/badge/🎓_Intern_@_Entop_Learning-0d1117?style=flat-square&labelColor=0d1117"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/📍_Bhopal,_India-0d1117?style=flat-square&labelColor=0d1117"/>
 
-<br><br>
-
-<!-- Social links -->
-<a href="https://nitinn.dev/"><img src="https://img.shields.io/badge/Portfolio-00ffe5?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>&nbsp;
-<a href="mailto:nitiniszod10@gmail.com"><img src="https://img.shields.io/badge/Email-00ffe5?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>&nbsp;
-<a href="https://linkedin.com/in/nitin-kumar-mishra-520615331"><img src="https://img.shields.io/badge/LinkedIn-00ffe5?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
-<a href="https://instagram.com/nitinn10_"><img src="https://img.shields.io/badge/Instagram-00ffe5?style=for-the-badge&logo=instagram&logoColor=0d1117"/></a>&nbsp;
-<a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/Bug_Biceps-00ffe5?style=for-the-badge&logo=rocket&logoColor=0d1117"/></a>
-
-</div>
-
 <br>
 
 <!-- Animated divider -->
@@ -242,7 +231,18 @@ Co-founding **[Bug Biceps](https://bugbiceps.in)** — an AI-first product studi
 ![Stars](https://img.shields.io/github/stars/nitinog10?label=Total+Stars&style=for-the-badge&color=00ffe5&labelColor=0d1117)
 
 <br>
+<br>
 
+<!-- Social links -->
+<a href="https://nitinn.dev/"><img src="https://img.shields.io/badge/Portfolio-00ffe5?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>&nbsp;
+<a href="mailto:nitiniszod10@gmail.com"><img src="https://img.shields.io/badge/Email-00ffe5?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>&nbsp;
+<a href="https://linkedin.com/in/nitin-kumar-mishra-520615331"><img src="https://img.shields.io/badge/LinkedIn-00ffe5?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
+<a href="https://instagram.com/nitinn10_"><img src="https://img.shields.io/badge/Instagram-00ffe5?style=for-the-badge&logo=instagram&logoColor=0d1117"/></a>&nbsp;
+<a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/Bug_Biceps-00ffe5?style=for-the-badge&logo=rocket&logoColor=0d1117"/></a>
+
+</div>
+
+<br>
 </div>
 <!-- Waving footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe5,50:001a1a,100:0d1117&height=120&section=footer" width="100%"/>
