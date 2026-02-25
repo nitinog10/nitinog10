@@ -18,7 +18,7 @@
 <br><br>
 
 <!-- Social links -->
-<a href="https://nitinn10.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00ffe5?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>&nbsp;
+<a href="https://nitinn.dev/"><img src="https://img.shields.io/badge/Portfolio-00ffe5?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>&nbsp;
 <a href="mailto:nitiniszod10@gmail.com"><img src="https://img.shields.io/badge/Email-00ffe5?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>&nbsp;
 <a href="https://linkedin.com/in/nitin-kumar-mishra-520615331"><img src="https://img.shields.io/badge/LinkedIn-00ffe5?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
 <a href="https://instagram.com/nitinn10_"><img src="https://img.shields.io/badge/Instagram-00ffe5?style=for-the-badge&logo=instagram&logoColor=0d1117"/></a>&nbsp;
@@ -308,12 +308,6 @@ Shipping tools that the community can actually use. Contributing to the AI ecosy
 
 <br>
 
-<!-- Animated handshake -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <b>Let's connect and build something amazing together!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-
-<br><br>
-
 </div>
-
 <!-- Waving footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe5,50:001a1a,100:0d1117&height=120&section=footer" width="100%"/>
