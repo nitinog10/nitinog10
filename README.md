@@ -300,24 +300,6 @@ Shipping tools that the community can actually use. Contributing to the AI ecosy
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        TROPHIES SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;Trophies
-
-<br>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nitinog10&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" width="97%"/>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER SECTION                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -337,14 +319,6 @@ Shipping tools that the community can actually use. Contributing to the AI ecosy
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-<br>
-
-<!-- Spotify / Music vibes (optional aesthetic) -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fqwdj3sak35z7psdwbmfyjv7mi&cover_image=true&theme=novatorem&bar_color=00ffe5&bar_color_cover=false" alt="spotify" width="380"/>
-
-<br><br>
-
 <!-- Profile counters -->
 ![Profile Views](https://komarev.com/ghpvc/?username=nitinog10&color=00ffe5&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
