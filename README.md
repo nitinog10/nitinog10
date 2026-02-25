@@ -299,26 +299,6 @@ Shipping tools that the community can actually use. Contributing to the AI ecosy
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br>
-
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   "I don't just train models.                                    ║
- ║    I build the systems that put them to work —                   ║
- ║    and the companies that bring them to the world."              ║
- ║                                                                  ║
- ║                                    — Nitin Mishra                ║
- ║                       Co-founder · Bug Biceps                    ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
 <!-- Profile counters -->
 ![Profile Views](https://komarev.com/ghpvc/?username=nitinog10&color=00ffe5&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
