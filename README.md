@@ -11,8 +11,8 @@
 
 <br>
 
-<a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/🚀_Co--founder_@_Bug_Biceps-0d1117?style=flat-square&labelColor=0d1117"/></a>&nbsp;&nbsp;
-<a href="https://entoplearning.com"><img src="https://img.shields.io/badge/🎓_Intern_@_Entop_Learning-0d1117?style=flat-square&labelColor=0d1117"/></a>&nbsp;&nbsp;
+<a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/🚀_Co--founder_@BugBiceps-0d1117?style=flat-square&labelColor=0d1117"/></a>&nbsp;&nbsp;
+<a href="https://entoplearning.com"><img src="https://img.shields.io/badge/🎓_Intern_@EntopLearning-0d1117?style=flat-square&labelColor=0d1117"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/📍_Bhopal,_India-0d1117?style=flat-square&labelColor=0d1117"/>
 
 <br>
