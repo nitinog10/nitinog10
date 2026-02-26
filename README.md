@@ -241,4 +241,4 @@ Co-founding **[Bug Biceps](https://bugbiceps.in)** — an AI-first product studi
 <!-- Waving footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe5,50:001a1a,100:0d1117&height=120&section=footer" width="100%"/>
 
-abcd
+abcdeeff
