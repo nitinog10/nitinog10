@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->aaaaaa
 <!--                         HEADER SECTION                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->aa
-aaa
+aaaaaa
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1117,60:001a1a,100:00ffe5&height=250&section=header&text=NITIN%20MISHRA&fontSize=75&fontColor=00ffe5&fontAlignY=35&animation=fadeIn&stroke=00ffe540&strokeWidth=2&desc=GenAI%20Architect%20%20%C2%B7%20%20Computer%20Vision%20%20%C2%B7%20%20Full--Stack%20AI&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
