@@ -47,35 +47,9 @@ The kind who **ships.**
 
 > *Episode 02 — The Awakening*
 
-## ◈ &nbsp; POWER SYSTEM
-
-<div align="center">
-
-```
- ╭──────────────────────────────────────────────────────────────────╮
- │                  ⬡  ABILITY REGISTRY  ⬡                         │
- │                   [ NITIN MISHRA / LVL ∞ ]                       │
- ├─────────────────────────────┬──────────────────────────────────  │
- │  ABILITY                    │  MASTERY            RANK           │
- ├─────────────────────────────┼──────────────────────────────────  │
- │  GenAI System Design        │  ██████████████████  SSR ✦         │
- │  RAG + Vector Pipelines     │  █████████████████   SR  ✦         │
- │  LLM Fine-tuning            │  ████████████████    SR  ✦         │
- │  Computer Vision            │  ████████████████    SR  ✦         │
- │  LangGraph Multi-Agent      │  ███████████████     A+  ✧         │
- │  Backend Engineering        │  ███████████████     A+  ✧         │
- ╰─────────────────────────────┴──────────────────────────────────  ╯
-```
-
-</div>
-
-<br>
-
 <div align="center">
 
 ### — Weapons of Choice —
-
-## // 武器庫 &nbsp;[ ARSENAL ]
 
 <div align="center">
 
