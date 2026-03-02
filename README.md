@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0c,50:1a0800,100:2d1000&height=220&section=header&text=NITIN%20MISHRA&fontSize=80&fontColor=FF4500&fontAlignY=38&animation=fadeIn&stroke=FF450030&strokeWidth=2&desc=GenAI+Architect+·+Ml-engineer+·+Software developer+&descAlignY=60&descSize=17&descColor=FFB347" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0c,50:1a0800,100:2d1000&height=220&section=header&text=NITIN%20MISHRA&fontSize=80&fontColor=FF4500&fontAlignY=38&animation=fadeIn&stroke=FF450030&strokeWidth=2&desc=GenAI+Architect+·+Ml-engineer+·+Software developer&descAlignY=60&descSize=17&descColor=FFB347" width="100%"/>
 
 </div>
 
