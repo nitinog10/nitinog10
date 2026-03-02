@@ -8,6 +8,7 @@
 ---
 
 ### `> whoami`
+<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 I'm a **GenAI Architect** who obsesses over building AI systems that **actually reach production**.
 
@@ -15,8 +16,6 @@ Co-founding **[Bug Biceps](https://bugbiceps.in)** — a production studio— wh
 
 Currently deep in:**Machine learning**,**Advanced Computer Vision**,**Fine tuning LLM's**,**Langchain**,**Langgraph** and **MCP servers and Rag pipelines**
 
-
-<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 ```
 motto: "Models are easy. Systems are hard. I do the hard part."
 ```
