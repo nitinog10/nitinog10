@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=50&text=Episode%2001%20%E2%80%94%20The%20Origin&fontSize=20&fontColor=FF6B9D&fontAlignY=65&desc=Origin+Story&descAlignY=20&descSize=11&descColor=C9B1FF80&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=55&text=Episode+01+%E2%80%94+The+Origin&fontSize=22&fontColor=FF6B9D&fontAlignY=68&desc=Origin+Story&descSize=12&descAlignY=22&descColor=C9B1FF" width="65%"/>
 </div>
 
 <br>
@@ -38,19 +38,17 @@ The kind who **ships.**
 
 <br>
 
-```
-  SPECIAL TRAIT UNLOCKED ──────────────────────────────────────
-  ✦  "Production Shipping"  ·  Rarity: SSR  ·  Type: Passive
-  Effect: AI systems that reach real users, not just GitHub.
-  ─────────────────────────────────────────────────────────────
-```
+> *✦ &nbsp; SPECIAL TRAIT UNLOCKED &nbsp; ─────────────────────────────*  
+> *"Production Shipping" &nbsp;·&nbsp; Rarity: SSR &nbsp;·&nbsp; Type: Passive*  
+> *Effect: AI systems that reach real users, not just GitHub.*  
+> *─────────────────────────────────────────────────────────*
 
 <br clear="both"/>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=50&text=Episode%2002%20%E2%80%94%20The%20Awakening&fontSize=20&fontColor=FF6B9D&fontAlignY=65&desc=Weapons+%26+Arsenal&descAlignY=20&descSize=11&descColor=C9B1FF80&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=55&text=Episode+02+%E2%80%94+The+Awakening&fontSize=22&fontColor=FF6B9D&fontAlignY=68&desc=Weapons+%26+Arsenal&descSize=12&descAlignY=22&descColor=C9B1FF" width="65%"/>
 </div>
 
 <br>
@@ -96,7 +94,7 @@ The kind who **ships.**
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=50&text=Episode%2003%20%E2%80%94%20The%20Active%20Arcs&fontSize=20&fontColor=FF6B9D&fontAlignY=65&desc=Current+Story+Arcs&descAlignY=20&descSize=11&descColor=C9B1FF80&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=55&text=Episode+03+%E2%80%94+The+Active+Arcs&fontSize=22&fontColor=FF6B9D&fontAlignY=68&desc=Current+Story+Arcs&descSize=12&descAlignY=22&descColor=C9B1FF" width="65%"/>
 </div>
 
 <br>
@@ -117,7 +115,7 @@ The kind who **ships.**
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=50&text=Episode%2004%20%E2%80%94%20The%20Data&fontSize=20&fontColor=FF6B9D&fontAlignY=65&desc=Battle+Records&descAlignY=20&descSize=11&descColor=C9B1FF80&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=55&text=Episode+04+%E2%80%94+The+Data&fontSize=22&fontColor=FF6B9D&fontAlignY=68&desc=Battle+Records&descSize=12&descAlignY=22&descColor=C9B1FF" width="65%"/>
 </div>
 
 <br>
@@ -147,7 +145,7 @@ The kind who **ships.**
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=50&text=Episode%2005%20%E2%80%94%20The%20Summons&fontSize=20&fontColor=FF6B9D&fontAlignY=65&desc=Find+Me+In+The+Multiverse&descAlignY=20&descSize=11&descColor=C9B1FF80&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=55&text=Episode+05+%E2%80%94+The+Summons&fontSize=22&fontColor=FF6B9D&fontAlignY=68&desc=Find+Me+In+The+Multiverse&descSize=12&descAlignY=22&descColor=C9B1FF" width="65%"/>
 </div>
 
 <br>
@@ -184,17 +182,13 @@ The kind who **ships.**
 
 <br>
 
-```
-  ╭────────────────────────────────────────────────────────────────╮
-  │                                                                │
-  │   ❝  The training arc is over.                                 │
-  │      The final boss is production.                             │
-  │      And I've never lost a deploy.  ❞                          │
-  │                                                                │
-  │                                   — Nitin Mishra, every day    │
-  │                                                                │
-  ╰────────────────────────────────────────────────────────────────╯
-```
+> *❝ &nbsp; The training arc is over.*  
+> *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The final boss is production.*  
+> *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I've never lost a deploy. &nbsp; ❞*  
+>
+> *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Nitin Mishra, every day*
+
+<br>
 
 *★ &nbsp; To be continued... &nbsp; ★*
 
