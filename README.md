@@ -15,9 +15,9 @@
 
 I'm a **GenAI Architect** who obsesses over building AI systems that **actually reach production**.
 
-Co-founding **[Bug Biceps](https://bugbiceps.in)** — an AI-first product studio — while interning at **[Entop Learning](https://entoplearning.com)** building ML systems for real-world education.
+Co-founding **[Bug Biceps](https://bugbiceps.in)** — a production studio — while interning at **[Entop Learning](https://entoplearning.com)** building ML systems for real-world education.
 
-Currently deep in: **Advanced Computer Vision** and **MCP-based Agentic AI**
+Currently deep in: **Advanced Computer Vision**,**Agentic AI** and **Advanced AI base tech such as Langchain, langraph etc**
 
 ```
 motto: "Models are easy. Systems are hard. I do the hard part."
