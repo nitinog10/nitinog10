@@ -38,11 +38,6 @@ The kind who **ships.**
 
 <br>
 
-> *✦ &nbsp; SPECIAL TRAIT UNLOCKED &nbsp; ─────────────────────────────*  
-> *"Production Shipping" &nbsp;·&nbsp; Rarity: SSR &nbsp;·&nbsp; Type: Passive*  
-> *Effect: AI systems that reach real users, not just GitHub.*  
-> *─────────────────────────────────────────────────────────*
-
 <br clear="both"/>
 
 ---
