@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=260&section=header&text=NITIN%20MISHRA&fontSize=82&fontColor=FF6B9D&fontAlignY=40&animation=fadeIn&stroke=FFD70050&strokeWidth=2&desc=GenAI+Architect+·+ML+Engineer+·+Chaos+Builder&descAlignY=63&descSize=16&descColor=C9B1FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&amp;height=260&amp;section=header&amp;text=NITIN%20MISHRA&amp;fontSize=82&amp;fontColor=FF6B9D&amp;fontAlignY=40&amp;animation=fadeIn&amp;stroke=FFD70050&amp;strokeWidth=2&amp;desc=GenAI+Architect+·+ML+Engineer+·+Chaos+Builder&amp;descAlignY=63&amp;descSize=16&amp;descColor=C9B1FF" width="100%"/>
 
 <br>
 
@@ -8,8 +8,7 @@
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2001%20%E2%80%94%20The%20Origin&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Origin+Story&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&amp;height=80&amp;section=header&amp;text=Episode+01+—+The+Origin&amp;fontSize=24&amp;fontColor=FF6B9D&amp;fontAlignY=72&amp;desc=Origin+Story&amp;descSize=12&amp;descAlignY=28&amp;descColor=C9B1FF&amp;animation=fadeIn" width="100%"/>
 
 <img align="right" width="34%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -42,7 +41,7 @@ The kind who **ships.**
 
 <br clear="both"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2002%20%E2%80%94%20The%20Awakening&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Weapons+%26+Arsenal&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&amp;height=80&amp;section=header&amp;text=Episode+02+—+The+Awakening&amp;fontSize=24&amp;fontColor=FF6B9D&amp;fontAlignY=72&amp;desc=Weapons+and+Arsenal&amp;descSize=12&amp;descAlignY=28&amp;descColor=C9B1FF&amp;animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -52,7 +51,7 @@ The kind who **ships.**
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FF2079&labelColor=0D0221)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=FF2079&labelColor=0D0221)
 ![LangChain](https://img.shields.io/badge/LangChain-0D0221?style=for-the-badge&logo=chainlink&logoColor=00FFFF&labelColor=0D0221)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-0D0221?style=for-the-badge&logoColor=FF2079&labelColor=0D0221)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D0221?style=for-the-badge&logo=huggingface&logoColor=FF2079&labelColor=0D0221)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D0221?style=for-the-badge&logo=opencv&logoColor=00FFFF&labelColor=0D0221)
 ![MLflow](https://img.shields.io/badge/MLflow-0D0221?style=for-the-badge&logo=mlflow&logoColor=FF2079&labelColor=0D0221)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0D0221?style=for-the-badge&logo=scikit-learn&logoColor=00FFFF&labelColor=0D0221)
@@ -82,7 +81,7 @@ The kind who **ships.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2003%20%E2%80%94%20The%20Active%20Arcs&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Current+Story+Arcs&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&amp;height=80&amp;section=header&amp;text=Episode+03+—+The+Active+Arcs&amp;fontSize=24&amp;fontColor=FF6B9D&amp;fontAlignY=72&amp;desc=Current+Story+Arcs&amp;descSize=12&amp;descAlignY=28&amp;descColor=C9B1FF&amp;animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -97,7 +96,7 @@ The kind who **ships.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2004%20%E2%80%94%20The%20Data&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Battle+Records&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&amp;height=80&amp;section=header&amp;text=Episode+04+—+The+Data&amp;fontSize=24&amp;fontColor=FF6B9D&amp;fontAlignY=72&amp;desc=Battle+Records&amp;descSize=12&amp;descAlignY=28&amp;descColor=C9B1FF&amp;animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -121,7 +120,7 @@ The kind who **ships.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2005%20%E2%80%94%20The%20Summons&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Find+Me+In+The+Multiverse&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&amp;height=80&amp;section=header&amp;text=Episode+05+—+The+Summons&amp;fontSize=24&amp;fontColor=FF6B9D&amp;fontAlignY=72&amp;desc=Find+Me+In+The+Multiverse&amp;descSize=12&amp;descAlignY=28&amp;descColor=C9B1FF&amp;animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -167,4 +166,4 @@ The kind who **ships.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A4E,50:1a0533,100:0A0A0F&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2D0A4E,50:1a0533,100:0A0A0F&amp;height=140&amp;section=footer&amp;animation=fadeIn" width="100%"/>
