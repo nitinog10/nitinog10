@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0c,50:1a0800,100:2d1000&height=220&section=header&text=NITIN%20MISHRA&fontSize=80&fontColor=FF4500&fontAlignY=38&animation=fadeIn&stroke=FF450030&strokeWidth=2&desc=GenAI+Architect+·+Computer+Vision+·+Full-Stack+AI&descAlignY=60&descSize=17&descColor=FFB347" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF4500&center=true&vCenter=true&width=620&height=40&lines=I+ship+AI+systems%2C+not+just+models.;RAG+%C2%B7+LLM+Agents+%C2%B7+Computer+Vision;Co-founder+%40+Bug+Biceps+%F0%9F%94%A5;Building+from+Bhopal%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2800&pause=900&color=FF4500&center=true&vCenter=true&width=620&height=40&lines=I+ship+AI+systems%2C+not+just+models.;RAG+%C2%B7+LLM+Agents+%C2%B7+Computer+Vision;Co-founder+%40+Bug+Biceps+%F0%9F%94%A5;Building+from+Bhopal%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
 
 </div>
 
