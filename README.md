@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=260&section=header&text=NITIN%20MISHRA&fontSize=82&fontColor=FF6B9D&fontAlignY=40&animation=fadeIn&stroke=FFD70050&strokeWidth=2&desc=GenAI+Architect+·+ML+Engineer+·+Chaos+Builder&descAlignY=63&descSize=16&descColor=C9B1FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0221,25:1a0533,50:0D0221,75:1a0533,100:0D0221&height=300&section=header&text=NITIN%20MISHRA&fontSize=90&fontColor=00FFFF&fontAlignY=40&animation=twinkling&stroke=FF2079&strokeWidth=3&des=Chaos Builder&descAlignY=62&descSize=22&descColor=FF2079" width="100%"/>
 
-<br>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=18&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&lines=★+The+protagonist+has+entered+the+scene+★;The+one+who+ships+AI+to+production...;Awakened+at+the+intersection+of+chaos+and+code.;Models+are+easy.+Systems+are+hard.+He+does+the+hard+part.;Arc+loading...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25)](https://git.io/typing-svg)
 
