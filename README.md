@@ -10,15 +10,11 @@
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Episode 01  ——  The Origin          [ Origin Story ]  ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
 <img align="right" width="34%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <br>
+
+> *Episode 01 — The Origin*
 
 ## ◈ &nbsp; ORIGIN STORY
 
@@ -49,11 +45,11 @@ The kind who **ships.**
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Episode 02  ——  The Awakening    [ Weapons & Arsenal ] ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+> *Episode 02 — The Awakening*
+
+<div align="center">
+
+### — Weapons of Choice —
 
 <div align="center">
 
@@ -95,11 +91,9 @@ The kind who **ships.**
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Episode 03  ——  The Active Arcs  [ Current Story Arcs ]║
-  ╚══════════════════════════════════════════════════════════╝
-```
+> *Episode 03 — The Active Arcs*
+
+## ◈ &nbsp; CURRENT STORY ARCS
 
 <div align="center">
 
@@ -116,11 +110,9 @@ The kind who **ships.**
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Episode 04  ——  The Data              [ Battle Records ]║
-  ╚══════════════════════════════════════════════════════════╝
-```
+> *Episode 04 — The Data*
+
+## ◈ &nbsp; BATTLE RECORDS
 
 <div align="center">
 
@@ -146,11 +138,9 @@ The kind who **ships.**
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Episode 05  ——  The Summons   [ Find Me In Multiverse ] ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+> *Episode 05 — The Summons*
+
+## ◈ &nbsp; SUMMON ME
 
 <div align="center">
 
@@ -184,13 +174,17 @@ The kind who **ships.**
 
 <br>
 
-> *❝ &nbsp; The training arc is over.*  
-> *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The final boss is production.*  
-> *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I've never lost a deploy. &nbsp; ❞*  
->
-> *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Nitin Mishra, every day*
-
-<br>
+```
+  ╭────────────────────────────────────────────────────────────────╮
+  │                                                                │
+  │   ❝  The training arc is over.                                 │
+  │      The final boss is production.                             │
+  │      And I've never lost a deploy.  ❞                          │
+  │                                                                │
+  │                                   — Nitin Mishra, every day    │
+  │                                                                │
+  ╰────────────────────────────────────────────────────────────────╯
+```
 
 *★ &nbsp; To be continued... &nbsp; ★*
 
