@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001C,25:0a0028,50:150040,75:0a0028,100:03001C&height=280&section=header&text=NITIN%20MISHRA&fontSize=88&fontColor=00FFE5&fontAlignY=42&animation=twinkling&stroke=FF2079&strokeWidth=3&desc=二チン・ミシュラ　·　GenAI+Architect　·　ML+Engineer&descAlignY=65&descSize=16&descColor=FF2079" width="100%"/>
-
-<br>
-
 
 ---
 
