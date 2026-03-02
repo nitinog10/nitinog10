@@ -1,23 +1,4 @@
-
----
-
-<img align="right" width="36%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:12px"/>
-
-## &nbsp;`// 自己紹介` — *Who Am I?*
-
-<br>
-
-**`[SYSTEM ONLINE — LOADING PROFILE...]`**
-
-&nbsp;⟩ 🧠 &nbsp;**GenAI Architect** obsessed with AI that *actually ships*
-&nbsp;⟩ 🦾 &nbsp;Co-Founder @ **[Bug Biceps](https://bugbiceps.in)** — a production AI studio  
-&nbsp;⟩ 📡 &nbsp;Intern @ **[Entop Learning](https://entoplearning.com)** — real-world LMS systems  
-&nbsp;⟩ ⚔️ &nbsp;Deep in: **LangGraph · MCP Servers · RAG Pipelines · CV Systems**  
-&nbsp;⟩ 🌸 &nbsp;Based in **India** · **Open to collabs** · **Shipping daily**
-
-<br>
-
-```python
+\
 class NitinMishra:
     title    = "GenAI Architect + ML Engineer"
     studio   = "Bug Biceps 🦾"
