@@ -10,11 +10,13 @@
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Episode 01  ——  The Origin          [ Origin Story ]  ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+[![Episode](https://img.shields.io/badge/Episode%2001%20——%20The%20Origin-Origin%20Story-FF6B9D?style=for-the-badge&labelColor=0A0A0F&color=2D0A4E)](https://github.com/nitinog10)
+
+</div>
+
+<br>
 
 <img align="right" width="34%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -38,22 +40,22 @@ The kind who **ships.**
 
 <br>
 
-```
-  SPECIAL TRAIT UNLOCKED ──────────────────────────────────────
-  ✦  "Production Shipping"  ·  Rarity: SSR  ·  Type: Passive
-  Effect: AI systems that reach real users, not just GitHub.
-  ─────────────────────────────────────────────────────────────
-```
+> *✦ &nbsp; SPECIAL TRAIT UNLOCKED &nbsp; ─────────────────────────────*  
+> *"Production Shipping" &nbsp;·&nbsp; Rarity: SSR &nbsp;·&nbsp; Type: Passive*  
+> *Effect: AI systems that reach real users, not just GitHub.*  
+> *─────────────────────────────────────────────────────────*
 
 <br clear="both"/>
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Episode 02  ——  The Awakening    [ Weapons & Arsenal ] ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+[![Episode](https://img.shields.io/badge/Episode%2002%20——%20The%20Awakening-Weapons%20%26%20Arsenal-FF6B9D?style=for-the-badge&labelColor=0A0A0F&color=2D0A4E)](https://github.com/nitinog10)
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -95,11 +97,13 @@ The kind who **ships.**
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Episode 03  ——  The Active Arcs  [ Current Story Arcs ]║
-  ╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+[![Episode](https://img.shields.io/badge/Episode%2003%20——%20The%20Active%20Arcs-Current%20Story%20Arcs-FF6B9D?style=for-the-badge&labelColor=0A0A0F&color=2D0A4E)](https://github.com/nitinog10)
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -116,11 +120,13 @@ The kind who **ships.**
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Episode 04  ——  The Data              [ Battle Records ]║
-  ╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+[![Episode](https://img.shields.io/badge/Episode%2004%20——%20The%20Data-Battle%20Records-FF6B9D?style=for-the-badge&labelColor=0A0A0F&color=2D0A4E)](https://github.com/nitinog10)
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -146,11 +152,13 @@ The kind who **ships.**
 
 ---
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Episode 05  ——  The Summons   [ Find Me In Multiverse ] ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+[![Episode](https://img.shields.io/badge/Episode%2005%20——%20The%20Summons-Find%20Me%20In%20The%20Multiverse-FF6B9D?style=for-the-badge&labelColor=0A0A0F&color=2D0A4E)](https://github.com/nitinog10)
+
+</div>
+
+<br>
 
 <div align="center">
 
