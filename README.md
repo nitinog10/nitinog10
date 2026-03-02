@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0221,25:1a0533,50:0D0221,75:1a0533,100:0D0221&height=300&section=header&text=NITIN%20MISHRA&fontSize=90&fontColor=00FFFF&fontAlignY=40&animation=twinkling&stroke=FF2079&strokeWidth=3&desc=GenAI+Architect+·+ML+Engineer+·+AI+Developer&descAlignY=62&descSize=20&descColor=FF2079" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=260&section=header&text=NITIN%20MISHRA&fontSize=82&fontColor=FF6B9D&fontAlignY=40&animation=fadeIn&stroke=FFD70050&strokeWidth=2&desc=GenAI+Architect+·+ML+Engineer+·+Chaos+Builder&descAlignY=63&descSize=16&descColor=C9B1FF" width="100%"/>
 
-</div>
-
----
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=18&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&lines=★+The+protagonist+has+entered+the+scene+★;The+one+who+ships+AI+to+production...;Awakened+at+the+intersection+of+chaos+and+code.;Models+are+easy.+Systems+are+hard.+He+does+the+hard+part.;Arc+loading...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25)](https://git.io/typing-svg)
 
@@ -16,7 +14,7 @@
 
 <br>
 
-> Episode 01 — The Origin
+> *Episode 01 — The Origin*
 
 ## ◈ &nbsp; ORIGIN STORY
 
@@ -24,36 +22,36 @@
 
 Somewhere between a broken model and a  
 3AM deploy that actually worked —  
-a *GenAI Architect* was born.
+a **GenAI Architect** was born.
 
 Not the kind who writes papers.  
-The kind who *ships.*
+The kind who **ships.**
 
-&nbsp;&nbsp;◦ &nbsp;Co-Founder of *[Bug Biceps](https://bugbiceps.in)* — AI production studio  
-&nbsp;&nbsp;◦ &nbsp;Engineering @ *[Entop Learning](https://entoplearning.com)* — real education systems  
-&nbsp;&nbsp;◦ &nbsp;Currently mastering: *LangGraph · MCP Servers · RAG · CV*  
-&nbsp;&nbsp;◦ &nbsp;Fighting style: *Build fast. Break nothing. Ship harder.*
+&nbsp;&nbsp;◦ &nbsp;Co-Founder of **[Bug Biceps](https://bugbiceps.in)** — AI production studio  
+&nbsp;&nbsp;◦ &nbsp;Engineering @ **[Entop Learning](https://entoplearning.com)** — real education systems  
+&nbsp;&nbsp;◦ &nbsp;Currently mastering: **LangGraph · MCP Servers · RAG · CV**  
+&nbsp;&nbsp;◦ &nbsp;Fighting style: **Build fast. Break nothing. Ship harder.**
 
 <br>
 
-
+```
   SPECIAL TRAIT UNLOCKED ──────────────────────────────────────
   ✦  "Production Shipping"  ·  Rarity: SSR  ·  Type: Passive
   Effect: AI systems that reach real users, not just GitHub.
   ─────────────────────────────────────────────────────────────
-
+```
 
 <br clear="both"/>
 
 ---
 
-> Episode 02 — The Awakening
+> *Episode 02 — The Awakening*
 
 ## ◈ &nbsp; POWER SYSTEM
 
 <div align="center">
 
-
+```
  ╭──────────────────────────────────────────────────────────────────╮
  │                  ⬡  ABILITY REGISTRY  ⬡                         │
  │                   [ NITIN MISHRA / LVL ∞ ]                      │
@@ -67,7 +65,7 @@ The kind who *ships.*
  │  LangGraph Multi-Agent      │  ███████████████     A+  ✧         │
  │  Backend Engineering        │  ███████████████     A+  ✧         │
  ╰─────────────────────────────┴──────────────────────────────────  ╯
-
+```
 
 </div>
 
@@ -77,7 +75,7 @@ The kind who *ships.*
 
 ### — Weapons of Choice —
 
-*✦ &nbsp; AI / GENAI ARSENAL &nbsp; ✦*
+**✦ &nbsp; AI / GENAI ARSENAL &nbsp; ✦**
 
 ![Python](https://img.shields.io/badge/Python-0A0A0F?style=for-the-badge&logo=python&logoColor=FF6B9D)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0F?style=for-the-badge&logo=pytorch&logoColor=FF6B9D)
@@ -88,7 +86,7 @@ The kind who *ships.*
 ![MLflow](https://img.shields.io/badge/MLflow-0A0A0F?style=for-the-badge&logo=mlflow&logoColor=FFD700)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0A0A0F?style=for-the-badge&logo=scikit-learn&logoColor=FF6B9D)
 
-*✦ &nbsp; INFRASTRUCTURE &nbsp; ✦*
+**✦ &nbsp; INFRASTRUCTURE &nbsp; ✦**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=for-the-badge&logo=fastapi&logoColor=7FFF9E)
 ![Django](https://img.shields.io/badge/Django-0A0A0F?style=for-the-badge&logo=django&logoColor=7FFF9E)
@@ -99,7 +97,7 @@ The kind who *ships.*
 ![AWS](https://img.shields.io/badge/AWS-0A0A0F?style=for-the-badge&logo=amazon-aws&logoColor=FFD700)
 ![GCP](https://img.shields.io/badge/GCP-0A0A0F?style=for-the-badge&logo=google-cloud&logoColor=FFD700)
 
-*✦ &nbsp; FRONTEND &nbsp; ✦*
+**✦ &nbsp; FRONTEND &nbsp; ✦**
 
 ![React](https://img.shields.io/badge/React-0A0A0F?style=for-the-badge&logo=react&logoColor=C9B1FF)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0F?style=for-the-badge&logo=next.js&logoColor=ffffff)
@@ -111,7 +109,7 @@ The kind who *ships.*
 
 ---
 
-> Episode 03 — The Active Arcs
+> *Episode 03 — The Active Arcs*
 
 ## ◈ &nbsp; CURRENT STORY ARCS
 
@@ -119,18 +117,18 @@ The kind who *ships.*
 
 | &nbsp; | Arc Name | Status | Season |
 |:---:|:---|:---:|:---:|
-| ✦ | MCP Server Architecture — "The Grid" | 🔥 FINAL BOSS | Season 1 |
-| ✦ | LangGraph Multi-Agent Systems | ⚔️ ACTIVE | Season 1 |
-| ✦ | Advanced RAG + Vector Search | 💥 POWER-UP | Season 1 |
-| ✦ | Real-time Computer Vision | ⚔️ ACTIVE | Season 1 |
-| ✦ | LLM Fine-tuning at Scale | 📖 TRAINING ARC | Season 2 |
-| ✦ | Bug Biceps Studio Launch | 🌸 CLIMAX | Season 1 |
+| ✦ | MCP Server Architecture — *"The Grid"* | 🔥 `FINAL BOSS` | Season 1 |
+| ✦ | LangGraph Multi-Agent Systems | ⚔️ `ACTIVE` | Season 1 |
+| ✦ | Advanced RAG + Vector Search | 💥 `POWER-UP` | Season 1 |
+| ✦ | Real-time Computer Vision | ⚔️ `ACTIVE` | Season 1 |
+| ✦ | LLM Fine-tuning at Scale | 📖 `TRAINING ARC` | Season 2 |
+| ✦ | Bug Biceps Studio Launch | 🌸 `CLIMAX` | Season 1 |
 
 </div>
 
 ---
 
-> Episode 04 — The Data
+> *Episode 04 — The Data*
 
 ## ◈ &nbsp; BATTLE RECORDS
 
@@ -158,7 +156,7 @@ The kind who *ships.*
 
 ---
 
-> Episode 05 — The Summons
+> *Episode 05 — The Summons*
 
 ## ◈ &nbsp; SUMMON ME
 
@@ -194,7 +192,7 @@ The kind who *ships.*
 
 <br>
 
-
+```
   ╭────────────────────────────────────────────────────────────────╮
   │                                                                │
   │   ❝  The training arc is over.                                 │
@@ -204,9 +202,9 @@ The kind who *ships.*
   │                                   — Nitin Mishra, every day    │
   │                                                                │
   ╰────────────────────────────────────────────────────────────────╯
+```
 
-
-★ &nbsp; To be continued... &nbsp; ★
+*★ &nbsp; To be continued... &nbsp; ★*
 
 </div>
 
