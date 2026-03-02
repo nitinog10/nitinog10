@@ -10,11 +10,15 @@
 
 ---
 
-<img align="right" width="34%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=50&text=Episode%2001%20%E2%80%94%20The%20Origin&fontSize=20&fontColor=FF6B9D&fontAlignY=65&desc=Origin+Story&descAlignY=20&descSize=11&descColor=C9B1FF80&animation=fadeIn" width="60%"/>
+</div>
 
 <br>
 
-> *Episode 01 — The Origin*
+<img align="right" width="34%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br>
 
 ## ◈ &nbsp; ORIGIN STORY
 
@@ -45,11 +49,11 @@ The kind who **ships.**
 
 ---
 
-> *Episode 02 — The Awakening*
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=50&text=Episode%2002%20%E2%80%94%20The%20Awakening&fontSize=20&fontColor=FF6B9D&fontAlignY=65&desc=Weapons+%26+Arsenal&descAlignY=20&descSize=11&descColor=C9B1FF80&animation=fadeIn" width="60%"/>
+</div>
 
-### — Weapons of Choice —
+<br>
 
 <div align="center">
 
@@ -91,9 +95,11 @@ The kind who **ships.**
 
 ---
 
-> *Episode 03 — The Active Arcs*
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=50&text=Episode%2003%20%E2%80%94%20The%20Active%20Arcs&fontSize=20&fontColor=FF6B9D&fontAlignY=65&desc=Current+Story+Arcs&descAlignY=20&descSize=11&descColor=C9B1FF80&animation=fadeIn" width="60%"/>
+</div>
 
-## ◈ &nbsp; CURRENT STORY ARCS
+<br>
 
 <div align="center">
 
@@ -110,9 +116,11 @@ The kind who **ships.**
 
 ---
 
-> *Episode 04 — The Data*
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=50&text=Episode%2004%20%E2%80%94%20The%20Data&fontSize=20&fontColor=FF6B9D&fontAlignY=65&desc=Battle+Records&descAlignY=20&descSize=11&descColor=C9B1FF80&animation=fadeIn" width="60%"/>
+</div>
 
-## ◈ &nbsp; BATTLE RECORDS
+<br>
 
 <div align="center">
 
@@ -138,9 +146,11 @@ The kind who **ships.**
 
 ---
 
-> *Episode 05 — The Summons*
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=50&text=Episode%2005%20%E2%80%94%20The%20Summons&fontSize=20&fontColor=FF6B9D&fontAlignY=65&desc=Find+Me+In+The+Multiverse&descAlignY=20&descSize=11&descColor=C9B1FF80&animation=fadeIn" width="60%"/>
+</div>
 
-## ◈ &nbsp; SUMMON ME
+<br>
 
 <div align="center">
 
