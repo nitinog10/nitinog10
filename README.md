@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=18&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&lines=★+The+protagonist+has+entered+the+scene+★;The+one+who+ships+AI+to+production...;Awakened+at+the+intersection+of+chaos+and+code.;Models+are+easy.+Systems+are+hard.+He+does+the+hard+part.;Arc+loading...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25)](https://git.io/typing-svg)
 
+---
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&amp;height=80&amp;section=header&amp;text=Episode+01+—+The+Origin&amp;fontSize=24&amp;fontColor=FF6B9D&amp;fontAlignY=72&amp;desc=Origin+Story&amp;descSize=12&amp;descAlignY=28&amp;descColor=C9B1FF&amp;animation=fadeIn" width="100%"/>
@@ -31,13 +33,6 @@ The kind who **ships.**
 &nbsp;&nbsp;◦ &nbsp;Fighting style: **Build fast. Break nothing. Ship harder.**
 
 <br>
-
-```
-  SPECIAL TRAIT UNLOCKED ──────────────────────────────────────
-  ✦  "Production Shipping"  ·  Rarity: SSR  ·  Type: Passive
-  Effect: AI systems that reach real users, not just GitHub.
-  ─────────────────────────────────────────────────────────────
-```
 
 <br clear="both"/>
 
