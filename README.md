@@ -8,6 +8,7 @@
 ---
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ### `> whoami`
 
 I'm a **GenAI Architect** who obsesses over building AI systems that **actually reach production**.
