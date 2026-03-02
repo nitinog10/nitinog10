@@ -15,6 +15,8 @@ Co-founding **[Bug Biceps](https://bugbiceps.in)** — a production studio— wh
 
 Currently deep in:**Machine learning**,**Advanced Computer Vision**,**Fine tuning LLM's**,**Langchain**,**Langgraph** and **MCP servers and Rag pipelines**
 
+
+<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 ```
 motto: "Models are easy. Systems are hard. I do the hard part."
 ```
@@ -101,8 +103,6 @@ motto: "Models are easy. Systems are hard. I do the hard part."
 <a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/Bug_Biceps-FFB347?style=for-the-badge&logo=rocket&logoColor=0c0c0c"/></a>
 
 <br>
-
-<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nitinog10&color=FF4500&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;
