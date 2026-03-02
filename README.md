@@ -192,19 +192,6 @@ class NitinMishra:
 </div>
 
 ---
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   「 諦めたらそこで試合終了ですよ。」                          ║
-║                                                               ║
-║     "Giving up is where the game ends."  — Slam Dunk          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 *Thanks for visiting — now go build something.*
 
 </div>
