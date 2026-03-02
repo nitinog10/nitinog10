@@ -54,7 +54,7 @@ The kind who **ships.**
 ```
  ╭──────────────────────────────────────────────────────────────────╮
  │                  ⬡  ABILITY REGISTRY  ⬡                         │
- │                   [ NITIN MISHRA / LVL ∞ ]                      │
+ │                   [ NITIN MISHRA / LVL ∞ ]                       │
  ├─────────────────────────────┬──────────────────────────────────  │
  │  ABILITY                    │  MASTERY            RANK           │
  ├─────────────────────────────┼──────────────────────────────────  │
@@ -75,35 +75,43 @@ The kind who **ships.**
 
 ### — Weapons of Choice —
 
-**✦ &nbsp; AI / GENAI ARSENAL &nbsp; ✦**
+## // 武器庫 &nbsp;[ ARSENAL ]
 
-![Python](https://img.shields.io/badge/Python-0A0A0F?style=for-the-badge&logo=python&logoColor=FF6B9D)
-![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0F?style=for-the-badge&logo=pytorch&logoColor=FF6B9D)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0F?style=for-the-badge&logo=tensorflow&logoColor=C9B1FF)
-![LangChain](https://img.shields.io/badge/LangChain-0A0A0F?style=for-the-badge&logo=chainlink&logoColor=FFD700)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0A0F?style=for-the-badge&logo=huggingface&logoColor=FF6B9D)
-![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0F?style=for-the-badge&logo=opencv&logoColor=C9B1FF)
-![MLflow](https://img.shields.io/badge/MLflow-0A0A0F?style=for-the-badge&logo=mlflow&logoColor=FFD700)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0A0A0F?style=for-the-badge&logo=scikit-learn&logoColor=FF6B9D)
+<div align="center">
 
-**✦ &nbsp; INFRASTRUCTURE &nbsp; ✦**
+### ⬡ &nbsp; AI / GenAI Stack &nbsp; ⬡
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=for-the-badge&logo=fastapi&logoColor=7FFF9E)
-![Django](https://img.shields.io/badge/Django-0A0A0F?style=for-the-badge&logo=django&logoColor=7FFF9E)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0F?style=for-the-badge&logo=node.js&logoColor=7FFF9E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0F?style=for-the-badge&logo=postgresql&logoColor=C9B1FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0F?style=for-the-badge&logo=mongodb&logoColor=7FFF9E)
-![Docker](https://img.shields.io/badge/Docker-0A0A0F?style=for-the-badge&logo=docker&logoColor=C9B1FF)
-![AWS](https://img.shields.io/badge/AWS-0A0A0F?style=for-the-badge&logo=amazon-aws&logoColor=FFD700)
-![GCP](https://img.shields.io/badge/GCP-0A0A0F?style=for-the-badge&logo=google-cloud&logoColor=FFD700)
+![Python](https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D0221)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FF2079&labelColor=0D0221)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=FF2079&labelColor=0D0221)
+![LangChain](https://img.shields.io/badge/LangChain-0D0221?style=for-the-badge&logo=chainlink&logoColor=00FFFF&labelColor=0D0221)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-0D0221?style=for-the-badge&logoColor=FF2079&labelColor=0D0221)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D0221?style=for-the-badge&logo=opencv&logoColor=00FFFF&labelColor=0D0221)
+![MLflow](https://img.shields.io/badge/MLflow-0D0221?style=for-the-badge&logo=mlflow&logoColor=FF2079&labelColor=0D0221)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0D0221?style=for-the-badge&logo=scikit-learn&logoColor=00FFFF&labelColor=0D0221)
 
-**✦ &nbsp; FRONTEND &nbsp; ✦**
+---
 
-![React](https://img.shields.io/badge/React-0A0A0F?style=for-the-badge&logo=react&logoColor=C9B1FF)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0F?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0F?style=for-the-badge&logo=typescript&logoColor=C9B1FF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0A0A0F?style=for-the-badge&logo=tailwindcss&logoColor=7FFF9E)
-![Three.js](https://img.shields.io/badge/Three.js-0A0A0F?style=for-the-badge&logo=three.js&logoColor=FF6B9D)
+### ⬡ &nbsp; Backend & Infra &nbsp; ⬡
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=B4FF39&labelColor=0D0221)
+![Django](https://img.shields.io/badge/Django-0D0221?style=for-the-badge&logo=django&logoColor=B4FF39&labelColor=0D0221)
+![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=B4FF39&labelColor=0D0221)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=00FFFF&labelColor=0D0221)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D0221?style=for-the-badge&logo=mongodb&logoColor=B4FF39&labelColor=0D0221)
+![Docker](https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=00FFFF&labelColor=0D0221)
+![AWS](https://img.shields.io/badge/AWS-0D0221?style=for-the-badge&logo=amazon-aws&logoColor=FF9500&labelColor=0D0221)
+![GCP](https://img.shields.io/badge/GCP-0D0221?style=for-the-badge&logo=google-cloud&logoColor=FF9500&labelColor=0D0221)
+
+---
+
+### ⬡ &nbsp; Frontend &nbsp; ⬡
+
+![React](https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=00FFFF&labelColor=0D0221)
+![Next.js](https://img.shields.io/badge/Next.js-0D0221?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=0D0221)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=00FFFF&labelColor=0D0221)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0D0221?style=for-the-badge&logo=tailwindcss&logoColor=00FFFF&labelColor=0D0221)
+![Three.js](https://img.shields.io/badge/Three.js-0D0221?style=for-the-badge&logo=three.js&logoColor=FF2079&labelColor=0D0221)
 
 </div>
 
