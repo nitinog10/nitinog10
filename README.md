@@ -8,6 +8,7 @@
 
 </div>
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2001%20%E2%80%94%20The%20Origin&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Origin+Story&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
 
 <img align="right" width="34%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
