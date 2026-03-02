@@ -11,7 +11,9 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=55&text=Episode+01+%E2%80%94+The+Origin&fontSize=22&fontColor=FF6B9D&fontAlignY=68&desc=Origin+Story&descSize=12&descAlignY=22&descColor=C9B1FF" width="65%"/>
+
+[![Episode](https://img.shields.io/badge/Episode%2001%20——%20The%20Origin-Origin%20Story-FF6B9D?style=for-the-badge&labelColor=0A0A0F&color=2D0A4E)](https://github.com/nitinog10)
+
 </div>
 
 <br>
@@ -38,12 +40,19 @@ The kind who **ships.**
 
 <br>
 
+> *✦ &nbsp; SPECIAL TRAIT UNLOCKED &nbsp; ─────────────────────────────*  
+> *"Production Shipping" &nbsp;·&nbsp; Rarity: SSR &nbsp;·&nbsp; Type: Passive*  
+> *Effect: AI systems that reach real users, not just GitHub.*  
+> *─────────────────────────────────────────────────────────*
+
 <br clear="both"/>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=55&text=Episode+02+%E2%80%94+The+Awakening&fontSize=22&fontColor=FF6B9D&fontAlignY=68&desc=Weapons+%26+Arsenal&descSize=12&descAlignY=22&descColor=C9B1FF" width="65%"/>
+
+[![Episode](https://img.shields.io/badge/Episode%2002%20——%20The%20Awakening-Weapons%20%26%20Arsenal-FF6B9D?style=for-the-badge&labelColor=0A0A0F&color=2D0A4E)](https://github.com/nitinog10)
+
 </div>
 
 <br>
@@ -89,7 +98,9 @@ The kind who **ships.**
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=55&text=Episode+03+%E2%80%94+The+Active+Arcs&fontSize=22&fontColor=FF6B9D&fontAlignY=68&desc=Current+Story+Arcs&descSize=12&descAlignY=22&descColor=C9B1FF" width="65%"/>
+
+[![Episode](https://img.shields.io/badge/Episode%2003%20——%20The%20Active%20Arcs-Current%20Story%20Arcs-FF6B9D?style=for-the-badge&labelColor=0A0A0F&color=2D0A4E)](https://github.com/nitinog10)
+
 </div>
 
 <br>
@@ -110,7 +121,9 @@ The kind who **ships.**
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=55&text=Episode+04+%E2%80%94+The+Data&fontSize=22&fontColor=FF6B9D&fontAlignY=68&desc=Battle+Records&descSize=12&descAlignY=22&descColor=C9B1FF" width="65%"/>
+
+[![Episode](https://img.shields.io/badge/Episode%2004%20——%20The%20Data-Battle%20Records-FF6B9D?style=for-the-badge&labelColor=0A0A0F&color=2D0A4E)](https://github.com/nitinog10)
+
 </div>
 
 <br>
@@ -140,7 +153,9 @@ The kind who **ships.**
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:2D0A4E&height=55&text=Episode+05+%E2%80%94+The+Summons&fontSize=22&fontColor=FF6B9D&fontAlignY=68&desc=Find+Me+In+The+Multiverse&descSize=12&descAlignY=22&descColor=C9B1FF" width="65%"/>
+
+[![Episode](https://img.shields.io/badge/Episode%2005%20——%20The%20Summons-Find%20Me%20In%20The%20Multiverse-FF6B9D?style=for-the-badge&labelColor=0A0A0F&color=2D0A4E)](https://github.com/nitinog10)
+
 </div>
 
 <br>
