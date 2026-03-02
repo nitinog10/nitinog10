@@ -8,13 +8,11 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2001%20%E2%80%94%20The%20Origin&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Origin+Story&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
 
 <img align="right" width="34%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <br>
-
-> *Episode 01 — The Origin*
 
 ## ◈ &nbsp; ORIGIN STORY
 
@@ -43,13 +41,7 @@ The kind who **ships.**
 
 <br clear="both"/>
 
----
-
-> *Episode 02 — The Awakening*
-
-<div align="center">
-
-### — Weapons of Choice —
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2002%20%E2%80%94%20The%20Awakening&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Weapons+%26+Arsenal&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -89,11 +81,7 @@ The kind who **ships.**
 
 </div>
 
----
-
-> *Episode 03 — The Active Arcs*
-
-## ◈ &nbsp; CURRENT STORY ARCS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2003%20%E2%80%94%20The%20Active%20Arcs&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Current+Story+Arcs&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -108,11 +96,7 @@ The kind who **ships.**
 
 </div>
 
----
-
-> *Episode 04 — The Data*
-
-## ◈ &nbsp; BATTLE RECORDS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2004%20%E2%80%94%20The%20Data&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Battle+Records&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -136,11 +120,7 @@ The kind who **ships.**
 
 </div>
 
----
-
-> *Episode 05 — The Summons*
-
-## ◈ &nbsp; SUMMON ME
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:1a0533,60:2D0A4E,100:0A0A0F&height=120&section=header&text=Episode%2005%20%E2%80%94%20The%20Summons&fontSize=28&fontColor=FF6B9D&fontAlignY=65&desc=Find+Me+In+The+Multiverse&descSize=13&descAlignY=30&descColor=C9B1FF&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -168,23 +148,17 @@ The kind who **ships.**
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<br>
+> *❝ &nbsp; The training arc is over.*  
+> *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The final boss is production.*  
+> *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I've never lost a deploy. &nbsp; ❞*  
+>
+> *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Nitin Mishra, every day*
 
-```
-  ╭────────────────────────────────────────────────────────────────╮
-  │                                                                │
-  │   ❝  The training arc is over.                                 │
-  │      The final boss is production.                             │
-  │      And I've never lost a deploy.  ❞                          │
-  │                                                                │
-  │                                   — Nitin Mishra, every day    │
-  │                                                                │
-  ╰────────────────────────────────────────────────────────────────╯
-```
+<br>
 
 *★ &nbsp; To be continued... &nbsp; ★*
 
