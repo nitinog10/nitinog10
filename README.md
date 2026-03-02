@@ -5,6 +5,8 @@
 
 </div>
 
+---
+
 ### `> ./connect.sh`
 
 <div align="center">
@@ -16,7 +18,6 @@
 <a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/Bug_Biceps-FFB347?style=for-the-badge&logo=rocket&logoColor=0c0c0c"/></a>
 
 <br>
----
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
