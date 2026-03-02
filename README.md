@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0221,25:1a0533,50:0D0221,75:1a0533,100:0D0221&height=300&section=header&text=NITIN%20MISHRA&fontSize=90&fontColor=00FFFF&fontAlignY=40&animation=twinkling&stroke=FF2079&strokeWidth=3&des=Chaos Builder&descAlignY=62&descSize=22&descColor=FF2079" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0221,25:1a0533,50:0D0221,75:1a0533,100:0D0221&height=300&section=header&text=NITIN%20MISHRA&fontSize=90&fontColor=00FFFF&fontAlignY=40&animation=twinkling&stroke=FF2079&strokeWidth=3&des=ChaosBuilder&descAlignY=62&descSize=22&descColor=FF2079" width="100%"/>
 
 </div>
 
