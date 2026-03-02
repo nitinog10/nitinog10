@@ -1,5 +1,5 @@
-<!-- HEADER -->
-<div align="center">
+[<!-- HEADER -->
+<div align="center">aa
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,30:0D0030,60:1A0050,100:03001C&height=220&section=header&text=NITIN%20MISHRA&fontSize=80&fontColor=FF006E&fontAlignY=38&animation=fadeIn&stroke=FF006E30&strokeWidth=2&desc=GenAI+Architect+·+ML+Engineer+·+AI+Developer&descAlignY=60&descSize=17&descColor=FFBE0B" width="100%"/>
 
@@ -111,3 +111,4 @@ motto: "Models are easy. Systems are hard. I do the hard part."
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,50:1A0050,100:03001C&height=120&section=footer" width="100%"/>
+](https://colab.research.google.com/drive/1SZxCfzHCeVPh2YBUL6oVF8QHga0HsafN?usp=sharing)
