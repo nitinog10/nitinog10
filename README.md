@@ -1,42 +1,4 @@
 \
-class NitinMishra:
-    title    = "GenAI Architect + ML Engineer"
-    studio   = "Bug Biceps 🦾"
-    weapons  = ["LangChain", "LangGraph", "PyTorch", "OpenCV", "FastAPI"]
-    mantra   = "Models are easy. Systems are hard. I do the hard part."
-    xp_level = 9000  # still rising ⬆
-```
-
-<br clear="both"/>
-
----
-
-<div align="center">
-
-## `// キャラクター` — *Character Stats*
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║            ✦  PLAYER CARD  ✦   NITIN MISHRA   ✦  LVL: ∞        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  CLASS      : GenAI Architect / ML Engineer                     ║
-║  GUILD      : Bug Biceps Production Studio                      ║
-║  ALIGNMENT  : Chaotic Builder                                   ║
-║  SPECIAL    : Shipping to Production (Rare Trait)               ║
-╠═══════════════════════════╦══════════════════════════════════════╣
-║  ⚡ GenAI Systems         ║  ████████████████████  S+           ║
-║  🔮 RAG + Vector Search   ║  ████████████████████  S            ║
-║  🧠 LLM Fine-tuning       ║  ██████████████████    A+           ║
-║  🎯 Computer Vision       ║  ██████████████████    A+           ║
-║  🌐 Backend Systems       ║  ████████████████       A           ║
-║  ⚙️  LangGraph Agents      ║  █████████████████     A+           ║
-╚═══════════════════════════╩══════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## `// 武器庫` — *Arsenal*
 
 <div align="center">
