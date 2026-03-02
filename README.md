@@ -7,20 +7,6 @@
 
 ---
 
-### `> ./connect.sh`
-
-<div align="center">
-
-<a href="https://nitinn.dev/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=googlechrome&logoColor=0c0c0c"/></a>&nbsp;
-<a href="mailto:nitiniszod10@gmail.com"><img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=0c0c0c"/></a>&nbsp;
-<a href="https://linkedin.com/in/nitin-kumar-mishra-520615331"><img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=0c0c0c"/></a>&nbsp;
-<a href="https://instagram.com/nitinn10_"><img src="https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=0c0c0c"/></a>&nbsp;
-<a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/Bug_Biceps-FFB347?style=for-the-badge&logo=rocket&logoColor=0c0c0c"/></a>
-
-<br>
-
-<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ### `> whoami`
 
 I'm a **GenAI Architect** who obsesses over building AI systems that **actually reach production**.
@@ -103,6 +89,20 @@ motto: "Models are easy. Systems are hard. I do the hard part."
 </div>
 
 ---
+
+### `> ./connect.sh`
+
+<div align="center">
+
+<a href="https://nitinn.dev/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=googlechrome&logoColor=0c0c0c"/></a>&nbsp;
+<a href="mailto:nitiniszod10@gmail.com"><img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=0c0c0c"/></a>&nbsp;
+<a href="https://linkedin.com/in/nitin-kumar-mishra-520615331"><img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=0c0c0c"/></a>&nbsp;
+<a href="https://instagram.com/nitinn10_"><img src="https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=0c0c0c"/></a>&nbsp;
+<a href="https://bugbiceps.in"><img src="https://img.shields.io/badge/Bug_Biceps-FFB347?style=for-the-badge&logo=rocket&logoColor=0c0c0c"/></a>
+
+<br>
+
+<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nitinog10&color=FF4500&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;
