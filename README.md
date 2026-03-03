@@ -628,10 +628,6 @@
 
   EDITOR'S FINAL NOTE  ·  THE DAILY ARCHITECT  ·  ISSUE No. 001
 
-  "The training arc is over. Production is the final boss.
-   Models are easy. Systems are hard. He does the hard part.
-   He has never lost a deploy. We have confirmed this independently.
-   We believe he never will."
 
   Season Ⅰ — CLOSING.  Season Ⅱ — ON PRESS.  This edition — NOT THE LAST.
 
