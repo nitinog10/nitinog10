@@ -401,16 +401,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=0D0D0D&border=E9456020&stroke=E94560&ring=F5A623&fire=E94560&currStreakNum=E94560&sideNums=808080&currStreakLabel=E94560&sideLabels=E94560&dates=404040" width="680"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nitinog10&theme=darkhub&no-frame=true&row=1&column=7&margin-w=6"/>
-
-</div>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=0D0D0D&color=E94560&line=F5A623&point=E94560&area=true&area_color=E9456015&hide_border=true&custom_title=THE%20ARCHITECT%27S%20CASE%20LOG%20%E2%80%94%20EVERY%20COMMIT%20A%20CLOSED%20JOB" width="100%"/>
-
 <br>
 
 <div align="center">
