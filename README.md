@@ -389,15 +389,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0005,100:2a0510&height=28&text=EVERY+COMMIT+IS+A+CLOSED+CASE.+THE+DATA+DOES+NOT+LIE.&fontSize=11&fontColor=E94560&fontAlignY=68" width="100%"/>
 
 <br>
-
-<a href="https://github.com/nitinog10">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=0D0D0D&border_color=E9456020&title_color=E94560&icon_color=F5A623&text_color=808080&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true"/>
-</a>&nbsp;
-<a href="https://github.com/nitinog10">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=0D0D0D&border_color=E9456020&title_color=E94560&text_color=808080&hide_border=false&langs_count=8"/>
-</a>
-
-<br><br>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=0D0D0D&border=E9456020&stroke=E94560&ring=F5A623&fire=E94560&currStreakNum=E94560&sideNums=808080&currStreakLabel=E94560&sideLabels=E94560&dates=404040" width="680"/>
 
