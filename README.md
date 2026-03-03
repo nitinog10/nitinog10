@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0D0D,60:1a0a12,100:0D0D0D&height=280&text=THE%20HEIST&fontSize=96&fontColor=E94560&fontAlignY=54&animation=fadeIn&desc=ONE+ENGINEER.+SIX+IMPOSSIBLE+JOBS.+ZERO+FAILED+DEPLOYS.&descSize=14&descAlignY=74&descColor=F5A62399" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0D0D,60:1a0a12,100:0D0D0D&height=280&text=THE%20HEIST&fontSize=96&fontColor=E94560&fontAlignY=54&animation=fadeIn&desc=ONE+ENGINEER.+IMPOSSIBLE+JOBS.+ZERO+FAILED+DEPLOYS.&descSize=14&descAlignY=74&descColor=F5A62399" width="100%"/>
 
 <br>
 
@@ -79,9 +79,8 @@
 <br>
 
 ![](https://img.shields.io/badge/CODENAME-THE%20ARCHITECT-0D0D0D?style=for-the-badge&labelColor=E94560&color=0D0D0D)
-
 ![](https://img.shields.io/badge/GUILD-BUG%20BICEPS%20%5BCO--FOUNDER%5D-0D0D0D?style=flat-square&labelColor=1a0a12&color=0D0D0D)
-![](https://img.shields.io/badge/BASE-ENTOP%20LEARNING%20%5BENGINEER%5D-0D0D0D?style=flat-square&labelColor=1a0a12&color=0D0D0D)
+![](https://img.shields.io/badge/BASE-ENTOP%20LEARNING%20%5BINTERN%5D-0D0D0D?style=flat-square&labelColor=1a0a12&color=0D0D0D)
 ![](https://img.shields.io/badge/THREAT-EXTREME-0D0D0D?style=flat-square&labelColor=E94560&color=0D0D0D)
 ![](https://img.shields.io/badge/DEPLOY_LOSSES-ZERO%20CONFIRMED-0D0D0D?style=flat-square&labelColor=1a7a3a&color=0D0D0D)
 ![](https://img.shields.io/badge/DOCTRINE-BUILD.%20SHIP.%20REPEAT.-0D0D0D?style=flat-square&labelColor=1a0a12&color=0D0D0D)
