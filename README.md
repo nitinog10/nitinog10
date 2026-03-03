@@ -1,180 +1,259 @@
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--     GATE BREAK ⟋ PLAYER: NITIN MISHRA ⟋ RANK: S ⟋ AWAKENED   -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-![Python](https://img.shields.io/badge/Python-S_RANK-9333EA?style=for-the-badge&logo=python&logoColor=white&labelColor=030307)
-![PyTorch](https://img.shields.io/badge/PyTorch-A_RANK-7C3AED?style=&logoColor=white&labelColor=030307)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-A_RANKgo=chainlink&logoColor=white&labelColor=030307)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-A_RANK-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=030307)
-![LangGraph](https://img.shields.io/badge/LangGraph-MASTERING-06B6D4?style=for-the-badge&logo=graphql&logoColor=white&labelColor=030307)
-![OpenCV](https://img.shields.io/badge/OpenCV-A_RANK-7C3AED?style=for-the-badge&logo=opencv&logoColor=white&labelColor=030307)
-![scikit-learn](https://img.shields.io/badge/Scikit_Learn-S_RANK-9333EA?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=030307)
-![MLflow](https://img.shields.io/badge/MLflow-B_RANK-6D28D9?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=030307)
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,40:071830,80:050510,100:050510&height=300&section=header&text=NITIN%20MISHRA&fontSize=90&fontColor=4FC3F7&fontAlignY=58&animation=fadeIn&stroke=4FC3F715&strokeWidth=1&desc=S-CLASS+ARCHITECT+%7C+GenAI+%7C+The+One+Who+Ships&descSize=16&descAlignY=76&descColor=FFC107"/>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=2200&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+%3E+Unknown+entity+detected+in+the+Gate...;%5BSYSTEM%5D+%3E+Rank+scan+complete.+CONFIRMED%3A+S-CLASS;%5BSYSTEM%5D+%3E+Specialization%3A+GenAI+Architecture+%2B+Production+Systems;%5BSYSTEM%5D+%3E+WARNING+%E2%80%94+This+player+ships+to+production.;%5BSYSTEM%5D+%3E+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+PROFILE+LOADED+100%25)](https://github.com/nitinog10)
+
+</div>
+
+<br>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                 01 — PLAYER DATA                  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0b1d35&height=58&text=%5B+PLAYER+DATA+%5D&fontSize=18&fontColor=4FC3F7&fontAlignY=70&desc=Origin+%2F%2F+Classification+%2F%2F+Current+Arc&descSize=11&descAlignY=28&descColor=FFC10799&animation=fadeIn"/>
+
+<br>
+
+<table>
+<tr>
+<td valign="top" width="58%">
+
+### `> entity.profile`
+
+```yaml
+NAME        :  Nitin Mishra
+RANK        :  S-CLASS
+TITLE       :  GenAI Architect · ML Engineer
+GUILD       :  Bug Biceps          [CO-FOUNDER]
+BASE        :  Entop Learning      [ENGINEERING]
+ORIGIN      :  Born at 3AM between a broken model
+               and a deploy that actually worked.
+STATUS      :  ⚡ AWAKENED — Currently deploying
+```
+
+### `> current_arc --active`
+
+```diff
++ CO-FOUNDING  Bug Biceps  — AI Production Studio
++ BUILDING AT  Entop Learning — Real Education Tech
++ MASTERING    LangGraph · MCP Servers · RAG · CV
+! STYLE        Build fast. Break nothing. Ship harder.
+```
+
+### `> philosophy.read()`
+
+> *Not the kind who writes papers.*
+> *The kind who* **ships.**
 
 </td>
-<td align="center" width="50%">
+<td valign="top" align="center" width="42%">
 
-**`⟦ IRON FORTRESS — INFRA ⟧`**
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-S_RANK-F59E0B?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=030307)
-![Django](https://img.shields.io/badge/Django-A_RANK-D97706?style=for-the-badge&logo=django&logoColor=white&labelColor=030307)
-![Node.js](https://img.shields.io/badge/Node.js-A_RANK-D97706?style=for-the-badge&logo=node.js&logoColor=white&labelColor=030307)
-![Docker](https://img.shields.io/badge/Docker-S_RANK-F59E0B?style=for-the-badge&logo=docker&logoColor=white&labelColor=030307)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A_RANK-D97706?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=030307)
-![MongoDB](https://img.shields.io/badge/MongoDB-A_RANK-D97706?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=030307)
-![AWS](https://img.shields.io/badge/AWS-S_RANK-F59E0B?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=030307)
-![GCP](https://img.shields.io/badge/GCP-A_RANK-D97706?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=030307)
+<br><br>
+
+![](https://img.shields.io/badge/RANK-S--CLASS-050510?style=flat-square&labelColor=0b1d35)
+&nbsp;
+![](https://img.shields.io/badge/STATUS-AWAKENED-050510?style=flat-square&labelColor=0b1d35)
+&nbsp;
+![](https://img.shields.io/badge/DEPLOY_LOSSES-ZERO-050510?style=flat-square&labelColor=0b1d35)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--               02 — ABILITY REGISTER               -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0b1d35&height=58&text=%5B+ABILITY+REGISTER+%5D&fontSize=18&fontColor=4FC3F7&fontAlignY=70&desc=Weapons+%2F%2F+Arsenal+%2F%2F+Stack+%2F%2F+Rank+Graded&descSize=11&descAlignY=28&descColor=FFC10799&animation=fadeIn"/>
+
+<br>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**`▸ NEURAL CORE — AI / ML`**
+
+![Python](https://img.shields.io/badge/Python-S-050510?style=flat-square&logo=python&logoColor=4FC3F7&labelColor=071830)
+![LangChain](https://img.shields.io/badge/LangChain-S-050510?style=flat-square&logo=chainlink&logoColor=4FC3F7&labelColor=071830)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-S-050510?style=flat-square&logo=scikit-learn&logoColor=4FC3F7&labelColor=071830)
+![PyTorch](https://img.shields.io/badge/PyTorch-A-050510?style=flat-square&logo=pytorch&logoColor=4FC3F7&labelColor=071830)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-A-050510?style=flat-square&logo=tensorflow&logoColor=4FC3F7&labelColor=071830)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-A-050510?style=flat-square&logo=huggingface&logoColor=4FC3F7&labelColor=071830)
+![OpenCV](https://img.shields.io/badge/OpenCV-A-050510?style=flat-square&logo=opencv&logoColor=4FC3F7&labelColor=071830)
+![LangGraph](https://img.shields.io/badge/LangGraph-MASTERING-050510?style=flat-square&logo=graphql&logoColor=FF6B6B&labelColor=071830)
+![MLflow](https://img.shields.io/badge/MLflow-B-050510?style=flat-square&logo=mlflow&logoColor=4FC3F7&labelColor=071830)
+![MCP](https://img.shields.io/badge/MCP_Servers-MASTERING-050510?style=flat-square&logo=server&logoColor=FF6B6B&labelColor=071830)
+
+</td>
+<td valign="top" width="50%">
+
+**`▸ IRON KEEP — BACKEND / INFRA`**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-S-050510?style=flat-square&logo=fastapi&logoColor=FFC107&labelColor=071830)
+![Docker](https://img.shields.io/badge/Docker-S-050510?style=flat-square&logo=docker&logoColor=FFC107&labelColor=071830)
+![AWS](https://img.shields.io/badge/AWS-S-050510?style=flat-square&logo=amazon-aws&logoColor=FFC107&labelColor=071830)
+![Django](https://img.shields.io/badge/Django-A-050510?style=flat-square&logo=django&logoColor=FFC107&labelColor=071830)
+![Node.js](https://img.shields.io/badge/Node.js-A-050510?style=flat-square&logo=node.js&logoColor=FFC107&labelColor=071830)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A-050510?style=flat-square&logo=postgresql&logoColor=FFC107&labelColor=071830)
+![MongoDB](https://img.shields.io/badge/MongoDB-A-050510?style=flat-square&logo=mongodb&logoColor=FFC107&labelColor=071830)
+![GCP](https://img.shields.io/badge/GCP-A-050510?style=flat-square&logo=google-cloud&logoColor=FFC107&labelColor=071830)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-**`⟦ SHADOW INTERFACE — FRONTEND ⟧`**
+**`▸ SHADOW FRONT — FRONTEND`**
 
-![React](https://img.shields.io/badge/React-S_RANK-06B6D4?style=for-the-badge&logo=react&logoColor=white&labelColor=030307)
-![Next.js](https://img.shields.io/badge/Next.js-A_RANK-0891B2?style=for-the-badge&logo=next.js&logoColor=white&labelColor=030307)
-![TypeScript](https://img.shields.io/badge/TypeScript-A_RANK-0891B2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=030307)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-S_RANK-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=030307)
-![Three.js](https://img.shields.io/badge/Three.js-B_RANK-0E7490?style=for-the-badge&logo=three.js&logoColor=white&labelColor=030307)
+![React](https://img.shields.io/badge/React-S-050510?style=flat-square&logo=react&logoColor=B39DDB&labelColor=071830)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-S-050510?style=flat-square&logo=tailwindcss&logoColor=B39DDB&labelColor=071830)
+![Next.js](https://img.shields.io/badge/Next.js-A-050510?style=flat-square&logo=next.js&logoColor=B39DDB&labelColor=071830)
+![TypeScript](https://img.shields.io/badge/TypeScript-A-050510?style=flat-square&logo=typescript&logoColor=B39DDB&labelColor=071830)
+![Three.js](https://img.shields.io/badge/Three.js-B-050510?style=flat-square&logo=three.js&logoColor=B39DDB&labelColor=071830)
 
 </td>
 </tr>
 </table>
 
----
-
-<!-- ═══════════════════ RANK LEGEND ═══════════════════ -->
-
 <div align="center">
 
-```
-  ╭─────────────────────────────────────────────────────╮
-  │   RANK LEGEND:  S > A > B > C > D                  │
-  │   ⟦S⟧ MASTERED  ⟦A⟧ EXPERT  ⟦B⟧ ADVANCED          │
-  │   ⟦MASTERING⟧  Currently in awakening phase        │
-  ╰─────────────────────────────────────────────────────╯
-```
+`S` **Mastered** &nbsp;&nbsp;·&nbsp;&nbsp; `A` **Expert** &nbsp;&nbsp;·&nbsp;&nbsp; `B` **Advanced** &nbsp;&nbsp;·&nbsp;&nbsp; `MASTERING` **Currently Awakening**
 
 </div>
 
+<br>
+
 ---
 
-<!-- ════════════════════ COMBAT RECORDS ════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                03 — ACTIVE QUESTS                 -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0b1d35&height=58&text=%5B+ACTIVE+QUESTS+%5D&fontSize=18&fontColor=4FC3F7&fontAlignY=70&desc=Current+Arcs+%2F%2F+Season+1+%2F%2F+Priority+Ranked&descSize=11&descAlignY=28&descColor=FFC10799&animation=fadeIn"/>
+
+<br>
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════╗
-║          ◈  C O M B A T   R E C O R D S  ◈           ║
-║             GITHUB BATTLE STATISTICS                   ║
-╚════════════════════════════════════════════════════════╝
-```
+| ◈ | Quest | Status | Season |
+|:---:|:---|:---:|:---:|
+| `S` | **MCP Server Architecture** — *"The Grid Awakens"* | 🔴 `FINAL BOSS` | S · 1 |
+| `A` | **LangGraph Multi-Agent Systems** | 🟣 `ACTIVE` | S · 1 |
+| `A` | **Advanced RAG + Vector Search** | 🟡 `POWER-UP` | S · 1 |
+| `A` | **Real-time Computer Vision** | 🟣 `ACTIVE` | S · 1 |
+| `B` | **LLM Fine-tuning at Scale** | 🔵 `TRAINING ARC` | S · 2 |
+| `S` | **Bug Biceps Studio Launch** | 🟢 `CLIMAX` | S · 1 |
+
+</div>
+
+<br>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--               04 — BATTLE RECORDS                 -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0b1d35&height=58&text=%5B+BATTLE+RECORDS+%5D&fontSize=18&fontColor=4FC3F7&fontAlignY=70&desc=GitHub+Stats+%2F%2F+Streak+%2F%2F+Commit+History&descSize=11&descAlignY=28&descColor=FFC10799&animation=fadeIn"/>
+
+<br>
+
+<div align="center">
 
 <a href="https://github.com/nitinog10">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=030307&border_color=9333EA&title_color=9333EA&icon_color=F59E0B&text_color=06B6D4&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true"/>
-</a>&nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=050510&border_color=4FC3F725&title_color=4FC3F7&icon_color=FFC107&text_color=78909C&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true"/>
+</a>&nbsp;
 <a href="https://github.com/nitinog10">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=030307&border_color=9333EA&title_color=9333EA&text_color=06B6D4&hide_border=false&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=050510&border_color=4FC3F725&title_color=4FC3F7&text_color=78909C&hide_border=false&langs_count=8"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=030307&border=9333EA&stroke=9333EA&ring=F59E0B&fire=F59E0B&currStreakNum=06B6D4&sideNums=06B6D4&currStreakLabel=9333EA&sideLabels=9333EA&dates=4B5563" width="680"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=050510&border=4FC3F725&stroke=4FC3F7&ring=FFC107&fire=FF1744&currStreakNum=4FC3F7&sideNums=78909C&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=455060" width="680"/>
 
 <br><br>
 
-```
-  ╔═══════════════════════════════════════════╗
-  ║       NEURAL PATHWAY — COMMIT TRAIL       ║
-  ╚═══════════════════════════════════════════╝
-```
+<img src="https://github-profile-trophy.vercel.app/?username=nitinog10&theme=darkhub&no-frame=true&row=1&column=7&margin-w=6"/>
 
+</div>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=050510&color=4FC3F7&line=FFC107&point=FF1744&area=true&area_color=4FC3F710&hide_border=true&custom_title=COMMIT%20TRAIL%20%2F%2F%20DEPLOYMENT%20HISTORY" width="100%"/>
+
+<br>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
-
 </div>
-
----
-
-<!-- ═══════════════════ MISSION BOARD ═══════════════════ -->
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════╗
-║          ◈  A C T I V E   M I S S I O N S  ◈         ║
-╚════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-| PRIORITY | MISSION NAME | PHASE | SEASON |
-|:---:|:---|:---:|:---:|
-| `S` | **MCP Server Architecture** — *The Grid Awakens* | 🔴 `FINAL BOSS` | S1 |
-| `A` | **LangGraph Multi-Agent Systems** | 🟣 `ACTIVE COMBAT` | S1 |
-| `A` | **Advanced RAG + Vector Search** | 🟡 `POWER-UP PHASE` | S1 |
-| `A` | **Real-time Computer Vision** | 🟣 `ACTIVE COMBAT` | S1 |
-| `B` | **LLM Fine-tuning at Scale** | 🔵 `TRAINING ARC` | S2 |
-| `S` | **Bug Biceps Studio Launch** | 🟢 `CLIMAX` | S1 |
-
-</div>
-
----
-
-<!-- ══════════════════ SIGNAL COORDINATES ══════════════════ -->
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════╗
-║       ◈  S I G N A L   C O O R D I N A T E S  ◈     ║
-║             LOCATE THIS ENTITY ACROSS NETWORKS         ║
-╚════════════════════════════════════════════════════════╝
-```
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/◈_NEURAL_HUB-nitinn.dev-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=030307)](https://nitinn.dev/)
-&nbsp;
-[![Email](https://img.shields.io/badge/◈_TRANSMIT-nitiniszod10@gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030307)](mailto:nitiniszod10@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/◈_NETWORK_NODE-LinkedIn-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030307)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                05 — SIGNAL TRACE                  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0b1d35&height=58&text=%5B+SIGNAL+TRACE+%5D&fontSize=18&fontColor=4FC3F7&fontAlignY=70&desc=Locate+This+Entity+Across+All+Networks&descSize=11&descAlignY=28&descColor=FFC10799&animation=fadeIn"/>
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/◈_BROADCAST-@nitinn10__-7C3AED?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030307)](https://instagram.com/nitinn10_)
-&nbsp;
-[![Bug Biceps](https://img.shields.io/badge/◈_GUILD_BASE-bugbiceps.in-06B6D4?style=for-the-badge&logo=rss&logoColor=white&labelColor=030307)](https://bugbiceps.in)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/NEURAL%20HUB-nitinn.dev-050510?style=for-the-badge&logo=vercel&logoColor=4FC3F7&labelColor=071830)](https://nitinn.dev/)
+[![Email](https://img.shields.io/badge/TRANSMIT-Gmail-050510?style=for-the-badge&logo=gmail&logoColor=FF1744&labelColor=071830)](mailto:nitiniszod10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/NETWORK%20NODE-LinkedIn-050510?style=for-the-badge&logo=linkedin&logoColor=4FC3F7&labelColor=071830)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
+[![Instagram](https://img.shields.io/badge/BROADCAST-%40nitinn10__-050510?style=for-the-badge&logo=instagram&logoColor=FFC107&labelColor=071830)](https://instagram.com/nitinn10_)
+
+<br>
+
+[![Bug Biceps](https://img.shields.io/badge/%F0%9F%A6%BE%20GUILD%20BASE-bugbiceps.in%20%E2%80%94%20AI%20Production%20Studio-050510?style=for-the-badge&labelColor=071830&color=050510)](https://bugbiceps.in)
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nitinog10&color=9333EA&style=for-the-badge&label=SOULS+ENCOUNTERED)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/nitinog10?label=ALLIED+PLAYERS&style=for-the-badge&color=06B6D4&labelColor=030307)
+![Profile Views](https://komarev.com/ghpvc/?username=nitinog10&color=4FC3F7&style=flat-square&label=SOULS+ENCOUNTERED)
+&nbsp;&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/nitinog10?label=ALLIED+PLAYERS&style=flat-square&color=FFC107&labelColor=050510)
+
+</div>
 
 <br>
 
 ---
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                       
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--              CLOSING TRANSMISSION                 -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
 
 <br>
 
-```
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- ░  [ SYSTEM ]  Season 1 loading complete.  ░
- ░  [ SYSTEM ]  Season 2 — INCOMING...      ░
- ░  [ SYSTEM ]  This Arc is not over.       ░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=13&duration=3500&pause=2500&color=4FC3F760&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+%3E+Closing+transmission+for+UNIT%3A+NITIN+MISHRA...;%22The+training+arc+ended.+Production+is+the+final+boss.%22;%22Models+are+easy.+Systems+are+hard.+I+never+lost+a+deploy.%22;%5BSYSTEM%5D+%3E+Season+1+complete.+Season+2+%E2%80%94+INCOMING...;%5BSYSTEM%5D+%3E+This+arc+is+not+over.+%E2%96%8C)](https://github.com/nitinog10)
+
+<br>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:030307,40:0f0528,70:1a0545,100:030307&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,50:071830,100:050510&height=120&section=footer&animation=fadeIn"/>
