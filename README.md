@@ -1,8 +1,7 @@
 
 ![Python](https://img.shields.io/badge/Python-S_RANK-9333EA?style=for-the-badge&logo=python&logoColor=white&labelColor=030307)
 ![PyTorch](https://img.shields.io/badge/PyTorch-A_RANK-7C3AED?style=&logoColor=white&labelColor=030307)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-A_RANK-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=030307)
-![LangChain](https://img.shields.io/badge/LangChain-S_RANK-9333EA?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=030307)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-A_RANKgo=chainlink&logoColor=white&labelColor=030307)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-A_RANK-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=030307)
 ![LangGraph](https://img.shields.io/badge/LangGraph-MASTERING-06B6D4?style=for-the-badge&logo=graphql&logoColor=white&labelColor=030307)
 ![OpenCV](https://img.shields.io/badge/OpenCV-A_RANK-7C3AED?style=for-the-badge&logo=opencv&logoColor=white&labelColor=030307)
