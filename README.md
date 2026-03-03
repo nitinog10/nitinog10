@@ -1,14 +1,4 @@
 
-<br>
-
----
-
-<!-- ═══════════════════════ PLAYER PROFILE ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030307,100:0f0528&height=4&section=header" width="100%"/>
-
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │  [ PLAYER FILE ]  ▸  CLASSIFICATION: PUBLIC  ▸  RANK: S            │
