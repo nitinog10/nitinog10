@@ -8,6 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0D0D,60:1a0a12,100:0D0D0D&height=280&text=NITIN%20MISHRA&fontSize=96&fontColor=E94560&fontAlignY=54&animation=fadeIn&desc=ONE+ENGINEER.+IMPOSSIBLE+JOBS.+ZERO+FAILED+DEPLOYS.&descSize=14&descAlignY=74&descColor=F5A62399" width="100%"/>
 
 <br>
+
 ---
 
 <div align="center">
