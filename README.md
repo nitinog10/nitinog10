@@ -1,7 +1,4 @@
 
-╔════════════════════════════════════════════════════════╗
-║            ◈  A B I L I T Y   T R E E  
-
 ![Python](https://img.shields.io/badge/Python-S_RANK-9333EA?style=for-the-badge&logo=python&logoColor=white&labelColor=030307)
 ![PyTorch](https://img.shields.io/badge/PyTorch-A_RANK-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=030307)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-A_RANK-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=030307)
