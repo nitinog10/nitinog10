@@ -1,9 +1,7 @@
 
 ### &nbsp;`> current_missions --active`
 + [ACTIVE]       LangGraph Multi-Agent Systems
-+ [POWER-UP]     Advanced RAG + Vector Search
-+ [ACTIVE]       Real-time Computer Vision
-! [TRAINING]     LLM Fine-tuning at Scale
++ [POWER-UP]
 ! [CLIMAX]       Bug Biceps Studio Launch
 ```
 
