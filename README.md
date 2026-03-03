@@ -17,13 +17,7 @@
 
 <br>
 
-<div align="center">
-
-[![typing](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2400&pause=900&color=00B4D8&center=true&vCenter=true&width=680&lines=SIGNAL+ORIGIN+%E2%80%94+UNKNOWN.+SCANNING...;ENTITY+CONFIRMED+%E2%80%94+NITIN+MISHRA;CLASSIFICATION+%E2%80%94+GENAI+ARCHITECT+%2F+PRODUCTION+SYSTEMS;ANOMALY+DETECTED+%E2%80%94+ZERO+FAILED+DEPLOYMENTS+ON+RECORD;SIGNAL+STRONG.+TRANSMISSION+BEGINS+NOW.)](https://github.com/nitinog10)
-
-</div>
-
-<br><br>
+<br>
 
 ---
 
