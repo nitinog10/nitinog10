@@ -1,14 +1,3 @@
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  T H E   H E I S T  ·  NITIN MISHRA  ·  CODENAME: THE ARCHITECT
-  One engineer. impossible jobs. Zero failed deploys.
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0D0D,60:1a0a12,100:0D0D0D&height=280&text=THE%20HEIST&fontSize=96&fontColor=E94560&fontAlignY=54&animation=fadeIn&desc=ONE+ENGINEER.+IMPOSSIBLE+JOBS.+ZERO+FAILED+DEPLOYS.&descSize=14&descAlignY=74&descColor=F5A62399" width="100%"/>
-
-<br>
-
 [![](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&duration=2600&pause=1000&color=E94560&center=true&vCenter=true&width=750&lines=Close+the+door.+Sit+down.+We+don%27t+have+much+time.;The+job+is+simple%3A+build+what+they+said+can%27t+be+built.;Ship+what+they+said+can%27t+ship.;They%27ve+been+wrong+every+single+time.;This+is+the+story+of+NITIN+MISHRA+%E2%80%94+THE+ARCHITECT.)](https://github.com/nitinog10)
 
 </div>
