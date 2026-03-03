@@ -1,11 +1,4 @@
 
-
-<img align="right" width="35%" src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif"/>
-
-### &nbsp;`> whoami`
-
-```yaml
-ENTITY:      Nitin Mishra
 CLASS:       GenAI Architect · ML Engineer
 GUILD:       Bug Biceps Studio  [CO-FOUNDER]
 FACTION:     Entop Learning     [ENGINEERING]
