@@ -1,34 +1,16 @@
-<!--------------------------------------------------------------------------
-  ████████╗██╗  ██╗███████╗    ██████╗  █████╗ ██╗██╗  ██╗   ██╗
-     ██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔══██╗██║██║  ╚██╗ ██╔╝
-     ██║   ███████║█████╗      ██║  ██║███████║██║██║   ╚████╔╝
-     ██║   ██╔══██║██╔══╝      ██║  ██║██╔══██║██║██║    ╚██╔╝
-     ██║   ██║  ██║███████╗    ██████╔╝██║  ██║██║███████╗██║
-     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝
-  THE DAILY ARCHITECT · EST. THE NIGHT HE FIRST DEPLOYED AT 3AM
---------------------------------------------------------------------------->
-
-<!-- ═══════════════════════ MASTHEAD ═══════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  T H E   H E I S T
+  One engineer. Six impossible jobs. Zero failed deploys.
+  Story of: NITIN MISHRA  ·  Codename: THE ARCHITECT
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=10" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0D0D,60:1a0a12,100:0D0D0D&height=280&text=THE%20HEIST&fontSize=96&fontColor=E94560&fontAlignY=54&animation=fadeIn&desc=ONE+ENGINEER.+SIX+IMPOSSIBLE+JOBS.+ZERO+FAILED+DEPLOYS.&descSize=14&descAlignY=74&descColor=F5A62399" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F0E8,100:F5F0E8&height=16" width="100%"/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=110&text=THE%20DAILY%20ARCHITECT&fontSize=62&fontColor=F5F0E8&fontAlignY=64&animation=fadeIn" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C41E3A,100:C41E3A&height=6" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=36&text=EST.+03%3A47+%C2%B7+THE+NIGHT+THE+MODEL+SHIPPED+%C2%B7+ISSUE+No.+001+%C2%B7+%22FOR+BUILDERS+ONLY%22+%C2%B7+FREE+%C2%B7+WORLDWIDE&fontSize=11&fontColor=F5F0E8&fontAlignY=62" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F0E8,100:F5F0E8&height=4" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![typing](https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=17&duration=2800&pause=1000&color=F5F0E8&center=true&vCenter=true&width=740&lines=%22All+the+AI+that%27s+fit+to+ship.%22;BREAKING%3A+Local+Engineer+Ships+Model+to+Production+at+3AM%3B+Refuses+to+Stop;EXCLUSIVE%3A+Source+Confirms+Zero+Failed+Deployments+on+Record;TONIGHT%3A+The+Architect+Continues+Building+While+You+Sleep)](https://github.com/nitinog10)
+[![](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&duration=2600&pause=1000&color=E94560&center=true&vCenter=true&width=750&lines=Close+the+door.+Sit+down.+We+don%27t+have+much+time.;The+job+is+simple%3A+build+what+they+said+can%27t+be+built.;Ship+what+they+said+can%27t+ship.;They%27ve+been+wrong+every+single+time.;This+is+the+story+of+NITIN+MISHRA+%E2%80%94+THE+ARCHITECT.)](https://github.com/nitinog10)
 
 </div>
 
@@ -36,157 +18,100 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECTION A  ─  FRONT PAGE══════════════════════════════════ -->
+<!--------------------------------------------------------------------------
+  ACT I — THE BRIEFING ROOM
+  Who is this man? Why is he here? What does he want?
+--------------------------------------------------------------------------->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=40&text=%E2%96%88%E2%96%88%E2%96%88%20SECTION+A+%E2%80%94+FRONT+PAGE+%E2%96%88%E2%96%88%E2%96%88&fontSize=14&fontColor=F5F0E8&fontAlignY=64" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:150a0d&height=56&text=%5B+ACT+I+%5D+%E2%80%94+THE+BRIEFING+ROOM&fontSize=20&fontColor=E94560&fontAlignY=70&desc=Who+he+is.+Where+he+came+from.+Why+he+never+loses.&descSize=11&descAlignY=26&descColor=F5A62388"/>
 </div>
 
 <br>
 
 <table>
 <tr>
-
-<!-- COLUMN 1: MAIN STORY -->
-<td width="40%" valign="top">
+<td width="55%" valign="top">
 
 ```
- ┌──────────────────────────────────────┐
- │  ⬛ BREAKING NEWS                    │
- └──────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────────┐
+  │  PRE-MISSION BRIEF  ·  EYES ONLY  ·  BURN AFTER USE │
+  └─────────────────────────────────────────────────────┘
 
- LOCAL ENGINEER BUILDS WHAT EVERYONE
- SAID WAS IMPOSSIBLE — SHIPS IT LIVE
- ─────────────────────────────────────
- By Staff Reporter  ·  3AM Edition
+  The room is dark when he arrives.
 
- In a development that has left the
- engineering community speechless,
- NITIN MISHRA — known only as
- "The Architect" in certain circles —
- has once again shipped a production
- AI system without a single failure.
+  It's always dark when he arrives.
 
- "He was still at his desk at 04:00,"
- said one anonymous witness. "The
- model was broken. The deadline had
- passed. He didn't care."
+  He doesn't need the lights. He knows exactly
+  where everything is — every line of code,
+  every broken model, every deploy pipeline
+  that everyone else gave up on.
 
- At 04:12, the logs turned green.
- At 04:13, the system went live.
- At 04:14, he opened the next task.
+  He never gives up.
 
- This marks the Architect's [REDACTED]
- consecutive zero-failure deployment —
- a record our analysts have described
- as "statistically unreasonable."
+  They said the model was too complex.
+  He shipped it.
 
- When reached for comment, Mishra
- declined an interview.
+  They said the deadline was impossible.
+  He made it.
 
- He was deploying something.
- ─────────────────────────────────────
- Continued on Page 3, Col. 2
+  They said no one deploys at 3AM alone
+  and wins. He does it every week.
+
+  His name is NITIN MISHRA.
+
+  In the field, they call him
+  THE ARCHITECT.
+
+  He doesn't have a catchphrase.
+  He has a commit history.
+
+  ─────────────────────────────────────────────────────
+  "Not the kind who writes papers.
+   The kind who ships."
+  ─────────────────────────────────────────────────────
 ```
 
 </td>
+<td width="45%" valign="top" align="center">
 
-<!-- COLUMN 2: PORTRAIT + PROFILE -->
-<td width="30%" valign="top" align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="96%"/>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+<br>
 
-```
- SUBJECT PROFILE
- ───────────────
- NAME  : Nitin Mishra
- ALIAS : The Architect
- ───────────────
- ROLE  : GenAI Architect
-         ML Engineer
- ───────────────
- GUILD : Bug Biceps
-         [CO-FOUNDER]
- BASE  : Entop Learning
-         [ENGINEER]
- ───────────────
- LOST  : 0 deploys
- WON   : All of them
-```
-
-</td>
-
-<!-- COLUMN 3: SIDEBAR NEWS -->
-<td width="30%" valign="top">
-
-```
- ┌────────────────────────────────┐
- │  ALSO IN TODAY'S EDITION       │
- └────────────────────────────────┘
-
- · BUG BICEPS STUDIO APPROACHES
-   LAUNCH — Sources close to the
-   AI production firm confirm the
-   final chapter is near. Page 4.
-
- · LANGGRAPH MULTI-AGENT BUILD
-   ENTERS CRITICAL PHASE — Our
-   tech correspondent reports from
-   inside the repo. Page 6.
-
- · MCP ARCHITECTURE: EXCLUSIVE
-   DEEP DIVE — The Grid is real.
-   Page 7.
-
- · COMPUTER VISION SYSTEM GOES
-   LIVE IN REAL TIME — Machines
-   can see now. He made it so.
-   Page 5.
-
- ─────────────────────────────────
-
- ┌────────────────────────────────┐
- │  MARKET WATCH                  │
- ├────────────────────────────────┤
- │  Deployments  ▲ ALL TIME HIGH │
- │  Sleep Hours  ▼ ALL TIME LOW  │
- │  Models Built ▲ RISING        │
- │  Bugs Shipped ▼ ZERO          │
- │  Coffee (cups)▲ CRITICAL PEAK │
- └────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:150a0d&height=130&text=CODENAME%3A%0ATHE+ARCHITECT&fontSize=22&fontColor=E94560&fontAlignY=44&desc=GenAI+Architect+%C2%B7+ML+Engineer%0ABug+Biceps+%5BCO-FOUNDER%5D%0AEntop+Learning+%5BENGINEER%5D&descSize=12&descAlignY=82&descColor=C8C8C8" width="96%"/>
 
 </td>
 </tr>
 </table>
 
+<br>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C41E3A,100:C41E3A&height=4" width="100%"/>
+
+| &nbsp; | FIELD STAT | RECORDED VALUE |
+|:---:|:---|:---:|
+| `▸` | Full Name | **Nitin Mishra** |
+| `▸` | Mission Codename | **The Architect** |
+| `▸` | Primary Guild | **Bug Biceps** `[CO-FOUNDER]` |
+| `▸` | Active Post | **Entop Learning** `[ENGINEER]` |
+| `▸` | Doctrine | **Build fast. Break nothing. Ship harder.** |
+| `▸` | Deploy Losses | **`ZERO — CONFIRMED`** |
+| `▸` | Current Arc | **LangGraph · MCP · RAG · CV** |
+
 </div>
 
 <br>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECTION B  ─  TECH SUPPLEMENT
-     ═══════════════════════════════════════════════════════════ -->
+<!--------------------------------------------------------------------------
+  ACT II — THE EQUIPMENT ROOM
+  Every heist needs the right tools. Here's what he carries.
+--------------------------------------------------------------------------->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=40&text=%E2%96%88%E2%96%88%E2%96%88%20SECTION+B+%E2%80%94+TECH+SUPPLEMENT+%E2%96%88%E2%96%88%E2%96%88&fontSize=14&fontColor=F5F0E8&fontAlignY=64" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-
-```
- WEAPONS INVENTORY LEAKED — FULL LIST PUBLISHED
- ────────────────────────────────────────────────────────────────────────────
- Our investigative team obtained the complete arsenal. We publish it in full.
-```
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:150a0d&height=56&text=%5B+ACT+II+%5D+%E2%80%94+THE+EQUIPMENT+ROOM&fontSize=20&fontColor=E94560&fontAlignY=70&desc=Every+heist+needs+the+right+tools.+These+are+his.&descSize=11&descAlignY=26&descColor=F5A62388"/>
 </div>
 
 <br>
@@ -196,172 +121,134 @@
 <td width="34%" valign="top">
 
 ```
- THE AI ARSENAL
- ══════════════════════════════
+  THE RULE OF THIS ROOM:
 
- Our weapons correspondent
- reports the following
- confirmed capabilities:
+  Nothing on this wall
+  is theoretical.
 
- Python       ████████████ 100
-              [ ABSOLUTE ]
+  Every tool listed here
+  has been used.
 
- LangChain    ███████████░  97
-              [ ABSOLUTE ]
+  In production.
+  Under a deadline.
+  When everything else
+  was on fire.
 
- scikit-learn ███████████░  94
-              [ ABSOLUTE ]
+  Nothing flinched.
+  Neither did he.
 
- PyTorch      ██████████░░  90
-              [ EXPERT ]
+  ─────────────────────
 
- TensorFlow   ██████████░░  90
-              [ EXPERT ]
+  GRADE SCALE:
 
- HuggingFace  █████████░░░  87
-              [ EXPERT ]
+  ◆ FLAWLESS
+    No known limit.
+    Has never failed.
 
- OpenCV       █████████░░░  84
-              [ EXPERT ]
+  ◈ BATTLE-HARDENED
+    Deployed and proven.
+    Multiple times.
 
- RAG Systems  █████████░░░  88
-              [ EXPERT ]
+  ◇ ASCENDING
+    Mid-upgrade.
+    Becoming dangerous.
 
- LangGraph    ████████░░░░  73
-              [ ⚡ ASCENDING ]
-
- MCP Servers  ███████░░░░░  70
-              [ ⚡ ASCENDING ]
-
- ──────────────────────────────
- Sources refuse to confirm
- whether the ASCENDING weapons
- will be contained.
- Our estimate: they will not.
+  ─────────────────────
 ```
 
 </td>
 <td width="33%" valign="top">
 
-```
- THE INFRA FORTRESS
- ══════════════════════════════
+**`▌NEURAL DIVISION — AI & ML`**
 
- Infrastructure confirmed
- battle-hardened. All of the
- below have survived production.
+| TOOL | GRADE |
+|:---|:---:|
+| Python | `◆ FLAWLESS` |
+| LangChain | `◆ FLAWLESS` |
+| scikit-learn | `◆ FLAWLESS` |
+| RAG Systems | `◆ FLAWLESS` |
+| PyTorch | `◈ BATTLE-HARDENED` |
+| TensorFlow | `◈ BATTLE-HARDENED` |
+| HuggingFace | `◈ BATTLE-HARDENED` |
+| OpenCV | `◈ BATTLE-HARDENED` |
+| MLflow | `◈ BATTLE-HARDENED` |
+| LangGraph | `◇ ASCENDING` |
+| MCP Servers | `◇ ASCENDING` |
 
- FastAPI      ████████████ 100
-              [ ABSOLUTE ]
+<br>
 
- Docker       ████████████ 100
-              [ ABSOLUTE ]
+**`▌SHADOW DIVISION — FRONTEND`**
 
- AWS          ███████████░  96
-              [ ABSOLUTE ]
-
- Django       ██████████░░  91
-              [ EXPERT ]
-
- Node.js      ██████████░░  91
-              [ EXPERT ]
-
- PostgreSQL   █████████░░░  88
-              [ EXPERT ]
-
- MongoDB      █████████░░░  88
-              [ EXPERT ]
-
- GCP          █████████░░░  85
-              [ EXPERT ]
-
- ──────────────────────────────
-
- THE FRONTEND UNIT
- ══════════════════════════════
-
- React        ████████████ 100
- TailwindCSS  ████████████ 100
- Next.js      ██████████░░  92
- TypeScript   ██████████░░  91
- Three.js     ███████░░░░░  74
-```
+| TOOL | GRADE |
+|:---|:---:|
+| React | `◆ FLAWLESS` |
+| TailwindCSS | `◆ FLAWLESS` |
+| Next.js | `◈ BATTLE-HARDENED` |
+| TypeScript | `◈ BATTLE-HARDENED` |
+| Three.js | `◇ ASCENDING` |
 
 </td>
 <td width="33%" valign="top">
 
+**`▌IRON DIVISION — BACKEND`**
+
+| TOOL | GRADE |
+|:---|:---:|
+| FastAPI | `◆ FLAWLESS` |
+| Docker | `◆ FLAWLESS` |
+| AWS | `◆ FLAWLESS` |
+| Django | `◈ BATTLE-HARDENED` |
+| Node.js | `◈ BATTLE-HARDENED` |
+| PostgreSQL | `◈ BATTLE-HARDENED` |
+| MongoDB | `◈ BATTLE-HARDENED` |
+| GCP | `◈ BATTLE-HARDENED` |
+
+<br>
+
 ```
- EDITORIAL: THE THREAT QUESTION
- ══════════════════════════════════
+  ANALYST NOTE:
 
- By the Editor-in-Chief
+  The two tools marked
+  ◇ ASCENDING are the
+  ones we're watching.
 
- We have been asked, repeatedly,
- whether Nitin Mishra's capability
- profile represents a threat
- to the status quo.
+  When The Architect
+  finishes upgrading,
+  those become
+  ◆ FLAWLESS.
 
- Our answer: yes.
+  They always do.
 
- Not the dangerous kind.
- The disruptive kind.
-
- The kind that takes something
- broken and makes it breathe.
- The kind that doesn't wait for
- permission to build.
-
- He doesn't theorize.
- He doesn't tweet threads
- about what he plans to build.
-
- He ships.
-
- Three tools marked ASCENDING
- this quarter alone. Our analysts
- project full mastery before the
- end of Season Ⅱ.
-
- We do not know what he's building
- next. Neither does he, probably.
- He'll figure it out at 3AM and
- ship it before sunrise.
-
- He always does.
-
- — Ed.
- ──────────────────────────────────
+  We've never seen
+  a tool stay at
+  ASCENDING for long
+  under his hands.
 ```
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C41E3A,100:C41E3A&height=4" width="100%"/>
-</div>
-
 <br>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECTION C  ─  OPERATIONS DESK
-     ═══════════════════════════════════════════════════════════ -->
+<!--------------------------------------------------------------------------
+  ACT III — THE BOARD
+  Six jobs. All active. The plan for each.
+--------------------------------------------------------------------------->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=40&text=%E2%96%88%E2%96%88%E2%96%88%20SECTION+C+%E2%80%94+OPERATIONS+DESK+%E2%96%88%E2%96%88%E2%96%88&fontSize=14&fontColor=F5F0E8&fontAlignY=64" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:150a0d&height=56&text=%5B+ACT+III+%5D+%E2%80%94+THE+BOARD&fontSize=20&fontColor=E94560&fontAlignY=70&desc=Six+active+jobs.+All+running+simultaneously.+None+abandoned.&descSize=11&descAlignY=26&descColor=F5A62388"/>
 </div>
 
 <br>
 
-<div align="center">
-
 ```
- SIX ACTIVE OPERATIONS · ALL OPEN · NONE ABANDONED · SOURCES CONFIRM
+  Most people pick one job and struggle.
+  The Architect runs six — simultaneously — and is winning all of them.
+  Here's what's on the board.
 ```
-
-</div>
 
 <br>
 
@@ -370,151 +257,141 @@
 <td width="50%" valign="top">
 
 ```
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- OP CODENAME: THE GRID
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- MCP Server Architecture
- PRIORITY: S-CLASS  ·  STATUS: FINAL BOSS
- SEASON: Ⅰ  ·  CHAPTER: CLOSING
+ ╔══════════════════════════════════════════╗
+ ║  JOB №1 — THE GRID                      ║
+ ║  MCP Server Architecture                ║
+ ╠══════════════════════════════════════════╣
+ ║  STATUS  : ██████████  FINAL CHAPTER    ║
+ ║  THREAT  : S-CLASS                      ║
+ ║  SEASON  : I  ·  Closing               ║
+ ╠══════════════════════════════════════════╣
+ ║  "Everyone said the architecture was    ║
+ ║   too ambitious. He called that         ║
+ ║   a feature. The Grid is almost         ║
+ ║   complete. We can't stop it."          ║
+ ╚══════════════════════════════════════════╝
+```
 
- CORRESPONDENT REPORT:
+```
+ ╔══════════════════════════════════════════╗
+ ║  JOB №2 — MANY MINDS                    ║
+ ║  LangGraph Multi-Agent Systems          ║
+ ╠══════════════════════════════════════════╣
+ ║  STATUS  : ███████░░░  ACTIVE PHASE     ║
+ ║  THREAT  : A-CLASS                      ║
+ ║  SEASON  : I  ·  Mid-Arc               ║
+ ╠══════════════════════════════════════════╣
+ ║  "He gave the system twenty minds       ║
+ ║   instead of one. They coordinate.      ║
+ ║   They decide. They execute.            ║
+ ║   All of them under his control."       ║
+ ╚══════════════════════════════════════════╝
+```
 
- "The Grid" — as insiders have taken
- to calling it — is the most ambitious
- infrastructure project our desk has
- covered this cycle.
-
- MCP Server architecture at a scale
- that most teams would consider
- reckless. The Architect considers
- it Tuesday.
-
- Final chapter. Sources say the end
- is near. We believe them.
- ──────────────────────────────────
-
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- OP CODENAME: MANY MINDS
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- LangGraph Multi-Agent Systems
- PRIORITY: A-CLASS  ·  STATUS: ACTIVE
- SEASON: Ⅰ  ·  CHAPTER: MID-ARC
-
- He's building systems where multiple
- agents think in parallel. Coordinate.
- Decide. Execute.
-
- One mind wasn't enough.
- He gave it twenty.
-
- ──────────────────────────────────
-
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- OP CODENAME: MEMORY PALACE
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- Advanced RAG + Vector Search
- PRIORITY: A-CLASS  ·  STATUS: SURGING
- SEASON: Ⅰ  ·  CHAPTER: CLIMAX
-
- He taught machines to remember.
- Not approximate. Not hallucinate.
- Remember.
- ──────────────────────────────────
+```
+ ╔══════════════════════════════════════════╗
+ ║  JOB №3 — THE MEMORY                    ║
+ ║  Advanced RAG + Vector Search           ║
+ ╠══════════════════════════════════════════╣
+ ║  STATUS  : ████████░░  POWER SURGE      ║
+ ║  THREAT  : A-CLASS                      ║
+ ║  SEASON  : I  ·  Climax                ║
+ ╠══════════════════════════════════════════╣
+ ║  "He taught the model to remember.      ║
+ ║   Not pretend to remember.              ║
+ ║   Not hallucinate a past.               ║
+ ║   Actually. Remember."                  ║
+ ╚══════════════════════════════════════════╝
 ```
 
 </td>
 <td width="50%" valign="top">
 
 ```
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- OP CODENAME: OPEN EYE
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- Real-time Computer Vision
- PRIORITY: A-CLASS  ·  STATUS: ACTIVE
- SEASON: Ⅰ  ·  CHAPTER: MID-ARC
+ ╔══════════════════════════════════════════╗
+ ║  JOB №4 — OPEN EYE                      ║
+ ║  Real-time Computer Vision              ║
+ ╠══════════════════════════════════════════╣
+ ║  STATUS  : ███████░░░  ACTIVE PHASE     ║
+ ║  THREAT  : A-CLASS                      ║
+ ║  SEASON  : I  ·  Mid-Arc               ║
+ ╠══════════════════════════════════════════╣
+ ║  "He built eyes for the machine.        ║
+ ║   Not to process old frames.            ║
+ ║   Live. Streaming. Real-time.           ║
+ ║   The machine can see now."             ║
+ ╚══════════════════════════════════════════╝
+```
 
- Machines can see now.
- Not from recorded footage.
- Real time. Live. Responsive.
+```
+ ╔══════════════════════════════════════════╗
+ ║  JOB №5 — THE RESHAPE                   ║
+ ║  LLM Fine-tuning at Scale               ║
+ ╠══════════════════════════════════════════╣
+ ║  STATUS  : █████░░░░░  TRAINING ARC     ║
+ ║  THREAT  : B → S  (RISING)             ║
+ ║  SEASON  : II  ·  Opening              ║
+ ╠══════════════════════════════════════════╣
+ ║  "He stopped using the models.          ║
+ ║   Now he's reshaping them.              ║
+ ║   Bending weights to his will.          ║
+ ║   Season II will look different."       ║
+ ╚══════════════════════════════════════════╝
+```
 
- He built the eye.
- He opened it.
- ──────────────────────────────────
-
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- OP CODENAME: THE FINE CUT
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- LLM Fine-tuning at Scale
- PRIORITY: B-CLASS  ·  STATUS: TRAINING
- SEASON: Ⅱ  ·  CHAPTER: OPENING
-
- This is the most dangerous arc.
-
- He is no longer just using AI.
- He is reshaping it. Bending its
- weights to his specific vision.
-
- Season Ⅱ will be different because
- of what happens in this operation.
- Our analysts are watching closely.
- ──────────────────────────────────
-
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- OP CODENAME: THE STUDIO
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- Bug Biceps — AI Production Studio
- PRIORITY: S-CLASS  ·  STATUS: FINAL APPROACH
- SEASON: Ⅰ  ·  CHAPTER: LAST PAGE
-
- He didn't join a company.
- He built one. From nothing.
- From a name and a conviction
- that AI should ship, not theorize.
-
- bugbiceps.in  ·  Remember this.
- ──────────────────────────────────
+```
+ ╔══════════════════════════════════════════╗
+ ║  JOB №6 — THE STUDIO                    ║
+ ║  Bug Biceps — AI Production Studio      ║
+ ╠══════════════════════════════════════════╣
+ ║  STATUS  : █████████░  FINAL APPROACH   ║
+ ║  THREAT  : S-CLASS                      ║
+ ║  SEASON  : I  ·  Last Page             ║
+ ╠══════════════════════════════════════════╣
+ ║  "He didn't join a company.             ║
+ ║   He built one. From zero.              ║
+ ║   From a belief that AI should          ║
+ ║   ship — not sit in a paper."           ║
+ ╚══════════════════════════════════════════╝
 ```
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C41E3A,100:C41E3A&height=4" width="100%"/>
-</div>
-
 <br>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECTION D  ─  STATISTICS & RECORDS
-     ═══════════════════════════════════════════════════════════ -->
+<!--------------------------------------------------------------------------
+  ACT IV — THE EVIDENCE WALL
+  Numbers don't lie. This is his record.
+--------------------------------------------------------------------------->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=40&text=%E2%96%88%E2%96%88%E2%96%88%20SECTION+D+%E2%80%94+STATISTICS+%26+RECORDS+%E2%96%88%E2%96%88%E2%96%88&fontSize=14&fontColor=F5F0E8&fontAlignY=64" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:150a0d&height=56&text=%5B+ACT+IV+%5D+%E2%80%94+THE+EVIDENCE+WALL&fontSize=20&fontColor=E94560&fontAlignY=70&desc=His+record.+Independently+verified.+Impossible+to+dispute.&descSize=11&descAlignY=26&descColor=F5A62388"/>
 </div>
 
 <br>
 
-<div align="center">
-
 ```
- OFFICIAL PERFORMANCE DATA  ·  INDEPENDENTLY VERIFIED  ·  UNCONTESTED
+  You want proof? It's all here. Every commit is a closed case.
 ```
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/nitinog10">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=0f0f0f&border_color=F5F0E820&title_color=F5F0E8&icon_color=C41E3A&text_color=8D8D8D&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=0D0D0D&border_color=E9456020&title_color=E94560&icon_color=F5A623&text_color=808080&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true"/>
 </a>&nbsp;
 <a href="https://github.com/nitinog10">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=0f0f0f&border_color=F5F0E820&title_color=F5F0E8&text_color=8D8D8D&hide_border=false&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=0D0D0D&border_color=E9456020&title_color=E94560&text_color=808080&hide_border=false&langs_count=8"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=0f0f0f&border=F5F0E820&stroke=F5F0E8&ring=C41E3A&fire=C41E3A&currStreakNum=F5F0E8&sideNums=8D8D8D&currStreakLabel=F5F0E8&sideLabels=F5F0E8&dates=555555" width="680"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=0D0D0D&border=E9456020&stroke=E94560&ring=F5A623&fire=E94560&currStreakNum=E94560&sideNums=808080&currStreakLabel=E94560&sideLabels=E94560&dates=404040" width="680"/>
 
 <br><br>
 
@@ -524,7 +401,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=0f0f0f&color=F5F0E8&line=C41E3A&point=F5F0E8&area=true&area_color=C41E3A15&hide_border=true&custom_title=COMMIT%20RECORD%20%E2%80%94%20THE%20OFFICIAL%20DAILY%20ARCHITECT%20PERFORMANCE%20CHART" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=0D0D0D&color=E94560&line=F5A623&point=E94560&area=true&area_color=E9456015&hide_border=true&custom_title=THE%20ARCHITECT%27S%20CASE%20LOG%20%E2%80%94%20EVERY%20COMMIT%20A%20CLOSED%20JOB" width="100%"/>
 
 <br>
 
@@ -535,111 +412,95 @@
 </picture>
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C41E3A,100:C41E3A&height=4" width="100%"/>
-</div>
-
 <br>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECTION E  ─  CLASSIFIEDS
-     ═══════════════════════════════════════════════════════════ -->
+<!--------------------------------------------------------------------------
+  ACT V — THE GETAWAY
+  Every heist needs an exit. Here's where to find him.
+--------------------------------------------------------------------------->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=40&text=%E2%96%88%E2%96%88%E2%96%88%20SECTION+E+%E2%80%94+CLASSIFIEDS+%E2%96%88%E2%96%88%E2%96%88&fontSize=14&fontColor=F5F0E8&fontAlignY=64" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:150a0d&height=56&text=%5B+ACT+V+%5D+%E2%80%94+THE+GETAWAY&fontSize=20&fontColor=E94560&fontAlignY=70&desc=Every+heist+needs+an+exit.+Here%27s+where+to+find+him.&descSize=11&descAlignY=26&descColor=F5A62388"/>
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ```
- PERSONAL
- ─────────────────────────────────
- BUILDER AVAILABLE for serious
- projects only. GenAI Architect.
- ML Engineer. Ships to production.
- No meetings without purpose.
- Contact via channels below.
- ─────────────────────────────────
-
- LOST & FOUND
- ─────────────────────────────────
- LOST: Several hours of sleep.
- Last seen: before the first deploy.
- REWARD: Another shipped model.
- ─────────────────────────────────
-
- FOR SALE
- ─────────────────────────────────
- EXCUSES: Never owned any.
- Nothing to sell here. Move on.
- ─────────────────────────────────
+  He responds to builders.
+  Not talkers. Not theorists.
+  If you build — reach out.
+  He'll be at his desk.
+  He's always at his desk.
 ```
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-```
- REACH THE ARCHITECT
- ══════════════════════════════════
-```
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/HQ-nitinn.dev-0f0f0f?style=flat-square&logo=vercel&logoColor=F5F0E8&labelColor=1a1a1a)](https://nitinn.dev/)
-[![Email](https://img.shields.io/badge/WIRE-nitiniszod10%40gmail.com-0f0f0f?style=flat-square&logo=gmail&logoColor=C41E3A&labelColor=1a1a1a)](mailto:nitiniszod10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/NETWORK-LinkedIn-0f0f0f?style=flat-square&logo=linkedin&logoColor=F5F0E8&labelColor=1a1a1a)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
-[![Instagram](https://img.shields.io/badge/SIGNAL-%40nitinn10__-0f0f0f?style=flat-square&logo=instagram&logoColor=F5F0E8&labelColor=1a1a1a)](https://instagram.com/nitinn10_)
-[![BugBiceps](https://img.shields.io/badge/%F0%9F%A6%BE-bugbiceps.in-0f0f0f?style=flat-square&labelColor=1a1a1a)](https://bugbiceps.in)
-
-```
-
- ══════════════════════════════════
-```
-
-![](https://komarev.com/ghpvc/?username=nitinog10&color=C41E3A&style=flat-square&label=DAILY+READERS)
+[![](https://img.shields.io/badge/%E2%96%B8%20%20COMMAND%20BASE-nitinn.dev-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E94560&labelColor=150a0d)](https://nitinn.dev/)
 &nbsp;
-![](https://img.shields.io/github/followers/nitinog10?label=SUBSCRIBERS&style=flat-square&color=F5F0E8&labelColor=0f0f0f)
+[![](https://img.shields.io/badge/%E2%96%B8%20%20DIRECT%20LINE-Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E94560&labelColor=150a0d)](mailto:nitiniszod10@gmail.com)
+&nbsp;
+[![](https://img.shields.io/badge/%E2%96%B8%20%20NETWORK-LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F5A623&labelColor=150a0d)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
+&nbsp;
+[![](https://img.shields.io/badge/%E2%96%B8%20%20OPEN%20FREQ-%40nitinn10__-0D0D0D?style=for-the-badge&logo=instagram&logoColor=F5A623&labelColor=150a0d)](https://instagram.com/nitinn10_)
 
-</td>
-</tr>
-</table>
+<br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C41E3A,100:C41E3A&height=4" width="100%"/>
+[![](https://img.shields.io/badge/%F0%9F%A6%BE%20%20THE%20STUDIO%20%E2%80%94%20BUG%20BICEPS%20%7C%20AI%20PRODUCTION%20%7C%20bugbiceps.in-0D0D0D?style=for-the-badge&labelColor=150a0d&color=0D0D0D)](https://bugbiceps.in)
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=nitinog10&color=E94560&style=flat-square&label=CASE+FILES+OPENED)
+&nbsp;&nbsp;
+![](https://img.shields.io/github/followers/nitinog10?label=CREW+ASSEMBLED&style=flat-square&color=F5A623&labelColor=0D0D0D)
+
 </div>
 
 <br>
 
 ---
 
-<!-- ═══════════════════════  BACK PAGE  ═══════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  THE CLOSING  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
 <br>
 
 ```
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  EDITOR'S FINAL NOTE  ·  THE DAILY ARCHITECT  ·  ISSUE No. 001
-
-
-  Season Ⅰ — CLOSING.  Season Ⅱ — ON PRESS.  This edition — NOT THE LAST.
-
-  THE DAILY ARCHITECT  ·  Est. 03:47  ·  Printed in the void  ·  © Nitin Mishra
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                                                                      ║
+  ║   The lights go off at 04:13.                                       ║
+  ║                                                                      ║
+  ║   The job is done. The model is live. The deploy succeeded.         ║
+  ║   Again.                                                             ║
+  ║                                                                      ║
+  ║   He doesn't celebrate. He opens the next task.                     ║
+  ║                                                                      ║
+  ║   "The training arc is over.                                        ║
+  ║    Production is the final boss.                                    ║
+  ║    Models are easy. Systems are hard.                               ║
+  ║    I do the hard part.                                              ║
+  ║    And I have never — not once — lost a deploy."                   ║
+  ║                                                                      ║
+  ║                               — Nitin Mishra  ·  every single day  ║
+  ║                                                                      ║
+  ║   Season Ⅰ  →  Closing.                                            ║
+  ║   Season Ⅱ  →  Already being written.                              ║
+  ║   This heist  →  Not over.                                          ║
+  ║                                                                      ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-[![](https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=13&duration=4000&pause=2500&color=F5F0E840&center=true&vCenter=true&width=650&lines=Next+Issue+%E2%80%94+Coming+Soon.;%22All+the+AI+that%27s+fit+to+ship.%22;The+Architect+is+still+at+his+desk.)](https://github.com/nitinog10)
+<br>
+
+[![](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=13&duration=4000&pause=2500&color=E9456055&center=true&vCenter=true&width=680&lines=To+be+continued...;%E2%80%94+The+Architect+%7C+Vol.+I+%7C+Season+II+Incoming;One+more+job.+There%27s+always+one+more+job.)](https://github.com/nitinog10)
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F0E8,100:F5F0E8&height=8" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=36&text=THE+DAILY+ARCHITECT+%C2%B7+ISSUE+No.+001+%C2%B7+%22ALL+THE+AI+THAT%27S+FIT+TO+SHIP%22+%C2%B7+%C2%A9+NITIN+MISHRA&fontSize=10&fontColor=F5F0E850&fontAlignY=62" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C41E3A,100:C41E3A&height=6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E94560,100:E94560&height=4&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0D0D,100:150a0d&height=100&section=footer&text=THE+HEIST+%C2%B7+NITIN+MISHRA+%C2%B7+ONE+MORE+JOB&fontSize=14&fontColor=E9456040&fontAlignY=60&animation=fadeIn" width="100%"/>
