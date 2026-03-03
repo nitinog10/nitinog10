@@ -1,18 +1,7 @@
 
 ### &nbsp;`> current_miss
 │  "Models are easy. Systems are hard.         │
-│   I build the hard part."                    │
-│                                              │
-│   → Build fast.  Break nothing.  Ship.       │
-╰──────────────────────────────────────────────╯
-```
-
-<br clear="both"/>
-
----
-
-<!-- ═════════════════════ ABILITY TREE ═════════════════════ -->
-
+│   I build the hard pa
 <div align="center">
 
 ```
