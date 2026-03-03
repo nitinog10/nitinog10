@@ -37,8 +37,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
-     SECTION A  ─  FRONT PAGE
-     ═══════════════════════════════════════════════════════════ -->
+     SECTION A  ─  FRONT PAGE══════════════════════════════════ -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=40&text=%E2%96%88%E2%96%88%E2%96%88%20SECTION+A+%E2%80%94+FRONT+PAGE+%E2%96%88%E2%96%88%E2%96%88&fontSize=14&fontColor=F5F0E8&fontAlignY=64" width="100%"/>
