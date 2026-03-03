@@ -7,9 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:030307,40:0f0528,70:1a0545,100:030307&height=300&section=header&text=ARCHITECT%20PROTOCOL&fontSize=64&fontColor=9333EA&fontAlignY=45&animation=blinking&stroke=06B6D430&strokeWidth=1&desc=◈◈◈%20SYSTEM%20INITIALIZING%20◈◈◈&descAlignY=67&descSize=14&descColor=06B6D4" width="100%
 
-<div align="center">
-
-```
+<div align="cent
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  ██████  ██    ██  ███████  ████████  ███████  ███    ███           ║
 ║  ██      ██    ██  ██          ██     ██       ████  ████           ║
