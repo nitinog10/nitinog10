@@ -1,11 +1,4 @@
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  [ PLAYER FILE ]  ▸  CLASSIFICATION: PUBLIC  ▸  RANK: S            │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 <img align="right" width="35%" src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif"/>
 
