@@ -1,14 +1,5 @@
 
-### &nbsp;`> current_missions --active`
-+ [ACTIVE]       LangGraph Multi-Agent Systems
-+ [POWER-UP]
-! [CLIMAX]       Bug Biceps Studio Launch
-```
-
-### &nbsp;`> philosophy.exe`
-
-```
-╭──────────────────────────────────────────────╮
+### &nbsp;`> current_miss
 │  "Models are easy. Systems are hard.         │
 │   I build the hard part."                    │
 │                                              │
