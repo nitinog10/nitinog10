@@ -161,14 +161,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   "The training arc ended the day I pushed my first model        ║
-║    to production at 3AM and it didn't crash.                     ║
-║                                                                   ║
-║    Every deploy since then has been the final boss.              ║
-║    I don't lose deploys."                                        ║
-║                                                                   ║
-║                              — UNIT NITIN · S-CLASS ARCHITECT   ║
+║                       
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
