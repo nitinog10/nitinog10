@@ -1,10 +1,4 @@
 
-### &nbsp;`> current_miss
-│  "Models are easy. Systems are hard.         │
-│   I build the hard pa
-<div align="center">
-
-```
 ╔════════════════════════════════════════════════════════╗
 ║            ◈  A B I L I T Y   T R E E  ◈              ║
 ║                   S-RANK SKILLSET                      ║
