@@ -381,10 +381,6 @@
 
 ---
 
-<!─────────────────────────────────────────────────────────────────────
-  ACT IV — THE EVIDENCE WALL
-──────────────────────────────────────────────────────────────────────>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0a12&height=56&text=%5B+ACT+IV+%5D+%E2%80%94+THE+EVIDENCE+WALL&fontSize=20&fontColor=E94560&fontAlignY=70&desc=His+record.+Independently+verified.+Impossible+to+dispute.&descSize=11&descAlignY=26&descColor=F5A62388"/>
 </div>
@@ -431,10 +427,6 @@
 
 ---
 
-<!─────────────────────────────────────────────────────────────────────
-  ACT V — THE GETAWAY
-──────────────────────────────────────────────────────────────────────>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0a12&height=56&text=%5B+ACT+V+%5D+%E2%80%94+THE+GETAWAY&fontSize=20&fontColor=E94560&fontAlignY=70&desc=Every+heist+needs+an+exit.+He+responds+to+builders+only.&descSize=11&descAlignY=26&descColor=F5A62388"/>
 </div>
@@ -470,11 +462,6 @@
 <br>
 
 ---
-
-<!─────────────────────────────────────────────────────────────────────
-  THE PHILOSOPHY — FINAL SCENE
-──────────────────────────────────────────────────────────────────────>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0a12&height=56&text=%5B+FINAL+SCENE+%5D+%E2%80%94+THE+PHILOSOPHY&fontSize=20&fontColor=E94560&fontAlignY=70&desc=What+he+believes.+Why+he+never+stops.&descSize=11&descAlignY=26&descColor=F5A62388"/>
