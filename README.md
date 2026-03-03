@@ -1,14 +1,3 @@
-<!-- ============================================================ -->
-<!--       SYSTEM AWAKENING — S-RANK ARCHITECT PROTOCOL         -->
-
-║  ██████  ██    ██  ███████  ███████     ║
-║             ░░░  A W A K E N I N G  ░░░                             ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&pause=900&color=06B6D4&center=true&vCenter=true&width=680&lines=%5BSYSTEM%5D+%3E+Scanning+unknown+entity...;%5BSYSTEM%5D+%3E+Rank+detected%3A+S-CLASS+ARCHITECT;%5BSYSTEM%5D+%3E+Specialization%3A+GenAI+%2F+Production+Systems;%5BSYSTEM%5D+%3E+WARNING%3A+This+player+ships+to+production.;%5BSYSTEM%5D+%3E+Threat+level%3A+DEPLOYING...;%5BSYSTEM%5D+%3E+Loading+player+profile.+Please+stand+by.)](https://git.io/typing-svg)
-
-</div>
 
 <br>
 
