@@ -35,7 +35,7 @@ NAME        :  Nitin Mishra
 RANK        :  S-CLASS
 TITLE       :  GenAI Architect · ML Engineer
 GUILD       :  Bug Biceps          [CO-FOUNDER]
-BASE        :  Entop Learning      [ENGINEERING]
+BASE        :  Entop Learning      [INTERN]
 ORIGIN      :  Born at 3AM between a broken model
                and a deploy that actually worked.
 STATUS      :  ⚡ AWAKENED — Currently deploying
@@ -44,10 +44,8 @@ STATUS      :  ⚡ AWAKENED — Currently deploying
 ### `> current_arc --active`
 
 ```diff
-+ CO-FOUNDING  Bug Biceps  — AI Production Studio
 + BUILDING AT  Entop Learning — Real Education Tech
-+ MASTERING    LangGraph · MCP Servers · RAG · CV
-! STYLE        Build fast. Break nothing. Ship harder.
++ MASTERING    LangChain · MCP Servers · RAG · OPENCV
 ```
 
 ### `> philosophy.read()`
