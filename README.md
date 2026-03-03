@@ -83,8 +83,6 @@
 ![](https://img.shields.io/badge/BASE-ENTOP%20LEARNING%20%5BINTERN%5D-0D0D0D?style=flat-square&labelColor=1a0a12&color=0D0D0D)
 ![](https://img.shields.io/badge/THREAT-EXTREME-0D0D0D?style=flat-square&labelColor=E94560&color=0D0D0D)
 ![](https://img.shields.io/badge/DEPLOY_LOSSES-ZERO%20CONFIRMED-0D0D0D?style=flat-square&labelColor=1a7a3a&color=0D0D0D)
-![](https://img.shields.io/badge/DOCTRINE-BUILD.%20SHIP.%20REPEAT.-0D0D0D?style=flat-square&labelColor=1a0a12&color=0D0D0D)
-![](https://img.shields.io/badge/ARC-LangGraph%20%C2%B7%20MCP%20%C2%B7%20RAG%20%C2%B7%20CV-0D0D0D?style=flat-square&labelColor=1a0a12&color=0D0D0D)
 
 </td>
 </tr>
