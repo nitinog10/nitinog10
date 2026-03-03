@@ -1,24 +1,32 @@
-<!---------------------------------------------------------------------------------------
-  ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗    ██████╗ ██████╗
-  ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝   ██╔════╝ ╚════██╗
-  ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║      ██║  ███╗ █████╔╝
-  ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║      ██║   ██║██╔═══╝
-  ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║      ╚██████╔╝███████╗
-  ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝       ╚═════╝ ╚══════╝
-  CODENAME: ARCHITECT  |  CASE: NM-∞  |  CLEARANCE: OMEGA  |  STATUS: ACTIVE
------------------------------------------------------------------------------------------>
+<!---------------------------------------------------------------------------
+  ████████╗██╗  ██╗███████╗     █████╗ ██████╗  ██████╗██╗  ██╗██╗████████╗
+     ██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝
+     ██║   ███████║█████╗      ███████║██████╔╝██║     ███████║██║   ██║   
+     ██║   ██╔══██║██╔══╝      ██╔══██║██╔══██╗██║     ██╔══██║██║   ██║   
+     ██║   ██║  ██║███████╗    ██║  ██║██║  ██║╚██████╗██║  ██║██║   ██║   
+     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝   
+  VOL 1  ·  ISSUE #001  ·  "AWAKENING"  ·  STORY: NITIN MISHRA
+--------------------------------------------------------------------------->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:140a0a,100:0a0a0f&height=8&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=6" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:0a0a0f&height=220&section=header&text=PROJECT%20%3A%20ARCHITECT&fontSize=62&fontColor=E53935&fontAlignY=56&animation=fadeIn&desc=CLASSIFIED%20%E2%96%8A%E2%96%8A%E2%96%8A%E2%96%8A%E2%96%8A%E2%96%8A%20EYES%20ONLY%20%E2%96%8A%E2%96%8A%E2%96%8A%E2%96%8A%E2%96%8A%E2%96%8A%20CLEARANCE%3A%20OMEGA&descSize=13&descAlignY=76&descColor=FFD600&stroke=E5393510&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD600,100:FFD600&height=56&text=THE+ARCHITECT&fontSize=40&fontColor=0d0d0d&fontAlignY=70&fontStyle=bold&desc=VOL.+1+%E2%80%94+ISSUE+%23001+%E2%80%94+%22AWAKENING%22&descSize=13&descAlignY=28&descColor=0d0d0d" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E53935,100:E53935&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=240&section=header&text=NITIN%20MISHRA&fontSize=86&fontColor=FFD600&fontAlignY=58&animation=fadeIn&desc=GenAI+Architect+%C2%B7+ML+Engineer+%C2%B7+The+One+Who+Ships&descSize=15&descAlignY=78&descColor=ECEFF1" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD600,100:FFD600&height=6" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1800&pause=700&color=E53935&center=true&vCenter=true&width=750&lines=%5BINITIATING+SECURE+CONNECTION...%5D;%5BFILE+ACCESS%3A+GRANTED+%E2%80%94+CASE+%23+NM-%E2%88%9E%5D;%5BSUBJECT+IDENTIFIED%3A+NITIN+MISHRA%5D;%5BTHREAT+CLASSIFICATION%3A+EXTREME+%E2%80%94+DEPLOYS+TO+PRODUCTION%5D;%5BWARNING%3A+THIS+OPERATIVE+HAS+NEVER+LOST+A+MISSION%5D;%5BLOADING+DOSSIER...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+COMPLETE%5D)](https://github.com/nitinog10)
+[![](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=22&duration=2000&pause=900&color=FFD600&center=true&vCenter=true&width=720&lines=SOMEWHERE+IN+THE+DARK%2C+A+CURSOR+BLINKS.;HE+DOESN%27T+SLEEP.+HE+DEPLOYS.;THEY+SAID+THE+MODEL+WAS+TOO+COMPLEX.+HE+SHIPPED+IT.;THIS+IS+NOT+A+PROFILE.+THIS+IS+AN+ORIGIN+STORY.;THE+ARCHITECT+HAS+ENTERED+THE+SCENE.)](https://github.com/nitinog10)
+
+<br>
+
+![](https://img.shields.io/badge/%E2%96%A0%20STORY-NITIN%20MISHRA-0d0d0d?style=flat-square&labelColor=FFD600&color=0d0d0d)
+![](https://img.shields.io/badge/%E2%96%A0%20ART-GITHUB.COM%2FNITINOG10-0d0d0d?style=flat-square&labelColor=FFD600&color=0d0d0d)
+![](https://img.shields.io/badge/%E2%96%A0%20RATING-FOR+THE+BUILDERS-0d0d0d?style=flat-square&labelColor=FFD600&color=0d0d0d)
 
 </div>
 
@@ -26,93 +34,69 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-                    FILE 01 — SUBJECT IDENTIFICATION
-════════════════════════════════════════════════════════════════ -->
+<!-- ◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼
+                 PAGE 01 ── ORIGIN: THE NIGHT HE AWAKENED
+◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:140a0a&height=52&text=%E2%96%A0%20FILE%2001%20%E2%80%94%20SUBJECT%20IDENTIFICATION%20%E2%96%A0&fontSize=16&fontColor=E53935&fontAlignY=68&desc=ORIGIN+%2F%2F+CLASSIFICATION+%2F%2F+THREAT+LEVEL&descSize=10&descAlignY=28&descColor=FFD60088&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=54&text=%E2%97%BC%20PAGE%2001%20%E2%80%94%20ORIGIN%3A%20THE%20NIGHT%20HE%20AWAKENED%20%E2%97%BC&fontSize=17&fontColor=FFD600&fontAlignY=68&desc=Every+legend+has+a+first+panel.+This+is+his.&descSize=11&descAlignY=26&descColor=ECEFF180&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="54%" valign="top">
 
 ```
-┌──────────────────────────────────────────────┐
-│  CASE FILE  #NM-∞  │  OMEGA CLEARANCE ONLY  │
-├──────────────────────────────────────────────┤
-│                                              │
-│  OPERATIVE NAME  :  NITIN MISHRA            │
-│  CODENAME        :  THE ARCHITECT           │
-│  DESIGNATION     :  S-TIER THREAT           │
-│  AFFILIATION     :  BUG BICEPS [FOUNDER]    │
-│                     ENTOP LEARNING [ENG.]   │
-│                                             │
-│  KNOWN ABILITY   :  GenAI Architecture      │
-│                     ML Systems Engineering  │
-│                     Production Deployment   │
-│                                             │
-│  CURRENT STATUS  :  ACTIVE FIELD ⚡         │
-│  DEPLOY LOSSES   :  ██████████  ZERO        │
-│  THREAT RATING   :  ▰▰▰▰▰▰▰▰▰▰ EXTREME    │
-│                                             │
-└──────────────────────────────────────────────┘
+◼ NARRATOR ──────────────────────────────────────────
+
+  The clock reads 03:47.
+
+  A model is broken. A deadline is dead.
+  The entire system refuses to breathe.
+
+  Everyone else has gone home.
+
+  He hasn't.
+
+  Not because he can't leave —
+  because he won't.
+
+  At 04:12, the logs go green.
+
+  At 04:13, it ships to production.
+
+  No fanfare. No announcement.
+  Just a cursor blinking in the dark,
+  and a man who just did
+  what everyone said was impossible.
+
+  His name is NITIN MISHRA.
+
+  They'll call him THE ARCHITECT.
+
+─────────────────────────────────────────────────────
 ```
 
 </td>
-<td width="44%" valign="top" align="center">
+<td width="46%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="93%"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
 
 <br>
 
-![](https://img.shields.io/badge/%20-THREAT%20LVL%3A%20EXTREME-0a0a0f?style=flat-square&labelColor=E53935&color=0a0a0f)
-![](https://img.shields.io/badge/%20-CLEARANCE%3A%20OMEGA-0a0a0f?style=flat-square&labelColor=FFD600&color=0a0a0f)
-![](https://img.shields.io/badge/%20-STATUS%3A%20ACTIVE-0a0a0f?style=flat-square&labelColor=1B5E20&color=0a0a0f)
+```
+◼ SUBJECT FILE ────────────────────
 
-</td>
-</tr>
-</table>
+  REAL NAME :  Nitin Mishra
+  ALIAS     :  The Architect
+  BASE      :  Bug Biceps  [FOUNDER]
+               Entop Learning [ENG.]
+  KNOWN FOR :  Shipping the impossible
+  LAST SEEN :  Production. 3AM. Again.
 
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`FIELD AGENT REPORT — ORIGIN ASSESSMENT`**
-
-> *Subject was first detected at **03:47 hrs** when a production AI system went live under his command — without a single failure.*
->
-> *Our analysts █████████ confirmed: this is not a researcher. This is not a theorist.*
->
-> *This is a **builder**. The kind the world hasn't seen before.*
->
-> *He co-founded **[Bug Biceps](https://bugbiceps.in)** — an AI production studio operating at the bleeding edge.*
-> *He engineers real systems at **[Entop Learning](https://entoplearning.com)** — not proofs of concept.*
-
-</td>
-<td width="50%" valign="top">
-
-**`PSYCHOLOGICAL PROFILE — CONFIRMED`**
-
-```diff
-+ IDENTITY :  The one who ships.
-              Not papers. Production.
-
-+ DOCTRINE :  Build fast.
-              Break nothing.
-              Ship harder.
-
-! WEAKNESS :  █████████████████ [REDACTED]
-              █████████████████ [REDACTED]
-
-+ NOTE     :  Subject has been observed
-              deploying at 3AM. Voluntarily.
-              Anomaly under investigation.
+───────────────────────────────────
 ```
 
 </td>
@@ -121,19 +105,58 @@
 
 <br>
 
+> **`"Not the kind who writes papers. The kind who ships."`**
+> **`"Build fast. Break nothing. Ship harder."`**
+> *— The Architect, every single day*
+
+<br>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-                    FILE 02 — CAPABILITY ASSESSMENT
-════════════════════════════════════════════════════════════════ -->
+<!-- ◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼
+               PAGE 02 ── POWER MANIFEST: THE ARSENAL
+◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:140a0a&height=52&text=%E2%96%A0%20FILE%2002%20%E2%80%94%20CAPABILITY%20ASSESSMENT%20%E2%96%A0&fontSize=16&fontColor=E53935&fontAlignY=68&desc=WEAPONS+%2F%2F+ARSENAL+%2F%2F+CLASSIFIED+RATINGS&descSize=10&descAlignY=28&descColor=FFD60088&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=54&text=%E2%97%BC%20PAGE%2002%20%E2%80%94%20POWER%20MANIFEST%3A%20THE%20ARSENAL%20%E2%97%BC&fontSize=17&fontColor=FFD600&fontAlignY=68&desc=Every+hero+has+abilities.+His+are+measured+in+uptime.&descSize=11&descAlignY=26&descColor=ECEFF180&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
 
-> **`ANALYST NOTE:`** *Capabilities below are rated by our field team using the Omega Threat Scale. Ratings above* **`CRITICAL`** *require Director-level authorization to engage.*
+```
+◼ NARRATOR ─────────────────────────────────────────────────────────────────
+
+  The first thing you need to understand about The Architect
+  is that his powers are not theoretical.
+
+  Every tool below has been used. In production. Under fire.
+  While something was broken. While everyone was watching.
+
+  He didn't flinch.
+
+────────────────────────────────────────────────────────────────────────────
+```
+
+<br>
+
+<div align="center">
+
+### `◼ POWER CLASS Ⅰ — NEURAL DOMINION` &nbsp;`[ AI / ML / GenAI ]`
+
+| ABILITY | MASTERY | POWER LEVEL |
+|:---|:---:|:---|
+| ⚡ Python | `ABSOLUTE` | `██████████████████████` 100 |
+| ⚡ LangChain | `ABSOLUTE` | `█████████████████████░` 97 |
+| ⚡ scikit-learn | `ABSOLUTE` | `████████████████████░░` 94 |
+| ⚡ PyTorch | `EXPERT` | `███████████████████░░░` 90 |
+| ⚡ TensorFlow | `EXPERT` | `███████████████████░░░` 90 |
+| ⚡ HuggingFace | `EXPERT` | `██████████████████░░░░` 87 |
+| ⚡ OpenCV | `EXPERT` | `█████████████████░░░░░` 83 |
+| ⚡ RAG Systems | `EXPERT` | `██████████████████░░░░` 88 |
+| 🔥 LangGraph | `ASCENDING` | `███████████████░░░░░░░` 74 |
+| 🔥 MCP Servers | `ASCENDING` | `██████████████░░░░░░░░` 71 |
+
+</div>
 
 <br>
 
@@ -141,54 +164,49 @@
 <tr>
 <td valign="top" width="50%">
 
-**`MODULE ALPHA — NEURAL WEAPONS`**
-`AI / ML / GenAI Engineering`
+<div align="center">
 
-| Weapon | Clearance | Rating |
-|:---|:---:|:---:|
-| Python | OMEGA | `████████████ MAX` |
-| LangChain | OMEGA | `████████████ MAX` |
-| scikit-learn | OMEGA | `███████████░ HIGH` |
-| PyTorch | ALPHA | `██████████░░ HIGH` |
-| TensorFlow | ALPHA | `██████████░░ HIGH` |
-| HuggingFace | ALPHA | `█████████░░░ MED` |
-| OpenCV | ALPHA | `█████████░░░ MED` |
-| LangGraph | `⚠ LIVE UPGRADE` | `████████░░░░ RISING` |
-| MCP Servers | `⚠ LIVE UPGRADE` | `████████░░░░ RISING` |
-| RAG Systems | CRITICAL | `██████████░░ HIGH` |
+### `◼ POWER CLASS Ⅱ — IRON DOMINION` &nbsp;`[ BACKEND ]`
+
+| ABILITY | MASTERY |
+|:---|:---:|
+| ⚡ FastAPI | `ABSOLUTE` |
+| ⚡ Docker | `ABSOLUTE` |
+| ⚡ AWS | `ABSOLUTE` |
+| ⚡ Django | `EXPERT` |
+| ⚡ Node.js | `EXPERT` |
+| ⚡ PostgreSQL | `EXPERT` |
+| ⚡ MongoDB | `EXPERT` |
+| ⚡ GCP | `EXPERT` |
+
+</div>
 
 </td>
 <td valign="top" width="50%">
 
-**`MODULE BETA — FORTRESS TECH`**
-`Backend / Infrastructure / Cloud`
+<div align="center">
 
-| Weapon | Clearance | Rating |
-|:---|:---:|:---:|
-| FastAPI | OMEGA | `████████████ MAX` |
-| Docker | OMEGA | `████████████ MAX` |
-| AWS | OMEGA | `███████████░ HIGH` |
-| Django | ALPHA | `██████████░░ HIGH` |
-| Node.js | ALPHA | `██████████░░ HIGH` |
-| PostgreSQL | ALPHA | `█████████░░░ MED` |
-| MongoDB | ALPHA | `█████████░░░ MED` |
-| GCP | ALPHA | `████████░░░░ MED` |
+### `◼ POWER CLASS Ⅲ — SHADOW FORM` &nbsp;`[ FRONTEND ]`
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+| ABILITY | MASTERY |
+|:---|:---:|
+| ⚡ React | `ABSOLUTE` |
+| ⚡ TailwindCSS | `ABSOLUTE` |
+| ⚡ Next.js | `EXPERT` |
+| ⚡ TypeScript | `EXPERT` |
+| ⚡ Three.js | `ADVANCED` |
 
-**`MODULE GAMMA — SHADOW INTERFACE`**
-`Frontend Engineering`
+```
+◼ KEY ──────────────────────
 
-| Weapon | Clearance | Rating |
-|:---|:---:|:---:|
-| React | OMEGA | `████████████ MAX` |
-| TailwindCSS | OMEGA | `████████████ MAX` |
-| Next.js | ALPHA | `██████████░░ HIGH` |
-| TypeScript | ALPHA | `██████████░░ HIGH` |
-| Three.js | BETA | `███████░░░░░ MED` |
+  ABSOLUTE  :  No known limit
+  EXPERT    :  Deployed. Live.
+  ADVANCED  :  In development
+  ASCENDING :  Mid-awakening
+───────────────────────────
+```
+
+</div>
 
 </td>
 </tr>
@@ -196,85 +214,209 @@
 
 <br>
 
-<div align="center">
-
-`OMEGA` = Mastered &nbsp;·&nbsp; `ALPHA` = Expert &nbsp;·&nbsp; `BETA` = Advanced &nbsp;·&nbsp; `⚠ LIVE UPGRADE` = Currently Enhancing
-
-</div>
-
-<br>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-                    FILE 03 — ACTIVE OPERATIONS
-════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:140a0a&height=52&text=%E2%96%A0%20FILE%2003%20%E2%80%94%20ACTIVE%20OPERATIONS%20%E2%96%A0&fontSize=16&fontColor=E53935&fontAlignY=68&desc=CURRENT+MISSIONS+%2F%2F+PRIORITY+GRADED+%2F%2F+LIVE+INTEL&descSize=10&descAlignY=28&descColor=FFD60088&animation=fadeIn" width="100%"/>
-</div>
-
-<br>
-
-> **`MISSION CONTROL NOTE:`** *The following operations are confirmed active. Field surveillance ongoing. Do not engage.*
-
-<br>
-
-<div align="center">
-
-| PRIORITY | OP CODE | MISSION NAME | PHASE | SEASON |
-|:---:|:---:|:---|:---:|:---:|
-| 🔴 | `OP-S1` | **MCP Server Architecture** *— The Grid Awakens* | `FINAL BOSS` | Season I |
-| 🟠 | `OP-A1` | **LangGraph Multi-Agent Systems** | `ACTIVE ASSAULT` | Season I |
-| 🟠 | `OP-A2` | **Advanced RAG + Vector Search** | `POWER SURGE` | Season I |
-| 🟠 | `OP-A3` | **Real-time Computer Vision** | `ACTIVE ASSAULT` | Season I |
-| 🔵 | `OP-B1` | **LLM Fine-tuning at Scale** | `TRAINING ARC` | Season II |
-| 🟢 | `OP-S2` | **Bug Biceps Studio Launch** | `FINAL APPROACH` | Season I |
-
-</div>
-
-<br>
-
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  MISSION CONTROL ASSESSMENT                                                 │
-│                                                                             │
-│  "In 14 years of tracking high-threat operatives, we have never            │
-│   documented a subject simultaneously running S-class operations            │
-│   while maintaining zero — ZERO — deployment failures.                     │
-│                                                                             │
-│   Whatever he is... he is not normal."                                     │
-│                                                                             │
-│                                  — Director, Project: Architect Division   │
-└─────────────────────────────────────────────────────────────────────────────┘
+◼ NARRATOR ─────────────────────────────────────────────────────────────────
+
+  The powers above are not a list.
+  They are a body count.
+
+  Every single one of them has been used to ship something real.
+  To production. Under a deadline. With lives depending on it.
+
+  That's not a skill set. That's a track record.
+
+────────────────────────────────────────────────────────────────────────────
 ```
 
 <br>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-                      FILE 04 — FIELD PERFORMANCE
-════════════════════════════════════════════════════════════════ -->
+<!-- ◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼
+               PAGE 03 ── CURRENT BATTLES: THE ACTIVE ARCS
+◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:140a0a&height=52&text=%E2%96%A0%20FILE%2004%20%E2%80%94%20FIELD%20PERFORMANCE%20%E2%96%A0&fontSize=16&fontColor=E53935&fontAlignY=68&desc=MISSION+RECORDS+%2F%2F+PERFORMANCE+METRICS+%2F%2F+EVIDENCE&descSize=10&descAlignY=28&descColor=FFD60088&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=54&text=%E2%97%BC%20PAGE%2003%20%E2%80%94%20CURRENT%20BATTLES%3A%20THE%20ACTIVE%20ARCS%20%E2%97%BC&fontSize=17&fontColor=FFD600&fontAlignY=68&desc=Six+battles.+All+active.+None+abandoned.&descSize=11&descAlignY=26&descColor=ECEFF180&animation=fadeIn" width="100%"/>
 </div>
+
+<br>
+
+```
+◼ NARRATOR ─────────────────────────────────────────────────────────────────
+
+  A lesser hero would pick one fight.
+
+  The Architect runs six — simultaneously — and is winning all of them.
+
+────────────────────────────────────────────────────────────────────────────
+```
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```
+◼ ARC I — THE GRID ─────────────────────
+
+  ████████████████████  FINAL BOSS
+
+  MCP Server Architecture
+
+  "The system said it couldn't be done.
+   He's doing it anyway.
+   Live. In production.
+   They can't stop him.
+   He built the grid himself."
+
+  STATUS  : Season I · Final Chapter
+  THREAT  : S-CLASS
+
+────────────────────────────────────────
+```
+
+```
+◼ ARC II — MANY MINDS ──────────────────
+
+  ████████████████░░░░  ACTIVE
+
+  LangGraph Multi-Agent Systems
+
+  "Imagine one mind. Now give it twenty.
+   All working together. All controlled.
+   All deployed.
+   That's what he's building right now."
+
+  STATUS  : Season I · Mid-Arc
+  THREAT  : A-CLASS
+
+────────────────────────────────────────
+```
+
+```
+◼ ARC III — MEMORY PALACE ──────────────
+
+  ████████████████░░░░  POWER SURGE
+
+  Advanced RAG + Vector Search
+
+  "He taught machines to remember.
+   Not fake memory. Real memory.
+   The kind that scales.
+   The kind that ships."
+
+  STATUS  : Season I · Climax
+  THREAT  : A-CLASS
+
+────────────────────────────────────────
+```
+
+</td>
+<td width="50%" valign="top">
+
+```
+◼ ARC IV — OPEN EYE ────────────────────
+
+  ████████████████░░░░  ACTIVE
+
+  Real-time Computer Vision
+
+  "He gave the machine eyes.
+   Not to see images —
+   to understand them.
+   In real time.
+   In production."
+
+  STATUS  : Season I · Mid-Arc
+  THREAT  : A-CLASS
+
+────────────────────────────────────────
+```
+
+```
+◼ ARC V — FINE CUT ─────────────────────
+
+  ██████████░░░░░░░░░░  TRAINING
+
+  LLM Fine-tuning at Scale
+
+  "The most dangerous arc.
+   He isn't just using AI anymore.
+   He's reshaping it.
+   Season II will be different."
+
+  STATUS  : Season II · Opening
+  THREAT  : B-CLASS ↑ RISING
+
+────────────────────────────────────────
+```
+
+```
+◼ ARC VI — THE STUDIO ──────────────────
+
+  ████████████████████  CLIMAX
+
+  Bug Biceps — AI Production Studio
+
+  "He didn't join a company.
+   He built one.
+   From scratch. From nothing.
+   bugbiceps.in — remember that name."
+
+  STATUS  : Season I · Final Panel
+  THREAT  : S-CLASS
+
+────────────────────────────────────────
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- ◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼
+                 PAGE 04 ── THE EVIDENCE TRAIL
+◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=54&text=%E2%97%BC%20PAGE%2004%20%E2%80%94%20THE%20EVIDENCE%20TRAIL%20%E2%97%BC&fontSize=17&fontColor=FFD600&fontAlignY=68&desc=Heroes+leave+traces.+These+are+his.&descSize=11&descAlignY=26&descColor=ECEFF180&animation=fadeIn" width="100%"/>
+</div>
+
+<br>
+
+```
+◼ NARRATOR ─────────────────────────────────────────────────────────────────
+
+  You want proof? Here it is.
+
+  Every commit is a crime scene.
+  Every streak is a war he didn't stop fighting.
+  Every language stat is a weapon he mastered.
+
+  The evidence doesn't lie.
+
+────────────────────────────────────────────────────────────────────────────
+```
 
 <br>
 
 <div align="center">
 
 <a href="https://github.com/nitinog10">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=0a0a0f&border_color=E5393525&title_color=E53935&icon_color=FFD600&text_color=90A4AE&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&bg_color=0d0d0d&border_color=FFD60030&title_color=FFD600&icon_color=FFD600&text_color=90A4AE&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true"/>
 </a>&nbsp;
 <a href="https://github.com/nitinog10">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=0a0a0f&border_color=E5393525&title_color=E53935&text_color=90A4AE&hide_border=false&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&bg_color=0d0d0d&border_color=FFD60030&title_color=FFD600&text_color=90A4AE&hide_border=false&langs_count=8"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=0a0a0f&border=E5393520&stroke=E53935&ring=FFD600&fire=E53935&currStreakNum=E53935&sideNums=90A4AE&currStreakLabel=E53935&sideLabels=E53935&dates=37474F" width="680"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinog10&background=0d0d0d&border=FFD60025&stroke=FFD600&ring=E53935&fire=E53935&currStreakNum=FFD600&sideNums=90A4AE&currStreakLabel=FFD600&sideLabels=FFD600&dates=37474F" width="680"/>
 
 <br><br>
 
@@ -284,14 +426,14 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=0a0a0f&color=E53935&line=FFD600&point=ffffff&area=true&area_color=E5393510&hide_border=true&custom_title=OPERATIVE%20ACTIVITY%20LOG%20%2F%2F%20SURVEILLANCE%20RECORD" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinog10&bg_color=0d0d0d&color=FFD600&line=E53935&point=ECEFF1&area=true&area_color=FFD60015&hide_border=true&custom_title=THE%20ARCHITECT%27S%20BATTLE%20LOG%20%E2%80%94%20EVERY%20COMMIT%20IS%20A%20WAR%20WON" width="100%"/>
 
 <br>
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg" width="96%"/>
+  <img alt="contribution trail" src="https://raw.githubusercontent.com/nitinog10/nitinog10/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </picture>
 </div>
 
@@ -299,36 +441,50 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-                      FILE 05 — CONTACT PROTOCOL
-════════════════════════════════════════════════════════════════ -->
+<!-- ◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼
+               PAGE 05 ── FIND THE ARCHITECT
+◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:140a0a&height=52&text=%E2%96%A0%20FILE%2005%20%E2%80%94%20CONTACT%20PROTOCOL%20%E2%96%A0&fontSize=16&fontColor=E53935&fontAlignY=68&desc=SECURE+CHANNELS+%2F%2F+CLEARANCE+REQUIRED&descSize=10&descAlignY=28&descColor=FFD60088&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=54&text=%E2%97%BC%20PAGE%2005%20%E2%80%94%20FIND%20THE%20ARCHITECT%20%E2%97%BC&fontSize=17&fontColor=FFD600&fontAlignY=68&desc=He+isn%27t+hiding.+He%27s+building.+Here%27s+where.&descSize=11&descAlignY=26&descColor=ECEFF180&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
 
-> **`COMMS NOTE:`** *All channels below are monitored. Use at your own risk. The Architect responds to those who build — not those who talk.*
+```
+◼ NARRATOR ─────────────────────────────────────────────────────────────────
+
+  The Architect doesn't have a secret lair.
+  He has a portfolio. An inbox. A studio. A signal.
+
+  Reach him there — but only if you build.
+
+────────────────────────────────────────────────────────────────────────────
+```
 
 <br>
 
 <div align="center">
 
-[![HQ](https://img.shields.io/badge/COMMAND%20HQ-nitinn.dev-0a0a0f?style=for-the-badge&logo=vercel&logoColor=E53935&labelColor=140a0a)](https://nitinn.dev/)
-[![INTEL](https://img.shields.io/badge/INTEL%20CHANNEL-Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=E53935&labelColor=140a0a)](mailto:nitiniszod10@gmail.com)
-[![NETWORK](https://img.shields.io/badge/NETWORK%20NODE-LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=FFD600&labelColor=140a0a)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
-[![SIGNAL](https://img.shields.io/badge/OPEN%20SIGNAL-@nitinn10__-0a0a0f?style=for-the-badge&logo=instagram&logoColor=FFD600&labelColor=140a0a)](https://instagram.com/nitinn10_)
+[![](https://img.shields.io/badge/%E2%97%BC%20%20COMMAND%20HQ-nitinn.dev-0d0d0d?style=for-the-badge&labelColor=FFD600&color=0d0d0d&logo=vercel&logoColor=0d0d0d)](https://nitinn.dev/)
+&nbsp;
+[![](https://img.shields.io/badge/%E2%97%BC%20%20DIRECT%20SIGNAL-nitiniszod10%40gmail.com-0d0d0d?style=for-the-badge&labelColor=FFD600&color=0d0d0d&logo=gmail&logoColor=0d0d0d)](mailto:nitiniszod10@gmail.com)
 
 <br>
 
-[![GUILD](https://img.shields.io/badge/%F0%9F%A6%BE%20%20OPERATIVE%20GUILD%20BASE%20%E2%80%94%20BUG%20BICEPS%20%7C%20AI%20PRODUCTION%20STUDIO%20%E2%80%94%20bugbiceps.in-0a0a0f?style=for-the-badge&labelColor=140a0a&color=0a0a0f)](https://bugbiceps.in)
+[![](https://img.shields.io/badge/%E2%97%BC%20%20NETWORK-LinkedIn-0d0d0d?style=for-the-badge&labelColor=FFD600&color=0d0d0d&logo=linkedin&logoColor=0d0d0d)](https://linkedin.com/in/nitin-kumar-mishra-520615331)
+&nbsp;
+[![](https://img.shields.io/badge/%E2%97%BC%20%20OPEN%20FREQ-%40nitinn10__-0d0d0d?style=for-the-badge&labelColor=FFD600&color=0d0d0d&logo=instagram&logoColor=0d0d0d)](https://instagram.com/nitinn10_)
+
+<br>
+
+[![](https://img.shields.io/badge/%F0%9F%A6%BE%20%20STUDIO%20%E2%80%94%20BUG%20BICEPS%20%7C%20AI%20PRODUCTION%20%7C%20bugbiceps.in-0d0d0d?style=for-the-badge&labelColor=FFD600&color=0d0d0d)](https://bugbiceps.in)
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=nitinog10&color=E53935&style=flat-square&label=FILES+ACCESSED)
+![](https://komarev.com/ghpvc/?username=nitinog10&color=FFD600&style=flat-square&label=READERS+THIS+ISSUE)
 &nbsp;&nbsp;
-![](https://img.shields.io/github/followers/nitinog10?label=AUTHORIZED+OPERATIVES&style=flat-square&color=FFD600&labelColor=0a0a0f)
+![](https://img.shields.io/github/followers/nitinog10?label=SUBSCRIBERS&style=flat-square&color=FFD600&labelColor=0d0d0d)
 
 </div>
 
@@ -336,42 +492,53 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-                    CLOSING TRANSMISSION
-════════════════════════════════════════════════════════════════ -->
+<!-- ◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼
+                    FINAL PAGE ── THE LAST PANEL
+◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼ -->
 
 <div align="center">
 
 <br>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║    FINAL ASSESSMENT — DIRECTOR SIGN-OFF  //  CASE #NM-∞                    ║
-║                                                                              ║
-║    "The training arc ended the day he pushed his first model                ║
-║     to production at 3AM and it didn't crash.                               ║
-║                                                                              ║
-║     Every mission since then has been classified FINAL BOSS.                ║
-║     Models are easy. Systems are hard. He does the hard part.               ║
-║                                                                              ║
-║     We have never seen a zero-loss deployment record.                       ║
-║     We are not sure we ever will again.                                     ║
-║                                                                              ║
-║     Recommendation:  DO NOT ATTEMPT TO REPLICATE THIS OPERATIVE."          ║
-║                                                                              ║
-║                         — Project: Architect  /  Division Omega             ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+◼ FINAL PANEL ──────────────────────────────────────────────────────────────
+
+
+    The screen goes dark at 04:13.
+
+    The deploy is live.
+
+    Somewhere, a system that was broken is now breathing.
+    Somewhere, a model that didn't exist this morning
+    is serving requests, answering questions,
+    changing something for someone.
+
+    He didn't ask for credit.
+    He didn't write a thread about it.
+    He just shipped.
+
+    That's what The Architect does.
+    That's all he's ever done.
+
+    The training arc?  Over.
+    The final boss?    Production.
+    His record?        Zero losses.
+
+    Season I is almost complete.
+    Season II is already being written.
+
+    This arc is not over.
+
+
+─────────────────────────────────────────────────────────────────────────────
 ```
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=12&duration=3500&pause=2000&color=E5393555&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+%3E+Closing+file+%23NM-%E2%88%9E...;%5BSYSTEM%5D+%3E+%22Season+I+complete.+Season+II+is+classified.%22;%5BSYSTEM%5D+%3E+%22This+operative+is+not+done.%22;%5BSYSTEM%5D+%3E+Transmission+end.+%E2%96%8C)](https://github.com/nitinog10)
+[![](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=18&duration=3500&pause=2000&color=FFD60066&center=true&vCenter=true&width=700&lines=TO+BE+CONTINUED...;THE+ARCHITECT+%E2%80%94+VOL.+1+%E2%80%94+ISSUE+%23002+%E2%80%94+COMING+SOON;%22MODELS+ARE+EASY.+SYSTEMS+ARE+HARD.+I+DO+THE+HARD+PART.%22)](https://github.com/nitinog10)
 
 <br>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E53935,100:E53935&height=3&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:140a0a&height=60&section=footer&text=PROJECT%20%3A%20ARCHITECT%20%E2%96%A0%20CASE%20CLOSED%20%E2%96%A0%20CLEARANCE%3A%20OMEGA&fontSize=12&fontColor=E5393555&fontAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD600,100:FFD600&height=6&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=54&section=footer&text=THE+ARCHITECT+%E2%80%94+VOL.+1+ISSUE+%23001+%E2%80%94+%22AWAKENING%22+%E2%80%94+%C2%A9+NITIN+MISHRA&fontSize=12&fontColor=FFD60066&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD600,100:FFD600&height=4&section=footer" width="100%"/>
