@@ -1,11 +1,4 @@
 
-CLASS:       GenAI Architect · ML Engineer
-GUILD:       Bug Biceps Studio  [CO-FOUNDER]
-FACTION:     Entop Learning     [ENGINEERING]
-ORIGIN:      Built at 3AM between broken models
-STATUS:      ⚡ ACTIVE — Currently deploying
-```
-
 ### &nbsp;`> current_missions --active`
 + [ACTIVE]       LangGraph Multi-Agent Systems
 + [POWER-UP]     Advanced RAG + Vector Search
