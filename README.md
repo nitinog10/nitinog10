@@ -44,8 +44,10 @@ STATUS      :  ⚡ AWAKENED — Currently deploying
 ### `> current_arc --active`
 
 ```diff
+
 + BUILDING AT  Entop Learning — Real Education Tech
 + MASTERING    LangChain · MCP Servers · RAG · OPENCV
+
 ```
 
 ### `> philosophy.read()`
