@@ -95,10 +95,6 @@
 
 ---
 
-<!─────────────────────────────────────────────────────────────────────
-  ACT II — THE EQUIPMENT ROOM
-──────────────────────────────────────────────────────────────────────>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0a12&height=56&text=%5B+ACT+II+%5D+%E2%80%94+THE+EQUIPMENT+ROOM&fontSize=20&fontColor=E94560&fontAlignY=70&desc=Every+heist+needs+the+right+tools.+His+have+never+failed.&descSize=11&descAlignY=26&descColor=F5A62388"/>
 </div>
