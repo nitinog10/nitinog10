@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000011,30:050a2e,60:0d0633,100:000011&height=320&text=NITIN%20MISHRA&fontSize=88&fontColor=00D4FF&fontAlignY=52&animation=fadeIn&desc=ML+ENGINEER+·+GENAI+ARCHITECT+·+WORKING+ON+REALWORLD+PROBLEMS&descSize=13&descAlignY=70&descColor=7C6BFF80&stroke=00D4FF&strokeWidth=1" width="100%"/>
-
 </div>
-
 ---
 
 <div align="center">
@@ -310,12 +308,6 @@ Didn't join a startup. Built one. From conviction alone: *AI should ship, not si
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000011,50:050a2e,100:000011&height=200&text=The+training+arc+is+over.&fontSize=30&fontColor=ffffff&fontAlignY=34&desc=Production+is+the+only+real+test.%0AModels+are+easy.+Systems+are+hard.%0AI+do+the+hard+part.&descSize=14&descAlignY=70&descColor=00D4FF" width="100%"/>
-
-<br>
-
-```
-◈ · NITIN MISHRA · THE ARCHITECT · SIGNAL TRANSMITTING · SEASON II INCOMING · ◈
-```
 
 <br>
 
