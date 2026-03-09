@@ -12,6 +12,13 @@
 
 <div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  SIGNAL ACQUIRED  ·  SOURCE: INDIA  ·  FREQ: AI/ML SYSTEMS      ║
+║  STATUS: TRANSMITTING  ·  DEPLOY COUNT: ████████  LOSSES: 0     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <br>
@@ -52,7 +59,7 @@ Right now I'm deep in LangGraph orchestration, MCP server architecture, and fine
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitinog10&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&text_color=8892b0&icon_color=7C6BFF&bg_color=000011&ring_color=00D4FF" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=8892b0&icon_color=7C6BFF&bg_color=000011&langs_count=6" width="100%"/>
 
 <br>
 
