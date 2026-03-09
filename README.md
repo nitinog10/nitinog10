@@ -4,13 +4,21 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000011,30:050a2e,60:0d0633,100:000011&height=320&text=NITIN%20MISHRA&fontSize=88&fontColor=00D4FF&fontAlignY=52&animation=fadeIn&desc=ML+ENGINEER+·+GENAI+ARCHITECT+·+BUILDING+REAL+WORLD+SCALABLE+SOLUTIONS&descSize=13&descAlignY=70&descColor=7C6BFF80&stroke=00D4FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000011,30:050a2e,60:0d0633,100:000011&height=320&text=NITIN%20MISHRA&fontSize=88&fontColor=00D4FF&fontAlignY=52&animation=fadeIn&desc=AI+ENGINEER+·+SYSTEM+ARCHITECT+·+BUILDER+OF+REAL+THINGS&descSize=13&descAlignY=70&descColor=7C6BFF80&stroke=00D4FF&strokeWidth=1" width="100%"/>
 
 </div>
 
 ---
 
 <div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  SIGNAL ACQUIRED  ·  SOURCE: INDIA  ·  FREQ: AI/ML SYSTEMS      ║
+║  STATUS: TRANSMITTING  ·  DEPLOY COUNT: ████████  LOSSES: 0     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <br>
@@ -140,31 +148,21 @@ Right now I'm deep in LangGraph orchestration, MCP server architecture, and fine
 </td>
 <td width="25%" valign="top" align="center">
 
-**`SIGNAL STRENGTH`**
+**`◆ GRADE`**
+*Classification · Rules*
 
 ---
 
-```
-FLAWLESS
-No ceiling.
-In prod.
-Proven.
+![](https://img.shields.io/badge/◆_FLAWLESS-No_ceiling._In_prod._Proven.-000011?style=flat-square&logoColor=00D4FF&labelColor=00D4FF&color=000011)
 
-HARDENED  
-Shipped under
-real pressure.
-Survived.
+![](https://img.shields.io/badge/◈_HARDENED-Shipped_under_real_pressure.-000011?style=flat-square&logoColor=7C6BFF&labelColor=050a2e&color=000011)
 
-ASCENDING
-Becoming
-dangerous.
-Watch this.
-```
+![](https://img.shields.io/badge/◇_ASCENDING-Becoming_dangerous._Watch_this.-000011?style=flat-square&logoColor=ffffff&labelColor=0d1a2e&color=000011)
 
 <br>
 
 ![](https://img.shields.io/badge/Stack_Depth-19_Tools-000011?style=flat-square&labelColor=00D4FF&color=000011)
-![](https://img.shields.io/badge/Failures-0-000011?style=flat-square&labelColor=059669&color=000011)
+![](https://img.shields.io/badge/Failures-0_Confirmed-000011?style=flat-square&labelColor=059669&color=000011)
 
 </td>
 </tr>
