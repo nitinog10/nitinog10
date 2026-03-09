@@ -59,7 +59,11 @@ Right now I'm deep in LangGraph orchestration, MCP server architecture, and fine
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinog10&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=8892b0&icon_color=7C6BFF&bg_color=000011&langs_count=6" width="100%"/>
+![Python](https://img.shields.io/badge/Python-★★★★★-000011?style=flat-square&logo=python&logoColor=00D4FF&labelColor=050a2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-000011?style=flat-square&logo=javascript&logoColor=7C6BFF&labelColor=050a2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-000011?style=flat-square&logo=typescript&logoColor=7C6BFF&labelColor=050a2e)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-★★★★☆-000011?style=flat-square&logo=html5&logoColor=00D4FF&labelColor=050a2e)
+![Shell](https://img.shields.io/badge/Shell-★★★☆☆-000011?style=flat-square&logo=gnubash&logoColor=7C6BFF&labelColor=050a2e)
 
 <br>
 
