@@ -12,13 +12,6 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  SIGNAL ACQUIRED  ·  SOURCE: INDIA  ·  FREQ: AI/ML SYSTEMS      ║
-║  STATUS: TRANSMITTING  ·  DEPLOY COUNT: ████████  LOSSES: 0     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 <br>
