@@ -4,20 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000011,30:050a2e,60:0d0633,100:000011&height=320&text=NITIN%20MISHRA&fontSize=88&fontColor=00D4FF&fontAlignY=52&animation=fadeIn&desc=AI+ENGINEER+·+SYSTEM+ARCHITECT+·+BUILDER+OF+REAL+THINGS&descSize=13&descAlignY=70&descColor=7C6BFF80&stroke=00D4FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000011,30:050a2e,60:0d0633,100:000011&height=320&text=NITIN%20MISHRA&fontSize=88&fontColor=00D4FF&fontAlignY=52&animation=fadeIn&desc=ML+ENGINEER+·+GENAI+ARCHITECT+·+WORKING+ON+REALWORLD+PROBLEMS&descSize=13&descAlignY=70&descColor=7C6BFF80&stroke=00D4FF&strokeWidth=1" width="100%"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  SIGNAL ACQUIRED  ·  SOURCE: INDIA  ·  FREQ: AI/ML SYSTEMS      ║
-║  STATUS: TRANSMITTING  ·  DEPLOY COUNT: ████████  LOSSES: 0     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
