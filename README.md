@@ -67,17 +67,21 @@ Right now I'm deep in LangGraph orchestration, MCP server architecture, and fine
 
 <br>
 
-```
-┌─────────────────────────────┐
-│  ARCHITECT CLASS · ACTIVE   │
-│  ─────────────────────────  │
-│  AI Systems   ████████ 98%  │
-│  Backend      ███████░ 91%  │
-│  MLOps        ██████░░ 83%  │
-│  Frontend     █████░░░ 74%  │
-│  Fine-tuning  ████░░░░ 58%  │
-└─────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000815,100:050a1e&height=32&text=//+ARCHITECT+CLASS+·+ACTIVE&fontSize=12&fontColor=00D4FF&fontAlignY=68" width="100%"/>
+
+<br>
+
+![](https://img.shields.io/badge/AI_Systems-▰▰▰▰▰▰▰▰▰░_98%25-000011?style=flat-square&logo=openai&logoColor=00D4FF&labelColor=0a1628&color=000011)
+
+![](https://img.shields.io/badge/Backend-▰▰▰▰▰▰▰▰▰░_91%25-000011?style=flat-square&logo=fastapi&logoColor=7C6BFF&labelColor=0d0a28&color=000011)
+
+![](https://img.shields.io/badge/MLOps-▰▰▰▰▰▰▰▰░░_83%25-000011?style=flat-square&logo=mlflow&logoColor=34d399&labelColor=0a2018&color=000011)
+
+![](https://img.shields.io/badge/Frontend-▰▰▰▰▰▰▰░░░_74%25-000011?style=flat-square&logo=react&logoColor=f59e0b&labelColor=281a08&color=000011)
+
+![](https://img.shields.io/badge/Fine--tuning-▰▰▰▰▰▰░░░░_58%25-000011?style=flat-square&logo=huggingface&logoColor=f87171&labelColor=280a0a&color=000011)
+
+<br>
 
 </td>
 </tr>
