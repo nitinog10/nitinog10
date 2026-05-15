@@ -29,8 +29,9 @@
   <div style={{ display: 'flex', flexDirection: 'column', padding: 32, flex: 1, backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden' }}>
     <div style={{ position: 'absolute', top: -50, left: -50, width: 300, height: 300, backgroundImage: 'radial-gradient(circle, rgba(225, 29, 72, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
     <div style={{ color: '#52525b', fontSize: 12, fontWeight: 700, letterSpacing: 2 }}>ABOUT</div>
-    <div style={{ color: 'white', fontSize: 28, fontWeight: 700, marginTop: 16, lineHeight: 1.2 }}>
-      Building systems<br />that survive production.
+    <div style={{ display: 'flex', flexDirection: 'column', color: 'white', fontSize: 28, fontWeight: 700, marginTop: 16, lineHeight: 1.2 }}>
+      <div>Building systems</div>
+      <div>that survive production.</div>
     </div>
     <div style={{ color: '#10b981', fontSize: 14, marginTop: 'auto', fontFamily: 'monospace' }}>
       &gt; Gen AI Architect @entoplearning_
