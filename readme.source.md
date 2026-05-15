@@ -1,5 +1,12 @@
-# ⚡ Welcome to my profile
+<div align="center">
+  <img src="./elusoc-ticket-nitinog10.png" width="800" alt="Nitin Mishra" />
+  <br />
+  <br />
+  <img src="./b0b2fa141dcb52051079a1d24f6494f1_720w-ezgif.com-video-to-gif-converter.gif" width="800" alt="Animation" />
+</div>
+<br />
 
+# ⚡ Welcome to my profile
 ```aura width=800 height=280
 <div style={{ display: 'flex', flexDirection: 'column', padding: 40, width: '100%', height: '100%', backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
   <div style={{ position: 'absolute', bottom: -120, left: '10%', width: 500, height: 250, backgroundImage: 'radial-gradient(circle, rgba(139, 92, 246, 0.3) 0%, rgba(0,0,0,0) 70%)' }} />
