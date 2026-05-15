@@ -13,7 +13,7 @@
     BUILD • SHIP • SCALE
   </div>
   <div style={{ display: 'flex', gap: 12, marginTop: 32 }}>
-    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '6px 20px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#a1a1aa', fontSize: 13 }}>gen-ai</div>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '6px 20px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#a1a1aa', fontSize: 13 }}>AI engineer</div>
     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '6px 20px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#a1a1aa', fontSize: 13 }}>open source</div>
     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '6px 20px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#a1a1aa', fontSize: 13 }}>architecture</div>
   </div>
@@ -31,7 +31,7 @@
       <div>that survive production.</div>
     </div>
     <div style={{ color: '#10b981', fontSize: 14, marginTop: 'auto', fontFamily: 'monospace' }}>
-      &gt; Gen AI Architect @entoplearning_
+      &gt; SDE Intern @entoplearning | GSSoC’26 Mentor | Head Alumni, SAC OIST | Nasa space apps challenge 2025 winner | 4X Hackathon wins | Building @DocuverseAi
     </div>
   </div>
 
@@ -55,7 +55,7 @@
 ```
 <br />
 
-```aura width=800 height=420
+```aura width=800 height=520
 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: 40, width: '100%', height: '100%', backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
   <div style={{ position: 'absolute', top: -100, width: 500, height: 200, backgroundImage: 'radial-gradient(circle, rgba(16, 185, 129, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
   <div style={{ position: 'absolute', bottom: -50, width: 500, height: 200, backgroundImage: 'radial-gradient(circle, rgba(59, 130, 246, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
@@ -76,6 +76,15 @@
     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>LangChain</div>
     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>LangGraph</div>
     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>Tailwind CSS</div>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>TensorFlow</div>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>PyTorch</div>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>Hugging Face</div>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>LLM Fine Tuning</div>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>AWS Bedrock</div>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>MCP</div>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>RAG</div>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>DynamoDB</div>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '10px 24px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>Azure</div>
   </div>
 </div>
 ```
