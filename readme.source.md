@@ -30,67 +30,66 @@
   <div style={{ position: 'absolute', top: -50, left: '35%', width: 250, height: 150, backgroundImage: 'radial-gradient(circle, rgba(234, 179, 8, 0.2) 0%, rgba(0,0,0,0) 70%)' }} />
   
   <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-    <div style={{ color: '#ec4899', fontSize: 56, fontWeight: 800 }}>77</div>
+    <div style={{ color: '#ec4899', fontSize: 56, fontWeight: 800 }}>141</div>
     <div style={{ color: '#52525b', fontSize: 14, fontWeight: 700, letterSpacing: 2, marginTop: 8 }}>REPOS</div>
   </div>
   <div style={{ width: 1, height: 60, backgroundColor: '#27272a', zIndex: 10 }} />
   <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-    <div style={{ color: '#3b82f6', fontSize: 56, fontWeight: 800 }}>184</div>
+    <div style={{ color: '#3b82f6', fontSize: 56, fontWeight: 800 }}>342</div>
     <div style={{ color: '#52525b', fontSize: 14, fontWeight: 700, letterSpacing: 2, marginTop: 8 }}>STARS</div>
   </div>
   <div style={{ width: 1, height: 60, backgroundColor: '#27272a', zIndex: 10 }} />
   <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-    <div style={{ color: '#eab308', fontSize: 56, fontWeight: 800 }}>24k+</div>
+    <div style={{ color: '#eab308', fontSize: 56, fontWeight: 800 }}>4.8k</div>
     <div style={{ color: '#52525b', fontSize: 14, fontWeight: 700, letterSpacing: 2, marginTop: 8 }}>COMMITS</div>
   </div>
 </div>
 ```
 
-```aura width=800 height=340
+```aura width=800 height=260
 <div style={{ display: 'flex', flexDirection: 'column', padding: '32px 40px', width: '100%', height: '100%', backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
   <div style={{ position: 'absolute', bottom: -100, left: '20%', width: 600, height: 250, backgroundImage: 'radial-gradient(circle, rgba(16, 185, 129, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
   <div style={{ position: 'absolute', top: -50, right: -50, width: 300, height: 300, backgroundImage: 'radial-gradient(circle, rgba(139, 92, 246, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
 
   <div style={{ color: '#52525b', fontSize: 14, fontWeight: 700, letterSpacing: 2, marginBottom: 24, zIndex: 10 }}>TECH STACK</div>
   
-  <div style={{ display: 'flex', alignItems: 'center', marginBottom: 16, zIndex: 10 }}>
+  <div style={{ display: 'flex', alignItems: 'center', marginBottom: 20, zIndex: 10 }}>
     <div style={{ color: '#60a5fa', fontSize: 14, fontWeight: 700, width: 120 }}>AI / ML</div>
     <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
       <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>PyTorch</div>
       <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>LangChain</div>
       <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>Ollama</div>
       <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>FAISS</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>TensorFlow</div>
     </div>
   </div>
 
-  <div style={{ display: 'flex', alignItems: 'center', marginBottom: 32, zIndex: 10 }}>
+  <div style={{ display: 'flex', alignItems: 'center', marginBottom: 20, zIndex: 10 }}>
     <div style={{ color: '#60a5fa', fontSize: 14, fontWeight: 700, width: 120 }}>BACKEND</div>
     <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
       <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>FastAPI</div>
       <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>Docker</div>
       <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>AWS</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>PostgreSQL</div>
-    </div>
-  </div>
-
-  <div style={{ display: 'flex', justifyContent: 'center', marginTop: 'auto', gap: 16, zIndex: 10 }}>
-    <div style={{ display: 'flex', alignItems: 'center', padding: '8px 20px', backgroundColor: '#0a66c2', borderRadius: 100, border: '1px solid #27272a' }}>
-      <div style={{ color: 'white', fontSize: 14, fontWeight: 600 }}>LinkedIn</div>
-    </div>
-    <div style={{ display: 'flex', alignItems: 'center', padding: '8px 20px', backgroundColor: '#000000', borderRadius: 100, border: '1px solid #3f3f46' }}>
-      <div style={{ color: 'white', fontSize: 14, fontWeight: 600 }}>X.com</div>
-    </div>
-    <div style={{ display: 'flex', alignItems: 'center', padding: '8px 20px', backgroundColor: '#ea4335', borderRadius: 100, border: '1px solid #27272a' }}>
-      <div style={{ color: 'white', fontSize: 14, fontWeight: 600 }}>Email</div>
-    </div>
-    <div style={{ display: 'flex', alignItems: 'center', padding: '8px 20px', backgroundColor: '#18181b', borderRadius: 100, border: '1px solid #27272a' }}>
-      <div style={{ color: 'white', fontSize: 14, fontWeight: 600 }}>Portfolio</div>
     </div>
   </div>
 
   <div style={{ position: 'absolute', bottom: 16, right: 32, color: '#52525b', fontSize: 12, zIndex: 10 }}>
     powered by readme-aura
   </div>
+</div>
+```
+
+```aura width=120 height=44 link="https://linkedin.com/in/nitin-kumar-mishra-520615331" inline align=center
+<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', backgroundColor: '#0a66c2', borderRadius: 100, border: '1px solid #27272a', fontFamily: 'Inter, sans-serif' }}>
+  <div style={{ color: 'white', fontSize: 14, fontWeight: 600 }}>LinkedIn</div>
+</div>
+```
+```aura width=120 height=44 link="https://nitinn.dev" inline align=center
+<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', backgroundColor: '#18181b', borderRadius: 100, border: '1px solid #27272a', fontFamily: 'Inter, sans-serif' }}>
+  <div style={{ color: 'white', fontSize: 14, fontWeight: 600 }}>Portfolio</div>
+</div>
+```
+```aura width=120 height=44 link="mailto:nitiniszod10@gmail.com" inline align=center
+<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', backgroundColor: '#ea4335', borderRadius: 100, border: '1px solid #27272a', fontFamily: 'Inter, sans-serif' }}>
+  <div style={{ color: 'white', fontSize: 14, fontWeight: 600 }}>Email</div>
 </div>
 ```
