@@ -1,16 +1,19 @@
 # ⚡ Welcome to my profile
 
-```aura width=800 height=260
+```aura width=800 height=340
 <div style={{ display: 'flex', flexDirection: 'column', padding: 40, width: '100%', height: '100%', backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
   <div style={{ position: 'absolute', bottom: -120, left: '10%', width: 500, height: 250, backgroundImage: 'radial-gradient(circle, rgba(139, 92, 246, 0.3) 0%, rgba(0,0,0,0) 70%)' }} />
   <div style={{ position: 'absolute', bottom: -120, right: '10%', width: 500, height: 250, backgroundImage: 'radial-gradient(circle, rgba(59, 130, 246, 0.3) 0%, rgba(0,0,0,0) 70%)' }} />
   
   <div style={{ display: 'flex', alignItems: 'center' }}>
     <img src="https://github.com/nitinog10.png" style={{ width: 130, height: 130, borderRadius: '50%', border: '4px solid #18181b', zIndex: 10 }} />
-    <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 32, zIndex: 10 }}>
+    <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 32, zIndex: 10, width: 550 }}>
       <div style={{ color: 'white', fontSize: 42, fontWeight: 800 }}>Nitin Mishra</div>
-      <div style={{ color: '#a1a1aa', fontSize: 20, marginTop: 8, display: 'flex' }}>
-        AI Systems Engineer @ Bug Biceps | GenAI Architect 🚀
+      <div style={{ color: '#a1a1aa', fontSize: 16, marginTop: 8, display: 'flex', flexWrap: 'wrap', lineHeight: 1.5 }}>
+        Gen AI Architect SDE Intern @entoplearning | GSSoC’26 Mentor | Head Alumni, SAC OIST | Nasa space apps challenge 2025 winner| Building docuverse
+      </div>
+      <div style={{ color: '#fbbf24', fontSize: 14, marginTop: 8, display: 'flex', fontStyle: 'italic' }}>
+        "Highly focused on building real world stuff"
       </div>
       <div style={{ display: 'flex', marginTop: 16, gap: 12 }}>
         <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 100, color: '#e4e4e7', fontSize: 14 }}>Python</div>
@@ -23,28 +26,6 @@
 </div>
 ```
 
-```aura width=800 height=160
-<div style={{ display: 'flex', justifyContent: 'space-around', alignItems: 'center', padding: '40px 0', width: '100%', height: '100%', backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
-  <div style={{ position: 'absolute', bottom: -80, left: '5%', width: 300, height: 200, backgroundImage: 'radial-gradient(circle, rgba(236, 72, 153, 0.25) 0%, rgba(0,0,0,0) 70%)' }} />
-  <div style={{ position: 'absolute', bottom: -80, right: '5%', width: 300, height: 200, backgroundImage: 'radial-gradient(circle, rgba(59, 130, 246, 0.25) 0%, rgba(0,0,0,0) 70%)' }} />
-  <div style={{ position: 'absolute', top: -50, left: '35%', width: 250, height: 150, backgroundImage: 'radial-gradient(circle, rgba(234, 179, 8, 0.2) 0%, rgba(0,0,0,0) 70%)' }} />
-  
-  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-    <div style={{ color: '#ec4899', fontSize: 56, fontWeight: 800 }}>141</div>
-    <div style={{ color: '#52525b', fontSize: 14, fontWeight: 700, letterSpacing: 2, marginTop: 8 }}>REPOS</div>
-  </div>
-  <div style={{ width: 1, height: 60, backgroundColor: '#27272a', zIndex: 10 }} />
-  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-    <div style={{ color: '#3b82f6', fontSize: 56, fontWeight: 800 }}>342</div>
-    <div style={{ color: '#52525b', fontSize: 14, fontWeight: 700, letterSpacing: 2, marginTop: 8 }}>STARS</div>
-  </div>
-  <div style={{ width: 1, height: 60, backgroundColor: '#27272a', zIndex: 10 }} />
-  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-    <div style={{ color: '#eab308', fontSize: 56, fontWeight: 800 }}>4.8k</div>
-    <div style={{ color: '#52525b', fontSize: 14, fontWeight: 700, letterSpacing: 2, marginTop: 8 }}>COMMITS</div>
-  </div>
-</div>
-```
 
 ```aura width=800 height=420
 <div style={{ display: 'flex', flexDirection: 'column', padding: '32px 40px', width: '100%', height: '100%', backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
@@ -56,40 +37,40 @@
   <div style={{ display: 'flex', alignItems: 'center', marginBottom: 16, zIndex: 10 }}>
     <div style={{ color: '#60a5fa', fontSize: 14, fontWeight: 700, width: 120 }}>FRONTEND</div>
     <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>React</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>Tailwind CSS</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>HTML</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>⚛️ React</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🌊 Tailwind CSS</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🌐 HTML</div>
     </div>
   </div>
 
   <div style={{ display: 'flex', alignItems: 'center', marginBottom: 16, zIndex: 10 }}>
     <div style={{ color: '#60a5fa', fontSize: 14, fontWeight: 700, width: 120 }}>BACKEND</div>
     <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>Next.js</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>Node.js</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>Express.js</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>FastAPI</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>⬛ Next.js</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🟩 Node.js</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🚂 Express.js</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>⚡ FastAPI</div>
     </div>
   </div>
 
   <div style={{ display: 'flex', alignItems: 'center', marginBottom: 16, zIndex: 10 }}>
     <div style={{ color: '#60a5fa', fontSize: 14, fontWeight: 700, width: 120 }}>CLOUD & DB</div>
     <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>AWS</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>Azure</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>MongoDB</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>DynamoDB</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>ChromaDB</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>☁️ AWS</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>☁️ Azure</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🍃 MongoDB</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🗄️ DynamoDB</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🧠 ChromaDB</div>
     </div>
   </div>
 
   <div style={{ display: 'flex', alignItems: 'center', marginBottom: 16, zIndex: 10 }}>
     <div style={{ color: '#60a5fa', fontSize: 14, fontWeight: 700, width: 120 }}>AI / ML</div>
     <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>LangChain</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>LangGraph</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>LangSmith</div>
-      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>PyTorch</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🦜 LangChain</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🕸️ LangGraph</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🛠️ LangSmith</div>
+      <div style={{ display: 'flex', padding: '6px 16px', backgroundColor: '#18181b', border: '1px solid #27272a', borderRadius: 8, color: '#e4e4e7', fontSize: 14 }}>🔥 PyTorch</div>
     </div>
   </div>
 
@@ -114,8 +95,8 @@
   <div style={{ color: 'white', fontSize: 14, fontWeight: 600 }}>Portfolio</div>
 </div>
 ```
-```aura width=120 height=44 link="mailto:nitiniszod10@gmail.com" inline align=center
+```aura width=240 height=44 link="mailto:nitiniszod10@gmail.com" inline align=center
 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', backgroundColor: '#ea4335', borderRadius: 100, border: '1px solid #27272a', fontFamily: 'Inter, sans-serif' }}>
-  <div style={{ color: 'white', fontSize: 14, fontWeight: 600 }}>Email</div>
+  <div style={{ color: 'white', fontSize: 14, fontWeight: 600 }}>nitiniszod10@gmail.com</div>
 </div>
 ```
