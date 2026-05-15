@@ -1,0 +1,11 @@
+{
+  "name": "github-profile-readme",
+  "version": "1.0.0",
+  "description": "Dynamic GitHub Profile README",
+  "scripts": {
+    "build": "readme-aura build"
+  },
+  "devDependencies": {
+    "readme-aura": "latest"
+  }
+}
