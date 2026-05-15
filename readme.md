@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="./elusoc-ticket-nitinog10.png" width="800" alt="Nitin Mishra" />
-  <br />
-  <br />
   <img src="./b0b2fa141dcb52051079a1d24f6494f1_720w-ezgif.com-video-to-gif-converter.gif" width="800" alt="Animation" />
 </div>
 <br />
