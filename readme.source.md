@@ -356,7 +356,7 @@
 
 ```aura width=120 height=44 link="https://www.linkedin.com/in/nitinog10/" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/linkedin/white"
+  icon="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png"
   text="Linkedin"
   backgroundColor="#000000"
   width={120}
@@ -373,7 +373,7 @@
 
 ```aura width=120 height=44 link="https://github.com/nitinog10" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/github/white"
+  icon="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"
   text="GitHub"
   backgroundColor="#000000"
   width={120}
@@ -390,7 +390,7 @@
 
 ```aura width=120 height=44 link="https://x.com/nitinog10" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/x/white"
+  icon="https://img.icons8.com/ios-glyphs/30/ffffff/x.png"
   text="X.com"
   backgroundColor="#000000"
   width={120}
@@ -407,7 +407,7 @@
 
 ```aura width=110 height=44 link="mailto:contact@bugbiceps.in" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/gmail/white"
+  icon="https://img.icons8.com/ios-glyphs/30/ffffff/gmail.png"
   text="Email"
   backgroundColor="#000000"
   width={110}
@@ -418,6 +418,23 @@
     { offset: '60%', color: '#b557e8' },
     { offset: '80%', color: '#000000' },
     { offset: '100%', color: '#cc6ef9' },
+  ]}
+/>
+```
+
+```aura width=130 height=44 link="https://nitinog10.github.io" inline align=center
+<SocialMediaButton
+  icon="https://img.icons8.com/ios-glyphs/30/ffffff/globe.png"
+  text="Portfolio"
+  backgroundColor="#000000"
+  width={130}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#f43f5e' },
+    { offset: '30%', color: '#000000' },
+    { offset: '60%', color: '#fb7185' },
+    { offset: '80%', color: '#000000' },
+    { offset: '100%', color: '#fda4af' },
   ]}
 />
 ```
