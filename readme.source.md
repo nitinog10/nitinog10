@@ -354,7 +354,7 @@
 })()
 ```
 
-```aura width=120 height=44 link="https://www.linkedin.com/in/nitinog10/" inline align=center
+```aura width=120 height=44 link="https://www.linkedin.com/in/nitin-k-mishra-520615331/" inline align=center
 <SocialMediaButton
   icon="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png"
   text="Linkedin"
@@ -388,24 +388,24 @@
 />
 ```
 
-```aura width=120 height=44 link="https://x.com/nitinog10" inline align=center
+```aura width=130 height=44 link="https://discord.com/users/1356665151436099664" inline align=center
 <SocialMediaButton
-  icon="https://img.icons8.com/ios-glyphs/30/ffffff/x.png"
-  text="X.com"
+  icon="https://img.icons8.com/ios-glyphs/30/ffffff/discord-logo.png"
+  text="Discord"
   backgroundColor="#000000"
-  width={120}
+  width={130}
   height={44}
   gradientStops={[
     { offset: '0%', color: '#818cf8' },
     { offset: '30%', color: '#000000' },
-    { offset: '60%', color: '#9298f8' },
+    { offset: '60%', color: '#6366f1' },
     { offset: '80%', color: '#000000' },
-    { offset: '100%', color: '#7479f5' },
+    { offset: '100%', color: '#a5b4fc' },
   ]}
 />
 ```
 
-```aura width=110 height=44 link="mailto:contact@bugbiceps.in" inline align=center
+```aura width=110 height=44 link="mailto:nitiniszod10@gmail.com" inline align=center
 <SocialMediaButton
   icon="https://img.icons8.com/ios-glyphs/30/ffffff/gmail.png"
   text="Email"
@@ -422,7 +422,7 @@
 />
 ```
 
-```aura width=130 height=44 link="https://nitinog10.github.io" inline align=center
+```aura width=130 height=44 link="https://nitinn.dev" inline align=center
 <SocialMediaButton
   icon="https://img.icons8.com/ios-glyphs/30/ffffff/globe.png"
   text="Portfolio"
