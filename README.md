@@ -16,6 +16,6 @@
 - 🌐 Portfolio: [nitinn.dev](https://nitinn.dev)
 - 🌐 Portfolio: [nitin.vision](https://nitin.vision)
 - ✉️ Email: [nitiniszod10@gmail.com](mailto:nitiniszod10@gmail.com)
-- 💼 LinkedIn: <!-- add your LinkedIn URL -->
+- 💼 LinkedIn: [nitin-k-mishra](https://www.linkedin.com/in/nitin-k-mishra-520615331)
 
 *Fun fact: I enjoy taking messy problems and turning them into simple, intelligent systems.*
