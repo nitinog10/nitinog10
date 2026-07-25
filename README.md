@@ -7,7 +7,7 @@ class Nitin:
         return retrieve(problem) | reason() | ship()   # no demos. production.
 ```
 
-I build the layer between a language model and something people can actually use —
+I build the layer between a language model and something people can actually use.
 **retrieval that returns the right chunk, agents that know when to stop, voice that answers before you give up.**
 
 <br>
