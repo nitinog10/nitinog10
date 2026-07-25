@@ -7,22 +7,24 @@ class Nitin:
         return retrieve(problem) | reason() | ship()   # no demos. production.
 ```
 
-I build the layer between a language model and something people can actually use.
-**retrieval that returns the right chunk, agents that know when to stop, voice that answers before you give up.**
+I build the layer between a model and something people can actually use.
+**retrieval that returns the right chunk, agents that know when to stop, models tuned for the job.**
 
 <br>
 
 |     |     |
 | --- | --- |
-| `01` &nbsp;**RAG** | hybrid retrieval · reranking · eval harnesses, not vibes |
-| `02` &nbsp;**Agents** | multi-agent orchestration · tool use · guardrails that fail loudly |
-| `03` &nbsp;**Voice AI** | streaming STT → LLM → TTS · sub-second turn-taking |
-| `04` &nbsp;**Full-Stack** | the API, the pipeline, the interface — shipped end to end |
+| `01` &nbsp;**RAG & Agents** | hybrid retrieval · multi-agent orchestration · guardrails that fail loudly |
+| `02` &nbsp;**MCP Servers** | custom tools & connectors · giving models real hands |
+| `03` &nbsp;**LLM Fine-Tuning** | LoRA/PEFT · domain adaptation · evals, not vibes |
+| `04` &nbsp;**Computer Vision** | detection · OCR pipelines · vision + language systems |
+| `05` &nbsp;**Voice AI** | streaming STT → LLM → TTS · sub-second turn-taking |
+| `06` &nbsp;**Full-Stack** | the API, the pipeline, the interface — shipped end to end |
 
 <br>
 
 ```text
-stack ▸ python · fastapi · langchain-style frameworks · vector dbs · react
+stack ▸ python · pytorch · fastapi · langchain-style frameworks · vector dbs · react
 ```
 
 **[nitinn.dev](https://nitinn.dev)** · **[nitin.vision](https://nitin.vision)** · [LinkedIn](https://www.linkedin.com/in/nitin-k-mishra-520615331) · [Email](mailto:nitiniszod10@gmail.com)
