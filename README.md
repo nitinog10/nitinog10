@@ -23,8 +23,4 @@ I build the layer between a model and something people can actually use.
 
 <br>
 
-```text
-stack ▸ python · pytorch · fastapi · langchain-style frameworks · vector dbs · react
-```
-
 **[nitinn.dev](https://nitinn.dev)** · **[nitin.vision](https://nitin.vision)** · [LinkedIn](https://www.linkedin.com/in/nitin-k-mishra-520615331) · [Email](mailto:nitiniszod10@gmail.com)
