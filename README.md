@@ -11,6 +11,7 @@ I build the layer between a model and something people can actually use.
 **retrieval that returns the right chunk, agents that know when to stop, models tuned for the job.**
 
 <br>
+
 |     |     |
 | --- | --- |
 | `01` &nbsp;**RAG & Agents** | hybrid retrieval · multi-agent orchestration · guardrails that fail loudly |
