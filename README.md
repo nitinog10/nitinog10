@@ -5,8 +5,8 @@ I work on the layer between a model and something people can actually use retrie
 
 ### Building Logorhythms - the journey from a team to enterprise
  
-- **[Logorhythms Studio](https://logorhythms.studio)**-Productizing brands and firms
-- **[Docuverse](https://logorhythms.in)**- Your teams code advisor and your companies personal intelligence
+- **[Logorhythms Studio](https://logorhythms.studio)** - Productizing brands and firms
+- **[Docuverse](https://logorhythms.in)** - Your teams code advisor and your companies personal intelligence
 
 ### Elsewhere
 
