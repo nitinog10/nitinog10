@@ -1,15 +1,12 @@
 ## Nitin K. Mishra
-
 Developer, 20. Building real systems in production, getting sharper across the stack every day.
-
-I work on the layer between a model and something people can actually use — retrieval that returns the right chunk, agents that know when to stop, models tuned for the job.
+I work on the layer between a model and something people can actually use retrieval that returns the right chunk, agents that know when to stop, models tuned for the job.
 
 <br>
 
 ### Logorhythms
 
-Building [Logorhythms](https://logorhythms.studio) — turning hard AI problems into products that ship.
-
+Building [Logorhythms](https://logorhythms.studio) turning hard AI problems into products that ship.
 - **logorhythms.studio** — the studio, in progress
 - **[Docuverse](https://logorhythms.in)** — launched
 
