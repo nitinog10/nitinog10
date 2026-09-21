@@ -15,13 +15,13 @@ I work on the layer between a model and something people can actually use retrie
 
 ### Also i builded
 
-**[LedgerFlow](https://github.com/nitinog10/Claude-impact-lab-team-logorhythms.git)** — AI-assisted invoice review for Indian accounting teams.
+**[LedgerFlow](https://github.com/nitinog10/Claude-impact-lab-team-logorhythms.git)** - AI-assisted invoice review for Indian accounting teams.
 
-**[Ecovetter](https://github.com/nitinog10/Ecovetter-.git)** — an explainable, end-to-end exoplanet transit detection and vetting system.
+**[Ecovetter](https://github.com/nitinog10/Ecovetter-.git)** - an explainable, end-to-end exoplanet transit detection and vetting system.
 
-**[AirPulse](https://github.com/com-the-boys-dev/Air-Pulse-using-streamlit.git)** — a Streamlit app that analyzes current AQI across regions of the country and delivers insights with future predictions.
+**[AirPulse](https://github.com/com-the-boys-dev/Air-Pulse-using-streamlit.git)** - a Streamlit app that analyzes current AQI across regions of the country and delivers insights with future predictions.
 
-**[AtmoPredict](https://github.com/nitinog10/AtmoPredict.git)** — an intelligent weather prediction system using LSTM deep learning to forecast extreme weather conditions with NASA POWER data.
+**[AtmoPredict](https://github.com/nitinog10/AtmoPredict.git)** - an intelligent weather prediction system using LSTM DL to forecast extreme weather conditions with NASA's Power data.
 
 ---
 
