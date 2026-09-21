@@ -12,20 +12,8 @@ I work on the layer between a model and something people can actually use retrie
 
 [nitin.vision](https://nitin.vision) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nitin-k-mishra-520615331) &nbsp;·&nbsp; [Email](mailto:nitiniszod10@gmail.com) &nbsp;·&nbsp; [X](https://x.com/Nitin101_)
 
-### Tech i explored
 
-```
-nitin/
-│
-├── rag-and-agents     →  hybrid retrieval · multi-agent orchestration · guardrails that fail loudly
-├── mcp-servers        →  custom tools & connectors — giving models real hands
-├── llm-finetuning     →  LoRA / PEFT · domain adaptation · evals over vibes
-├── computer-vision    →  detection · OCR pipelines · vision + language systems
-├── voice-ai           →  streaming STT → LLM → TTS · sub-second turn-taking
-└── full-stack         →  the API, the pipeline, the interface, shipped end to end
-```
-
-### ALso i builded
+### Also i builded
 
 **[LedgerFlow](https://github.com/nitinog10/Claude-impact-lab-team-logorhythms.git)** — AI-assisted invoice review for Indian accounting teams.
 
@@ -36,5 +24,7 @@ nitin/
 **[AtmoPredict](https://github.com/nitinog10/AtmoPredict.git)** — an intelligent weather prediction system using LSTM deep learning to forecast extreme weather conditions with NASA POWER data.
 
 ---
+
+<sub>NASA Space Apps Challenge 2025 Regional Winner · OpenAI Builders Hackathon Finalist · 6× Hackathon Winner</sub>
 
 *Products before pitch decks.*
