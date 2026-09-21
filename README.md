@@ -35,8 +35,6 @@ nitin/
 
 **[AtmoPredict](https://github.com/nitinog10/AtmoPredict.git)** — an intelligent weather prediction system using LSTM deep learning to forecast extreme weather conditions with NASA POWER data.
 
-**[SonicPersona](https://github.com/nitinog10/SonicPersona.git)** — AI that learns a person's vocal identity. Fine-tunes a personalized TTS voice with LoRA adapters on XTTS-v2: converts user audio into a training set, auto-transcribes with Whisper, trains a memory-efficient adapter, and serves real-time inference through a Gradio UI.
-
 ---
 
 *Products before pitch decks.*
