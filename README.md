@@ -1,7 +1,6 @@
 ## Nitin K. Mishra
 
 Hey, I'm Nitin a 20 year old developer exploring, building, and shipping real world products across a wide range of technologies. I'm obsessed with learning, creating, and pushing my limits every single day.
-I work on the layer between a model and something people can actually use retrieval that returns the right chunk, agents that know when to stop, models tuned for the job.
 
 ### Building Logorhythms - the journey from a team to enterprise
  
